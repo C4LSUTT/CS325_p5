@@ -3,13 +3,13 @@ import os
 import time
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "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"
 
 # Define a function to analyze the sentiment of a comment
 def analyze_sentiments(comments):
     sentiments = []
     for comment in comments:
-        try:
+        try:    
             response = openai.Completion.create(
                 engine="text-davinci-003",
                 prompt=f"Analyze the sentiment of the following comment: '{comment}'",
@@ -42,14 +42,14 @@ def perform_sentiment_analysis(input_file_path, output_file_path):
 
 # List of input and output file paths
 file_paths = [
-    ("C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\processed_data_1.txt",
-     "C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\sentiment_analysis_1.txt"),
-    ("C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\processed_data_2.txt",
-     "C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\sentiment_analysis_2.txt"),
-    ("C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\processed_data_3.txt",
-     "C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\sentiment_analysis_3.txt"),
-    ("C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\processed_data_4.txt",
-     "C:\\Users\\Iammu\\OneDrive\\Desktop\\websrap3\\p4_CS325\\Data\\processed\\sentiment_analysis_4.txt")
+    ("325\\p5\\processed\\processed_data_1.txt",
+     "325\\p5\\processed\\sentiment_analysis_1.txt"),
+    ("325\\p5\\processed\\processed_data_2.txt",
+     "325\\p5\\processed\\sentiment_analysis_2.txt"),
+    ("325\\p5\\processed\\processed_data_3.txt",
+     "325\\p5\\processed\\sentiment_analysis_3.txt"),
+    ("325\\p5\\processed\\processed_data_4.txt",
+     "325\\p5\\processed\\sentiment_analysis_4.txt")
 ]
 
 # Perform sentiment analysis for each file

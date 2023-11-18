@@ -1,0 +1,33 @@
+Comment: My friend and I recently came back to CS after a long hiatus for the release of CS2. After having seen the new source 2 graphics, and how nice and shiny everything looked we fell back into the trap and wanted to get some skins. We wanted to build a themed loadout, but found current methods of previewing skins and combos cumbersome. As we enjoy and have experience building gaming-related web experiences, we wondered if it was possible to bring all skin/knife/glove/sticker combos to the browser. Because we wanted to best match the lighting and conditions of the game, we opted for actual images of the items in the game, as opposed to 3d web technologies. After much trial and error, we're happy to release [inspect.skin](https://inspect.skin) to everyone. With it you can:
+Sentiment: The sentiment of the comment is positive. The speaker is very enthusiastic about their new creation and wants to share it with others. They are excited about the potential of the product and proud of the hard work that went into creating it.
+
+Comment:   
+Sentiment: I love going to the beach
+
+Positive
+
+Comment: 
+Sentiment: What an incredible view!''
+
+The sentiment of this comment is positive.
+
+Comment:   
+Sentiment: It's hard to say without more context. Generally speaking, the sentiment of the comment is neutral.
+
+Comment: Preview all weapon/knife skins (including all available major conditions for the skin such as: BS, WW, FT, MW, FN)
+Sentiment: Neutral
+
+Comment:   
+Sentiment: I'm so proud of you
+
+Positive
+
+Comment: Preview all glove skins (as well as major conditions)
+Sentiment: The sentiment of the comment is neutral.
+
+Comment:   
+Sentiment: The comment itself does not contain any sentiment, as it is an empty string.
+
+Comment: Preview stickers on any weapon on any position
+Sentiment: This comment appears to be neutral in sentiment.
+
