@@ -15,18 +15,22 @@ If people think that this tool is useful, then we have plans to add even more fe
 Let us know if you find any bugs, or if there are any features you'd like to see added. Processed
 Yo! This is sick. Thanks for the dedication Processed
 this website runs smooth af, excellent job man! Processed
-i love you Processed
+instead of having every skin in all wears listed, i would rather like to select a skin, then select the skin wear Processed
 does this take into consideration there are different models from CSGO to CS2 and some skins have the updated models, some don't. Processed
+i love you Processed
 That looks great. Processed
 Good fucking job man nice website just tried it! Processed
+Great site and works on mobile. Is glove wear working though? Processed
 Big fan of this and am looking forward to using it often. Processed
 My man Processed
-instead of having every skin in all wears listed, i would rather like to select a skin, then select the skin wear Processed
 very great website, only thing thumbnails dont show up for me properly on chrome.
 
 edit: in incognito it works but only there Processed
 Incredible work, extremely well made, will be using this often. Processed
-Great site and works on mobile. Is glove wear working though? Processed
+Amazing site, would just like to see the older stickers added, antwerp, stockholm at least. Have a problem when searching for weapon skins as soon as I put in specific skin name the output is blank? Processed
+This was so needed Processed
+How did you make thus Processed
+I dub you hero of the community Processed
 MA DRILLA Processed
 You absolut GOD Processed
 This is such a good idea executed really well. Processed
@@ -34,30 +38,62 @@ You’re kinda based Processed
 I have been waiting for something like this, im 100% going to use this
 
 Excited to see the float and pattern select function aswell Processed
-Amazing site, would just like to see the older stickers added, antwerp, stockholm at least. Have a problem when searching for weapon skins as soon as I put in specific skin name the output is blank? Processed
 I love this, bookmarked it Processed
 This would’ve saved me $10 yesterday on stickers for my akihabara stickers yesterday. Very cool Processed
 Wow. Congrats I don't know what to say, this site is amazing. Really well done. Processed
-This was so needed Processed
 This is so dope and much needed for the community. Processed
+this is so cool i really wonder how it works at all and so fast too Processed
+Very cool! I used to experiment manually in-game with cheap stickers; now I can just preview in advance. This is tremendous work.
+
+Are certain sticker collections missing? I type in "kawaii" and should get at least 4 stickers from that, but it turns up 0. Processed
+Great work dudes, and yeah definitely worth updating and making it full with the load outs. This is neat! Processed
+Great job, can't wait to see it continue to be updated Processed
+Damn you did it in Svelte, cool and impressive! Processed
+Incredible, thanks!! Processed
+Looks awesome! We love the implementation and design of the site. Keep up the great work! Processed
+real asf for this Processed
+The site is cool, only thing i found is that if i select filters: glock-18, fieldtested(same is for mw…fn is okay), no stattrak and choose candy apple as skin it will show the default skin, but if i click on inspect weapon the skin(candy apple) will be shown. Processed
+You are a legend. Processed
+This is dope! Processed
+You dropped this 👑  King.~ On behalf of the cs community.. we appreciate this so much.. thanks you. Processed
+great job! Processed
+Thank you Processed
+This guy is a certified drilla Processed
+Thanks Brother! Processed
+Hooooly crap. Never noticed the gold watch on all the profesional agents before watching the video above. 
+
+ \-Add to basket Processed
 When ropz sticker? Processed
-where's the mag-7? Processed
-[tf2 was Four Parallel Universes Ahead Of You](https://imgflip.com/i/86eiuk) Processed
+As if nobody has done this yet, good stuff. I'm sure this will become everyone's standard go to. Processed
 What do you think of my loadout? https://inspect.skin/?loadout=EZ58lrvc3gAL3gi2l2 Processed
+great job enabling gambling addiction Processed
+[tf2 was Four Parallel Universes Ahead Of You](https://imgflip.com/i/86eiuk) Processed
+where's the mag-7? Processed
+Is it possible to add pattern indexes like fire ice, blue gems etc? Processed
 > we opted for actual images of the items in the game
 
 How did you automate the process? That's a shitton of images to capture, like at least 10 for each weapon finish? Processed
-I'll try this out later! 
-
-Does it feature how scratched stickers look? Been meaning to make a solid colour skins and scratched stickers inventory. Processed
 First things i noticed is that the search function is not that userfriendly. for example i can type "flip" and see all flip knifes but once i type "flip knife" nothing shows anymore so i cant search for "flip knife doppler" or "flip doppler" or "doppler flip" to find a specific skin easier. Also idk if i would restrict side specific weapons like that you can only find 57 if you have ct selected, for the inspect of the weapon it doesnt really matter which default gloves i have imo.   
 In addition to that, it might be better to just display the skin in the search and have a seperate menu on the bottom to change the wear and st/non st. This would clean up the search so you dont have to scroll through as many weapons (for example searching "hyper beast" would give you 4 skins in all wears and both st and non st). So just finding the 4 skins to then quickly switch through the wears on the bottom would be really nice to compare them, best if the stickers would then also still be on it.  
 Those are the things i noticed on first visit. But totally love the concept! gj Processed
+I'll try this out later! 
+
+Does it feature how scratched stickers look? Been meaning to make a solid colour skins and scratched stickers inventory. Processed
 This is amazing. I was thinking the other day, that the current system to inspect skins was insufficient. Processed
+And exact float and maybe seed Processed
+Hey thanks for the feedback!
+
+I gave an answer to someone else that said this but I forgot to mention, a key reason why we designed it the way we did is because a big use case for us was being able to create loadouts and builds within a budget so being able to easily see, sort and filter by prices was very important for us. However in the future when we add more floats and seeds it's going to have to be something we rethink. Processed
 Yep all the skins are using their correct models and have correct glove/agent positions to account for that! Processed
-I've tried to change some settings on the server, you might be cached for a little while, but I hope this fixes it for you soon. Processed
 Thank you! The gloves should all be working, were you having problems with them? Processed
+I've tried to change some settings on the server, you might be cached for a little while, but I hope this fixes it for you soon. Processed
 We're going to get all the stickers done as soon as possible. And yeah the search is very primitive at the moment, it's going to be the first thing to be improved in the next update. Processed
+Really cool to hear this is useful to you!
+
+Yeah we still have a lot of stickers to add but should be adding on average about 200 stickers a day. Processed
+Also if there are specific stickers you're looking forward to, let me know the specific ones and I'll move them to the front of queue. Processed
+Thanks so much for letting me know! I'll start working on getting that fixed right away. Processed
+I forgot to update you but both of those conditions are now fixed, again thanks for letting me know! Processed
 Let me know what ropz stickers you want and I'll put them first in the queue Processed
 You have to switch your loadout to CT in the bottom left corner on desktop, or just under the image preview on mobile. Processed
 I bet they wouldn't tell.
@@ -68,16 +104,24 @@ Not sure though where has OP acquires all of these weapon URLs for all of the di
 
 Well done anyways, this is going to be huge! Processed
 I know there’s an API for CSGOSKINS.GG that has an endpoint of images, so maybe that. Processed
-Not yet, we're still working on getting all the stickers added, then once that is done we'll start work on adding scratches. Processed
 Thank you for the feedback! 
 
 Yeah the search is very primitive right now, it's going to be one of the first things to get updated so it's more intuitive.
 
 In terms of only showing one variation of the skin and then having a separate options to change, that's something we thought about but wanted it to always just be a single click to be able to view the skin and wear you want and thought because you can use the filters to filter for the condition you want it wouldn't be that bad. But I'll definitely take your feedback into consideration when doing the next update. Processed
+Not yet, we're still working on getting all the stickers added, then once that is done we'll start work on adding scratches. Processed
+yeah, patterns are pretty important on certain skins like the webs, case hardened etc. Processed
+It feels to me like bs skins look ft. It was most clear on moto gloves for me. I compared to buff screenshots of the items, but they might also be out of sync with what is actually in the game. Processed
+Sounds great, do you think there would be any possible way to impliment scraped stickers if so this would be a game changer. Processed
+Basically just all the non-esports ones. 10th Anniversary, Community Series, crossover collaborations like Halo and Warhammer, anything like that. Processed
 Ok, thanks. [This one](https://steamcommunity.com/market/listings/730/Sticker%20%7C%20ropz%20%28Glitter%29%20%7C%20Paris%202023) . Processed
 Why not let you preview on both t and ct? you can pick it up off the enemies after all Processed
+Ok, I was wondering why I couldn't find the M4's. Like the other person said you should probably allow both sides to wear all guns. My CT side is Black and White and Black Tie Gloves, but my T side is purple with Imperial Plaids. And I wanted to test how my CT side looked with my gloves and vice versa. True, you could just switch the gloves over. But it's something to think about. Processed
 For all the different finishes and in-game pictures also? Processed
 Amazing job, thank you so much! Processed
+Had the same issue cross checked with imgame and ingame screenshots of bs look worse than the site Processed
+Yeah that's a good recommendation, I've pushed all non-esports stickers to the front of the queue. Processed
 It's live on the site now. Processed
 Not sure it was just a guess, you can read more about it on their API documentation but I’m sure there are other apis that do all that as well. Processed
+Thank you so much! Processed
 ok, gonna check it out. Processed

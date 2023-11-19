@@ -15,14 +15,18 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # Get the Reddit post URLs from the command-line arguments
-    post_urls = sys.argv[1:]
+    input_file = sys.argv[1]
 
-    # Define Reddit API credentials
-    client_id = '4iuS6Vi6nMblW8NXKFudrQ'
-    client_secret = '4kkKBJ4_rkD4Bh6ijoiAqQd1MPoTYQ'
-    user_agent = 'Maximus<red>'
+       # Define Reddit API credentials
+
+
+    with open(input_file, 'r') as file:
+        post_urls = file.read().splitlines()
 
     for index, post_url in enumerate(post_urls):  # Use enumerate to get the index
+        client_id = '4iuS6Vi6nMblW8NXKFudrQ'
+        client_secret = '4kkKBJ4_rkD4Bh6ijoiAqQd1MPoTYQ'
+        user_agent = 'Maximus<red>'
         # Get the Reddit post data using the specified URL and API credentials
         post = get_reddit_post(post_url, client_id, client_secret, user_agent)
 

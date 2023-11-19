@@ -1,0 +1,473 @@
+Comment: My friend and I recently came back to CS after a long hiatus for the release of CS2. After having seen the new source 2 graphics, and how nice and shiny everything looked we fell back into the trap and wanted to get some skins. We wanted to build a themed loadout, but found current methods of previewing skins and combos cumbersome. As we enjoy and have experience building gaming-related web experiences, we wondered if it was possible to bring all skin/knife/glove/sticker combos to the browser. Because we wanted to best match the lighting and conditions of the game, we opted for actual images of the items in the game, as opposed to 3d web technologies. After much trial and error, we're happy to release [inspect.skin](https://inspect.skin) to everyone. With it you can:
+Sentiment: This comment is overwhelmingly positive in sentiment. The author is clearly enthusiastic about the recent CS2 release and is excited to have created a product to assist with creating skin and item combinations.
+
+Comment:   
+Sentiment: That was a horrible movie
+
+Negative
+
+Comment: 
+Sentiment: This movie was such a disappointment''
+
+The sentiment of this comment is negative.
+
+Comment:   
+Sentiment: The comment has no sentiment, as it is empty.
+
+Comment: Preview all weapon/knife skins (including all available major conditions for the skin such as: BS, WW, FT, MW, FN)
+Sentiment: Neutral
+
+Comment:   
+Sentiment: That burger was the best I've ever had!
+
+Positive
+
+Comment: Preview all glove skins (as well as major conditions)
+Sentiment: Neutral
+
+Comment:   
+Sentiment: This comment does not contain any sentiment, as it is entirely comprised of whitespace.
+
+Comment: Preview stickers on any weapon on any position
+Sentiment: The sentiment of this comment is neutral.
+
+Comment:   
+Sentiment: The comment does not contain any sentiment.
+
+Comment: See the inspect state of any weapon/knife
+Sentiment: Neutral sentiment.
+
+Comment:   
+Sentiment: That was a disappointing performance
+
+Negative
+
+Comment: Create loadouts for T and CT sides
+Sentiment: Neutral
+
+Comment:   
+Sentiment: This restaurant is really disappointing
+
+Negative
+
+Comment: Share your loadout link with others
+Sentiment: The sentiment of this comment is neutral.
+
+Comment:   
+Sentiment: That was a great movie
+
+Positive
+
+Comment: More easily create a loadout within a certain budget
+Sentiment: Positive
+
+Comment:   
+Sentiment: The comment is too short to analyze.
+
+Comment: 
+Sentiment: I'm not particularly confident about the project''
+
+The sentiment of this comment is hesitant and uncertain.
+
+Comment:   
+Sentiment: This comment does not contain any words, so it is impossible to analyze the sentiment.
+
+Comment: We're currently still in the process of adding all the stickers in the game to the site, but wanted to get the site out there to see if people found it useful and whether or not we should keep working on it.
+Sentiment: The sentiment of this comment is optimistic. The comment expresses enthusiasm to see how people find the website helpful and suggests that the speaker is confident that the website is useful enough to invest more effort into it.
+
+Comment:   
+Sentiment: I love this book!
+
+Positive
+
+Comment: 
+Sentiment: I really love this movie!''
+
+The sentiment expressed in the comment is positive.
+
+Comment:   
+Sentiment: I absolutely cannot stand living in this town
+
+Negative sentiment
+
+Comment: If people think that this tool is useful, then we have plans to add even more features such as: 0.1 float increments, all pattern indexes, and all sticker scrape states.
+Sentiment: The sentiment of this comment is positive. The speaker is expressing optimism about the prospects of the tool and their plans to add more features. Their enthusiasm suggests they are confident in the tool's success and believe it will be useful.
+
+Comment:   
+Sentiment: The comment provided does not contain any sentiment.
+
+Comment: 
+Sentiment: Your product is terrible!''
+
+Negative
+
+Comment:   
+Sentiment: This product is awesome!
+
+Positive
+
+Comment: Let us know if you find any bugs, or if there are any features you'd like to see added. Processed
+Sentiment: Positive
+
+Comment: Yo! This is sick. Thanks for the dedication Processed
+Sentiment: Positive
+
+Comment: this website runs smooth af, excellent job man! Processed
+Sentiment: Positive
+
+Comment: instead of having every skin in all wears listed, i would rather like to select a skin, then select the skin wear Processed
+Sentiment: The sentiment of this comment is positive. The speaker appears to be expressing a preference for a system where they can select a skin, then select the skin wear, as opposed to the current system where every skin in all wears is listed.
+
+Comment: does this take into consideration there are different models from CSGO to CS2 and some skins have the updated models, some don't. Processed
+Sentiment: Neutral/Ambivalent
+
+Comment: i love you Processed
+Sentiment: The sentiment of the comment is overwhelmingly positive.
+
+Comment: That looks great. Processed
+Sentiment: Positive
+
+Comment: Good fucking job man nice website just tried it! Processed
+Sentiment: Positive
+
+Comment: Great site and works on mobile. Is glove wear working though? Processed
+Sentiment: The sentiment of this comment is generally positive. The individual seems pleased with the site and it's mobile-friendliness, but is wondering if there is an issue with glove wear not working.
+
+Comment: Big fan of this and am looking forward to using it often. Processed
+Sentiment: Positive
+
+Comment: My man Processed
+Sentiment: The sentiment of this comment appears to be positive.
+
+Comment: very great website, only thing thumbnails dont show up for me properly on chrome.
+Sentiment: The sentiment of this comment is generally positive. The person is praising the website as "very great," but pointing out an issue with the thumbnails not displaying properly in Chrome.
+
+Comment: 
+Sentiment: That restaurant is terrible!''
+
+Negative
+
+Comment: edit: in incognito it works but only there Processed
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: Incredible work, extremely well made, will be using this often. Processed
+Sentiment: Positive
+
+Comment: Amazing site, would just like to see the older stickers added, antwerp, stockholm at least. Have a problem when searching for weapon skins as soon as I put in specific skin name the output is blank? Processed
+Sentiment: The sentiment of this comment is generally positive. The user is pleased with the site overall and has made a few suggestions for improvement. The user is also mentioning a specific issue, but the tone is not negative or hostile.
+
+Comment: This was so needed Processed
+Sentiment: Positive
+
+Comment: How did you make thus Processed
+Sentiment: This comment appears to be neutral, as it is a question rather than an opinion or an expression of emotion.
+
+Comment: I dub you hero of the community Processed
+Sentiment: Positive
+
+Comment: MA DRILLA Processed
+Sentiment: Neutral
+
+Comment: You absolut GOD Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: This is such a good idea executed really well. Processed
+Sentiment: Positive
+
+Comment: You’re kinda based Processed
+Sentiment: Positive
+
+Comment: I have been waiting for something like this, im 100% going to use this
+Sentiment: Positive
+
+Comment: 
+Sentiment: You are a total failure!''
+
+Negative
+
+Comment: Excited to see the float and pattern select function aswell Processed
+Sentiment: Positive
+
+Comment: I love this, bookmarked it Processed
+Sentiment: Positive
+
+Comment: This would’ve saved me $10 yesterday on stickers for my akihabara stickers yesterday. Very cool Processed
+Sentiment: Positive
+
+Comment: Wow. Congrats I don't know what to say, this site is amazing. Really well done. Processed
+Sentiment: Positive sentiment
+
+Comment: This is so dope and much needed for the community. Processed
+Sentiment: Positive
+
+Comment: this is so cool i really wonder how it works at all and so fast too Processed
+Sentiment: The sentiment of the comment is positive.
+
+Comment: Very cool! I used to experiment manually in-game with cheap stickers; now I can just preview in advance. This is tremendous work.
+Sentiment: The sentiment of this comment is overwhelmingly positive. The speaker is expressing how impressed and excited they are to use the new feature, expressing admiration and gratitude for the work that went into developing it.
+
+Comment: 
+Sentiment: Such an amazing movie!''
+
+Positive sentiment
+
+Comment: Are certain sticker collections missing? I type in "kawaii" and should get at least 4 stickers from that, but it turns up 0. Processed
+Sentiment: Negative
+
+Comment: Great work dudes, and yeah definitely worth updating and making it full with the load outs. This is neat! Processed
+Sentiment: Positive
+
+Comment: Great job, can't wait to see it continue to be updated Processed
+Sentiment: Positive
+
+Comment: Damn you did it in Svelte, cool and impressive! Processed
+Sentiment: Positive
+
+Comment: Incredible, thanks!! Processed
+Sentiment: Positive
+
+Comment: Looks awesome! We love the implementation and design of the site. Keep up the great work! Processed
+Sentiment: Positive
+
+Comment: real asf for this Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: The site is cool, only thing i found is that if i select filters: glock-18, fieldtested(same is for mw…fn is okay), no stattrak and choose candy apple as skin it will show the default skin, but if i click on inspect weapon the skin(candy apple) will be shown. Processed
+Sentiment: This comment appears to be neutral in sentiment. The writer is simply describing an issue they encountered on the website, rather than making any judgment about it.
+
+Comment: You are a legend. Processed
+Sentiment: The sentiment expressed in the comment is positive.
+
+Comment: This is dope! Processed
+Sentiment: Positive
+
+Comment: You dropped this 👑  King.~ On behalf of the cs community.. we appreciate this so much.. thanks you. Processed
+Sentiment: Positive
+
+Comment: great job! Processed
+Sentiment: Positive
+
+Comment: Thank you Processed
+Sentiment: Positive
+
+Comment: This guy is a certified drilla Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: Thanks Brother! Processed
+Sentiment: Positive
+
+Comment: Hooooly crap. Never noticed the gold watch on all the profesional agents before watching the video above. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: The new phone is way too expensive.''
+
+Negative
+
+Comment:  \-Add to basket Processed
+Sentiment: Neutral
+
+Comment: When ropz sticker? Processed
+Sentiment: This comment is difficult to assign a sentiment to because it is incomplete and unclear.
+
+Comment: As if nobody has done this yet, good stuff. I'm sure this will become everyone's standard go to. Processed
+Sentiment: Positive
+
+Comment: What do you think of my loadout? https://inspect.skin/?loadout=EZ58lrvc3gAL3gi2l2 Processed
+Sentiment: The sentiment of the comment appears to be neutral. The person seems to be asking a question and providing a link to show what they have chosen. There is no indication of their opinion or feelings on the matter.
+
+Comment: great job enabling gambling addiction Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: [tf2 was Four Parallel Universes Ahead Of You](https://imgflip.com/i/86eiuk) Processed
+Sentiment: Positive
+
+Comment: where's the mag-7? Processed
+Sentiment: Neutral
+
+Comment: Is it possible to add pattern indexes like fire ice, blue gems etc? Processed
+Sentiment: It is a neutral sentiment. The comment is simply asking a question and does not contain any emotive language.
+
+Comment: > we opted for actual images of the items in the game
+Sentiment: The sentiment of this comment is positive.
+
+Comment: 
+Sentiment: The service was poor and the food was very average"
+
+Negative
+
+Comment: How did you automate the process? That's a shitton of images to capture, like at least 10 for each weapon finish? Processed
+Sentiment: The sentiment of this comment is curious and slightly overwhelmed.
+
+Comment: First things i noticed is that the search function is not that userfriendly. for example i can type "flip" and see all flip knifes but once i type "flip knife" nothing shows anymore so i cant search for "flip knife doppler" or "flip doppler" or "doppler flip" to find a specific skin easier. Also idk if i would restrict side specific weapons like that you can only find 57 if you have ct selected, for the inspect of the weapon it doesnt really matter which default gloves i have imo.   
+Sentiment: Negative. The sentiment of this comment is negative because the comment focuses on the issues with the search function and its lack of specificity.
+
+Comment: In addition to that, it might be better to just display the skin in the search and have a seperate menu on the bottom to change the wear and st/non st. This would clean up the search so you dont have to scroll through as many weapons (for example searching "hyper beast" would give you 4 skins in all wears and both st and non st). So just finding the 4 skins to then quickly switch through the wears on the bottom would be really nice to compare them, best if the stickers would then also still be on it.  
+Sentiment: The sentiment expressed in this comment is very positive and supportive. The author is offering an actionable solution to the issue being discussed, and conveying that it would be a helpful and beneficial change. They also provide a specific example to support their
+
+Comment: Those are the things i noticed on first visit. But totally love the concept! gj Processed
+Sentiment: Positive
+
+Comment: I'll try this out later! 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I'm disappointed in the result.''
+
+Negative sentiment.
+
+Comment: Does it feature how scratched stickers look? Been meaning to make a solid colour skins and scratched stickers inventory. Processed
+Sentiment: Neutral
+
+Comment: This is amazing. I was thinking the other day, that the current system to inspect skins was insufficient. Processed
+Sentiment: Positive
+
+Comment: And exact float and maybe seed Processed
+Sentiment: This comment does not express any sentiment. It is a statement describing a task or process.
+
+Comment: Hey thanks for the feedback!
+Sentiment: The sentiment of this comment is positive.
+
+Comment: 
+Sentiment: It seems like it was a great day for everyone''
+
+The sentiment expressed in the comment is positive.
+
+Comment: I gave an answer to someone else that said this but I forgot to mention, a key reason why we designed it the way we did is because a big use case for us was being able to create loadouts and builds within a budget so being able to easily see, sort and filter by prices was very important for us. However in the future when we add more floats and seeds it's going to have to be something we rethink. Processed
+Sentiment: The sentiment of this comment appears to be positive. The speaker is expressing admiration for the design of a particular product and suggesting ways to improve it in the future. They appear to appreciate the balance between budget and functionality that the product presently offers.
+
+Comment: Yep all the skins are using their correct models and have correct glove/agent positions to account for that! Processed
+Sentiment: Positive
+
+Comment: Thank you! The gloves should all be working, were you having problems with them? Processed
+Sentiment: Positive
+
+Comment: I've tried to change some settings on the server, you might be cached for a little while, but I hope this fixes it for you soon. Processed
+Sentiment: The sentiment of this comment is positive. The speaker is trying to help and appears to be hopeful that the changes will result in a successful outcome.
+
+Comment: We're going to get all the stickers done as soon as possible. And yeah the search is very primitive at the moment, it's going to be the first thing to be improved in the next update. Processed
+Sentiment: The sentiment of the comment is positive. The speaker is expressing a sense of determination to complete a task and is acknowledging an issue that needs to be improved.
+
+Comment: Really cool to hear this is useful to you!
+Sentiment: Positive
+
+Comment: 
+Sentiment: I love living in this city!''
+
+The sentiment of this comment is positive.
+
+Comment: Yeah we still have a lot of stickers to add but should be adding on average about 200 stickers a day. Processed
+Sentiment: The sentiment of this comment is positive. They are making progress and are likely happy with the rate of progress.
+
+Comment: Also if there are specific stickers you're looking forward to, let me know the specific ones and I'll move them to the front of queue. Processed
+Sentiment: The sentiment of the comment is positive. It conveys an attitude of willingness to help and suggests that the speaker is responsive to the needs of the listener.
+
+Comment: Thanks so much for letting me know! I'll start working on getting that fixed right away. Processed
+Sentiment: The sentiment of this comment is positive.
+
+Comment: I forgot to update you but both of those conditions are now fixed, again thanks for letting me know! Processed
+Sentiment: Positive
+
+Comment: Let me know what ropz stickers you want and I'll put them first in the queue Processed
+Sentiment: The sentiment of this comment is positive. It conveys a helpful attitude and a willingness to prioritize someone's request.
+
+Comment: You have to switch your loadout to CT in the bottom left corner on desktop, or just under the image preview on mobile. Processed
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: I bet they wouldn't tell.
+Sentiment: The sentiment of this comment is negative and skeptical.
+
+Comment: 
+Sentiment: I'm so disappointed in you''
+
+Negative
+
+Comment: Probably some script that goes through list of all of the different URLs that have the skins, loads them up in game and takes screenshot when it's properly loaded.
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: 
+Sentiment: That movie was quite boring.''
+
+Negative
+
+Comment: Not sure though where has OP acquires all of these weapon URLs for all of the different finishes.
+Sentiment: The sentiment of the comment is neutral.
+
+Comment: 
+Sentiment: The movie was really bad!''
+
+Negative
+
+Comment: Well done anyways, this is going to be huge! Processed
+Sentiment: Positive
+
+Comment: I know there’s an API for CSGOSKINS.GG that has an endpoint of images, so maybe that. Processed
+Sentiment: This comment is neither positive nor negative. It is simply a neutral statement providing information about the presence of an API endpoint for image retrieval.
+
+Comment: Thank you for the feedback! 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I think the company is a great choice for our investments."
+
+This comment expresses a positive sentiment towards the company, indicating that the speaker believes it is a good choice for investments.
+
+Comment: Yeah the search is very primitive right now, it's going to be one of the first things to get updated so it's more intuitive.
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: 
+Sentiment: Such a great service!''
+
+This comment is likely displaying a very positive sentiment.
+
+Comment: In terms of only showing one variation of the skin and then having a separate options to change, that's something we thought about but wanted it to always just be a single click to be able to view the skin and wear you want and thought because you can use the filters to filter for the condition you want it wouldn't be that bad. But I'll definitely take your feedback into consideration when doing the next update. Processed
+Sentiment: The sentiment of this comment can be interpreted as positive. The speaker seems to be open to taking the feedback of the listener into account and making improvements in the next update. They also seem to be understanding of their own decision to go with one
+
+Comment: Not yet, we're still working on getting all the stickers added, then once that is done we'll start work on adding scratches. Processed
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: yeah, patterns are pretty important on certain skins like the webs, case hardened etc. Processed
+Sentiment: The sentiment of this comment appears to be neutral.
+
+Comment: It feels to me like bs skins look ft. It was most clear on moto gloves for me. I compared to buff screenshots of the items, but they might also be out of sync with what is actually in the game. Processed
+Sentiment: Neutral. The comment is neither expressing a positive nor negative sentiment.
+
+Comment: Sounds great, do you think there would be any possible way to impliment scraped stickers if so this would be a game changer. Processed
+Sentiment: Positive
+
+Comment: Basically just all the non-esports ones. 10th Anniversary, Community Series, crossover collaborations like Halo and Warhammer, anything like that. Processed
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: Ok, thanks. [This one](https://steamcommunity.com/market/listings/730/Sticker%20%7C%20ropz%20%28Glitter%29%20%7C%20Paris%202023) . Processed
+Sentiment: The sentiment of this comment is neutral. The speaker has given a link to an online marketplace, indicating they are looking for something in particular but they have not expressed any emotion.
+
+Comment: Why not let you preview on both t and ct? you can pick it up off the enemies after all Processed
+Sentiment: The sentiment of this comment is neutral.
+
+Comment: Ok, I was wondering why I couldn't find the M4's. Like the other person said you should probably allow both sides to wear all guns. My CT side is Black and White and Black Tie Gloves, but my T side is purple with Imperial Plaids. And I wanted to test how my CT side looked with my gloves and vice versa. True, you could just switch the gloves over. But it's something to think about. Processed
+Sentiment: The sentiment of this comment is positive. The author is suggesting that players should be allowed to use all guns for both Counter-Terrorist and Terrorist teams. They are also expressing interest in how their different skins look together, suggesting that they
+
+Comment: For all the different finishes and in-game pictures also? Processed
+Sentiment: Neutral. This comment is not expressing a sentiment; it is simply making an observation.
+
+Comment: Amazing job, thank you so much! Processed
+Sentiment: Positive
+
+Comment: Had the same issue cross checked with imgame and ingame screenshots of bs look worse than the site Processed
+Sentiment: Neutral
+
+Comment: Yeah that's a good recommendation, I've pushed all non-esports stickers to the front of the queue. Processed
+Sentiment: Positive
+
+Comment: It's live on the site now. Processed
+Sentiment: Neutral
+
+Comment: Not sure it was just a guess, you can read more about it on their API documentation but I’m sure there are other apis that do all that as well. Processed
+Sentiment: The sentiment of the comment is neutral.
+
+Comment: Thank you so much! Processed
+Sentiment: Positive
+
+Comment: ok, gonna check it out. Processed
+Sentiment: Neutral
+
