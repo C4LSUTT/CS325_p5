@@ -1,150 +1,150 @@
 Comment: I do love Pikachu. It's really cute. I just feel a little bad for Raichu. Processed
-Sentiment: The sentiment of this comment is positive. The speaker clearly loves Pikachu and finds it cute, but also shows empathy towards Raichu.
+Sentiment: Positive
 
 Comment: There Is no other pokemon that makes a better mascot than pikachu. Processed
 Sentiment: Positive
 
 Comment: The Pokemon itself is cute, it is the excessive, oversaturating, annoying use of it that makes it very susceptible to hate.
-Sentiment: This comment has a generally positive sentiment. The speaker acknowledges that the Pokemon itself is appealing, but critiques the way it is overused and used in a repetitive and annoying way, which can lead to hate for the Pokemon.
+Sentiment: Ambivalent
 
 Comment: 
-Sentiment: I'm so angry that nothing is going right today!''
+Sentiment: I'm feeling excited!''
 
-Negative
+Positive
 
 Comment: I hate it when people who don't play games or else just think of Pikachu, as if there wasn't any other character or monster worthy of mention.
 Sentiment: Negative
 
 Comment: 
-Sentiment: I can't stand the weather today''
+Sentiment: That's amazing!
 
-Negative.
+Positive
 
 Comment: That's it. Processed
-Sentiment: The sentiment of this comment is neutral. It does not express any strong emotion or opinion.
+Sentiment: Neutral.
 
 Comment: Oversaturated Processed
-Sentiment: Negative
+Sentiment: Negative.
 
 Comment: Pichu's better Processed
 Sentiment: Positive
 
 Comment: pikachu is overrated, but i don't hate him. Processed
-Sentiment: Neutral
+Sentiment: Ambivalent.
 
 Comment: It’s just that pokemon only pays attenttion to it and all of kanto Processed
-Sentiment: The sentiment of the comment is neutral.
+Sentiment: Neutral.
 
 Comment: Pikachu is ok, but it annoys me that every generation we have to have another lazy pikachu clone that attempts to capitalize off that rat’s popularity. That’s why I’m so *eh* towards electric type because it seems like the only thing there are worse versions of pikachu Processed
-Sentiment: The sentiment of this statement is negative. The speaker expresses their annoyance with how every generation has another version of Pikachu that attempts to capitalize off of its popularity, and expresses that this is why they have a lukewarm attitude towards electric type.
+Sentiment: Disdainful
 
 Comment: Pikachu's super cute, just super overrated Processed
-Sentiment: The sentiment of this comment is slightly negative. Although the person recognizes the cuteness of Pikachu, they also criticize it for being overrated.
+Sentiment: Ambivalent.
 
 Comment: I really more hate how overused it is. You can only look at the yellow rat before you have the desire to shop for mouse traps Processed
-Sentiment: The sentiment expressed in this comment is negative. The speaker appears to be annoyed by the overuse of the yellow rat and the association between it and the desire to shop for mouse traps.
+Sentiment: Insatisfied
 
 Comment: [removed] Processed
-Sentiment: This comment does not have enough context for us to assess the sentiment of it.
+Sentiment: Neutral
 
 Comment: I used to HATE the yellow rat with a passion. Especially when I returned to Pokemon in Gen 4.
-Sentiment: Negative
+Sentiment: Antipathy
 
 Comment: 
-Sentiment: That's awesome!''
+Sentiment: This product is absolutely amazing!
 
 Positive
 
 Comment: Nowadays I am more indifferent to it. Maybe because it is so versatile even in an unevolved state. Still prefer Raichu over it though. Processed
-Sentiment: The sentiment of this comment is neutral. The author expresses indifference towards the subject while also acknowledging its versatility. There is no overt positive or negative opinion expressed by the author.
+Sentiment: Neutral.
 
 Comment: Honestly call me lame, but Pikachu is always going to be my favorite Pokémon. Going off the fact that the first Pokémon I ever played through was Pokémon Yellow, and the fact that Ritchie had a Pikachu really just stuck with me. Now in every playthrough I have a Pikachu named Sparky. He’s kind of a burden sometimes but it’s worth it Processed
-Sentiment: The sentiment of this comment is positive. The speaker expresses a strong attachment and connection to Pikachu, which has been maintained throughout their experiences with the game. They express nostalgia for their initial experience and a sense of loyalty to their Pokémon, even though
+Sentiment: Nostalgic.
 
 Comment: Great mascot. Needs more hats. Processed
 Sentiment: Positive
 
 Comment: He's a great mascot for sure. He's fine on his own, but I like Raichu a lot more. My chubby little prince Processed
-Sentiment: The sentiment of this comment is mostly positive. The speaker is expressing that the mascot is great, but they personally prefer Raichu. The positive tone is reinforced with their affectionate description of the mascot as their "chubby little prince."
-
-Comment: Love Pikachu, but holy shit is it over-marketed. Every set of merch comes with a Pikachu, causing most Pokémon to be excluded due to constant favoritism. Pikachu itself is adorable and a great character in the anime, but it’s constantly plastered onto everything. Processed
-Sentiment: This comment expresses a mixed sentiment: it speaks positively of Pikachu in terms of its adorability and presence in the anime, and reflects a certain fondness for the character. However, the comment also conveys annoyance and frustration that Pikachu is
-
-Comment: Defo the middle option for me. I like Pikachu a lot! It's a great mascot and definitely did well for the series! It does get a lot of special attention, but that's understandable. (And admittedly, a lot of it's special attention, I find pretty cool, like the Cap Pikachus, G-Max Pikachu, etc.) But saying that, it's not the most outstanding Pokemon out there, since I prefer Raichu, and generally loads of other Pokemon. So it's no favourite of mine, but it's one I definitely appreciate and have a liking to! :) Processed
-Sentiment: The sentiment expressed in this comment is positive. The speaker enjoys Pikachu but prefers Raichu, appreciates Pikachu's role as a mascot, and finds some of the special attention given to Pikachu to be cool.
-
-Comment: I mean there is always going to be haters for everything popular so I think the hate is normal and I don't think it's a bad Pokémon just that I don't like it too much Processed
-Sentiment: The sentiment of the comment is neutral. The speaker acknowledges that some people do not like the Pokemon, but is not overly critical and does not express any strong opinion of their own.
-
-Comment: I love Pikachu and it’s evolutionary line a whole lot. Pikachu is a perfect mascot for the series. Plus they’re just so cute! Processed
 Sentiment: Positive
 
+Comment: Love Pikachu, but holy shit is it over-marketed. Every set of merch comes with a Pikachu, causing most Pokémon to be excluded due to constant favoritism. Pikachu itself is adorable and a great character in the anime, but it’s constantly plastered onto everything. Processed
+Sentiment: Frustrated
+
+Comment: Defo the middle option for me. I like Pikachu a lot! It's a great mascot and definitely did well for the series! It does get a lot of special attention, but that's understandable. (And admittedly, a lot of it's special attention, I find pretty cool, like the Cap Pikachus, G-Max Pikachu, etc.) But saying that, it's not the most outstanding Pokemon out there, since I prefer Raichu, and generally loads of other Pokemon. So it's no favourite of mine, but it's one I definitely appreciate and have a liking to! :) Processed
+Sentiment: Positive
+
+Comment: I mean there is always going to be haters for everything popular so I think the hate is normal and I don't think it's a bad Pokémon just that I don't like it too much Processed
+Sentiment: "Ambivalent."
+
+Comment: I love Pikachu and it’s evolutionary line a whole lot. Pikachu is a perfect mascot for the series. Plus they’re just so cute! Processed
+Sentiment: Affectionate
+
 Comment: I'm more of the indigo league of pokemon. didn't watch the other series. I think Pikachu is pretty cool and can prove he can fight even up to a raichu Processed
-Sentiment: The sentiment of this comment is generally positive. The commenter states that they prefer the "indigo league of Pokemon" and finds Pikachu to be "pretty cool." The commenter expresses belief that Pikachu can fight up to a Raichu.
+Sentiment: Favorable.
 
 Comment: I love pikachu, I actually got introduced to Pokemon by the anime when I was really young and I always loved him. I have a lot of favourite Pokemon but he’ll always have a place in my heart because he’s one of the few pop culture characters that I’ve carried with me my whole life so far, he was always the one I’d use as an imaginary friend as a kid, and I know a lot of people write others off for saying Pikachu is their favourite, but what the heck eh? I also main him in smash bros. It’s all personal preference so I don’t get why anyone cares too much. Processed
-Sentiment: The sentiment in this comment is quite positive. The speaker expresses a deep fondness for Pikachu and explains that they have carried this creature with them for their whole life. They also acknowledge that while others may think their preference is silly, they believe
+Sentiment: Adoration.
 
 Comment: I don't like Pikachu because of it's behaviour in anime. It behaves just like loli, which makes me almost in every scene of his sick. Also I think he has too much attention in the universe, where you can find tens or hundreds of pokemons, which are much more interesting. But that's PoV of super new person. Processed
-Sentiment: The sentiment of this comment is negative. The speaker does not like Pikachu and finds its behavior in anime repulsive. They also think that the character gets too much attention compared to the other Pokémon.
+Sentiment: Negative
 
 Comment: It is a good mascot, but super overrated. Almost more overrated as charizard. ALMOST. nothing is more overrated then Charizard Processed
-Sentiment: The sentiment of this comment can be interpreted as being slightly negative. The commenter implies that the mascot is good but too highly praised, and that nothing is more highly praised than Charizard.
+Sentiment: Mixed.
 
 Comment: Pikachu is cool I love raichu definitely one of my favourites, the people who hate Pikachu for the most part just want to be "edgy and original" because "Pikachu is to mainstream" it's the hipster mentality, and then there are the ones who are genuinely sick of Pikachu being shoved down your throat but I'd argue wouldn't you just get sick of pokemon in general not that specific 1, that argument holds for the people who hate the Pikachu "clones" wouldn't you hate the clones not the OG? ah well. Processed
-Sentiment: The sentiment of this comment is positive. The commenter explains that, although there are people that dislike Pikachu, for the most part they just want to seem different and cool, whereas people who genuinely don't like Pikachu may not even dislike Pokemon in
+Sentiment: Positive
 
 Comment: I honestly think Charmander should have been the mascot. Processed
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive
 
 Comment: [deleted] Processed
-Sentiment: Neutral.
+Sentiment: Neutral
 
 Comment: It’s adorable, but I think Raichu and it’s Alolan Form would make a bit better mascots for the sole factor of being fully evolved. Processed
-Sentiment: The sentiment of this comment is neutral. They are expressing a preference for Raichu and its Alolan form over whatever mascot was mentioned, but they don't seem to be too emotional about it.
+Sentiment: Positive
 
 Comment: It's a neat Pokémon but I honestly prefer Raichu and almost all of the pikaclones (minus Emolga and Dedenne) over it Processed
-Sentiment: The sentiment in this comment is neutral. The speaker is expressing their opinion without strong positive or negative emotion.
+Sentiment: Neutral.
 
 Comment: I don’t hate Pikachu. I’m just sort of tired of it, and the endless waves of pointless imitators it’s inspired. (Emolga is cool though)
-Sentiment: The sentiment expressed in the comment is neutral. The speaker is expressing disinterest in Pikachu while also expressing admiration for Emolga.
+Sentiment: Neutral
 
 Comment: 
-Sentiment: I'm so disappointed in the product''
+Sentiment: I'm so excited for this!''
 
-The sentiment in this comment is negative.
+Positive
 
 Comment: I also prefer round, chubby Pikachu to the new, sporty looking one. >_> Processed
-Sentiment: The sentiment in this comment is positive.
+Sentiment: Content
 
 Comment: Don't care for Pikachu but don't hate him always loved raichu more Processed
-Sentiment: This comment has a neutral sentiment. The speaker expresses that they do not have strong feelings either way about Pikachu, but that they particularly prefer Raichu.
+Sentiment: Neutral.
 
 Comment: The way that it’s been shoved down our throats for eight generations now is what made me hate it. I didn’t use to mind it so much but now I roll my eyes whenever I see Pikachu. Pichu and Raichu are fine though. It’s just Pikachu that I can’t stand. Processed
-Sentiment: Negative sentiment. The comment expresses dislike and unhappiness with Pokemon in general and Pikachu specifically. The speaker also expresses feelings of exasperation and exasperated eye-rolling.
+Sentiment: Detest
 
 Comment: Amazing mascot...not so hot in game in recent years.
-Sentiment: The sentiment of this comment is generally positive, though with a hint of disappointment.
+Sentiment: Mixed.
 
 Comment: 
-Sentiment: That movie was such a letdown''
+Sentiment: The movie was okay, but I was not impressed
 
-Negative
+Mediocre.
 
 Comment: But pikachu is the one and only mascot. Processed
 Sentiment: Positive
 
 Comment: It’s a good mascot for the series and I like it, but it’s not one of my favourite Pokémon overall Processed
-Sentiment: The sentiment of the comment is somewhat positive. The speaker appreciates the mascot but does not think it is one of their favourites overall.
+Sentiment: Positive.
 
 Comment: I’m kinda partial :) Processed
-Sentiment: Positive sentiment.
+Sentiment: Positive
 
 Comment: Pikachu is a really good mascot, but as a kid I was always annoyed that Ash didn’t evolve him because I thought Raichu looked cooler. Not evolving Pikachu is actually 100% of the reason I haven’t played Pokémon Let’s go Pikachu or Eevee, it would just feel weird to have a team of big strong pokémon like Blastoise, Charizard, Venusaur and then a cute little yellow/brown guy like Pikachu or Eevee Processed
-Sentiment: The sentiment expressed in this comment is neutral. The speaker acknowledges the appeal of Pikachu as a mascot, but expresses disappointment that Ash did not evolve him. They also express a reluctance to play certain Pokémon games due to not having a team of stronger
+Sentiment: Disapproving
 
 Comment: Alolan Raichu 😎 >>>>>> Pikachu Processed
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive
 
 Comment: I like it. Think it definitely makes sense as the mascot. Still more of a Raichu guy tho (any form, also give us a mega Raichu based on Gorochu if and when megas come back please and thanks). Processed
 Sentiment: Positive
@@ -153,10 +153,10 @@ Comment: Can't really hate Pikachu since it evolves into Raichu Processed
 Sentiment: Positive
 
 Comment: Pikechu is a pretty good mascot, but if it wasn't the mascot it would probably be forgotten. Processed
-Sentiment: The sentiment of this comment is somewhat negative. Although the speaker recognizes that Pikechu is "pretty good," they suggest that it's only memorable because it serves as the mascot and that otherwise, it would be forgotten.
+Sentiment: Negative
 
 Comment: I love Pikachu, but I'm never gonna use one without planning to evolve it. In every party I've had a pikachu the little bastard gets one hit KOed all the time Processed
-Sentiment: The sentiment of this comment is positive. The speaker loves Pikachu, but they also accept the hard truth that without planning to evolve them, a Pikachu is unlikely to be successful in battle.
+Sentiment: Mixed.
 
 Comment: [deleted] Processed
 Sentiment: Neutral.
@@ -165,311 +165,311 @@ Comment: Unironically love Pikachu. In my top 3 favorite gen 1 mons I would say.
 Sentiment: Positive
 
 Comment: raichu gets left in the dust because of it, so idk Processed
-Sentiment: Neutral
-
-Comment: It's way too overrated. Just like charizard and mewtwo Processed
 Sentiment: Negative
 
+Comment: It's way too overrated. Just like charizard and mewtwo Processed
+Sentiment: Negative.
+
 Comment: People are fine with pikachu but just can’t accept that game freak is making charizard the secondary mascot Processed
-Sentiment: The sentiment of this comment is neutral. The comment acknowledges that people are accepting of Pikachu, but expresses an opinion that Charizard should be the secondary mascot.
+Sentiment: Ambivalent
 
 Comment: Honestly I don't care, I'll be fine unless Floatzel gets hated Processed
-Sentiment: The sentiment expressed in this comment is apathy.
+Sentiment: Indifferent.
 
 Comment: Mimikyu is better Processed
 Sentiment: Positive
 
 Comment: Homie ppl don’t hate pikachu or should hate it (we should hate charizard) even thou it’s not on my top 100 favourite Pkmn it’s ideal and perfect for Pokémon Processed
-Sentiment: Positive. The speaker is expressing that they think Pikachu is ideal and perfect for Pokémon and that people shouldn't hate it, even though it is not their favorite Pokemon.
+Sentiment: Affectionate.
 
 Comment: Funny little mouse guy Processed
 Sentiment: Positive
 
 Comment: Pretty indifferent. No reason to be upset that the thing that represents the brand continues to represent the brand. Seems as odd as being upset that McDonald's still has the golden arches.
-Sentiment: The sentiment of this comment is neutral. The speaker is neither positive nor negative in their opinion about the brand continuing to represent the brand.
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: I am so excited to go visit the beach tomorrow''
+Sentiment: That's a great article.''
 
-The sentiment of the comment is overwhelmingly positive.
+Positive
 
 Comment: Only thing that would make me hate Pikachu is if they stuck one in my party and wouldn't let me box it. Processed
-Sentiment: Neutral
+Sentiment: Frustrated.
 
 Comment: Its cute, its electric, its overrated, but i love raichu, alolan even more. Processed
-Sentiment: Neutral
+Sentiment: Mixed.
 
 Comment: The reason I have any negative feelings at all towards pikachu is because I feel the pikachu used as a mascot of pokemon is a worse design than the pikachu in the manga - specifically, Red's pikachu and Yellow's pikachu Processed
-Sentiment: The sentiment of the comment is neutral. The speaker expresses frustration with the design of the mascot pikachu, but does not express any negative opinions about the character itself.
+Sentiment: Resentful.
 
 Comment: My first question...who hates Pikachu....? Processed
-Sentiment: The sentiment of this comment is neutral. The comment does not express any emotion or opinion.
+Sentiment: Confused.
 
 Comment: Pikachu is a great mascot and I don’t think any other Pokemon should replace him, but he isn’t the best Pokemon in the world. Processed
-Sentiment: The sentiment in this comment is positive. The speaker has a positive opinion of Pikachu as the mascot and expresses their desire for Pikachu to remain the mascot. However, they also qualify their opinion by acknowledging that Pikachu is not the best overall Pokemon in
+Sentiment: Praising
 
 Comment: Taking into account that pikachu was one of the first electric type Pokémon introduced into the anime it’s bubbly personality really caught the attention of kids and adults alike. Also the fact that electric types
-Sentiment: The sentiment of the comment is positive.
+Sentiment: Positive
 
 Comment: Only have one weakness (ground) makes it so much more appealing to have on a team. Processed
 Sentiment: Positive
 
 Comment: At least pikachu isn't Eevee. Processed
-Sentiment: The sentiment of this comment appears to be neutral.
+Sentiment: Negative
 
 Comment: Pretty much perfect for the face of the franchise.
-Sentiment: Positive sentiment
-
-Comment: 
-Sentiment: This is a great product''
-
-Positive
-
-Comment: My only issue with it is by existing Raichu will forever be irrelevant in GameFreaks eyes.
-Sentiment: The sentiment of this comment is negative or pessimistic.
-
-Comment: 
-Sentiment: I was very disappointed with the movie''
-
-The sentiment of this comment is negative.
-
-Comment: Alolan Raichu was a mistake and only happened so Pikachu could be a part of the new regional variant gimmick without being changed itself. Processed
-Sentiment: Negative sentiment
-
-Comment: Pikachu is a great mascot imo. There are a lot of other Pokémon that would also work, but Pikachu is simple enough to be iconic and memorable. Bright yellow cute thing with red circle cheeks. Easy to draw, easy to recognize, etc. He works! Also he’s cute how tf would someone not like Pikachu. R U GUYS JEALOUS OF PIKACHU HMMMMM Processed
-Sentiment: The sentiment of this comment is positive. The speaker expresses their appreciation and fondness of the mascot, Pikachu, and defends it against any potential detractors.
-
-Comment: I just dont like how many there are and how exclusive some of those variants are. I get why its like that, I just dont like it. Have the same problem with agumon and omnimon from digimon. Processed
-Sentiment: The sentiment of the comment is negative. The person does not like the amount of variants or the exclusivity, and expresses understanding of why it is that way, but does not like it nonetheless.
-
-Comment: One thing that i think makes Pikachu so brilliant as a mascot is that it’s very gender-neutral. It’s yellow, a color which is not viewed as particularly “boyish” or “girly”, and it’s both small and fuzzy while also very powerful, making it look entirely at home in scenes where it’s being cute and cuddly *and* in scenes where it’s kicking ass with aggressive electric shocks. Obviously most adults don’t quite care so much, but a lot of children can get very wrapped up in whether something is “for boys” or “for girls”, so giving a kid-focused franchise a non-gendered mascot was a very smart move. Processed
 Sentiment: Positive
 
-Comment: Cute, I get excited whenever I see it on anything but it’s definitely not my favorite or even top 10 Processed
-Sentiment: The sentiment of this comment is generally positive. The speaker likes the item and gets excited when they see it, but acknowledges that it is not among their favorite things.
+Comment: 
+Sentiment: I am so excited for our upcoming vacation
 
-Comment: Pikachu as a mascot if fine, it checks all the boxes it needs to. I just... Like Pichu a lot more I guess? And Raichu is, well, Raichu, abandonned by all. At least Galarian Raichu is cooler than Fat Orange Pikachu. Processed
-Sentiment: The sentiment of this comment is positive, leaning towards being emotionally neutral. The speaker acknowledges that Pikachu fulfills all the necessary requirements and agrees that Pichu and Raichu are appealing in their own right. The speaker also expresses admiration for
+Excited.
 
-Comment: Well, let's begin
-Sentiment: The sentiment of this comment is positive. It expresses a readiness to start something new.
+Comment: My only issue with it is by existing Raichu will forever be irrelevant in GameFreaks eyes.
+Sentiment: Negative
 
 Comment: 
-Sentiment: You are terrible!''
+Sentiment: This article is awful.''
+
+Negative.
+
+Comment: Alolan Raichu was a mistake and only happened so Pikachu could be a part of the new regional variant gimmick without being changed itself. Processed
+Sentiment: Negative
+
+Comment: Pikachu is a great mascot imo. There are a lot of other Pokémon that would also work, but Pikachu is simple enough to be iconic and memorable. Bright yellow cute thing with red circle cheeks. Easy to draw, easy to recognize, etc. He works! Also he’s cute how tf would someone not like Pikachu. R U GUYS JEALOUS OF PIKACHU HMMMMM Processed
+Sentiment: Positive
+
+Comment: I just dont like how many there are and how exclusive some of those variants are. I get why its like that, I just dont like it. Have the same problem with agumon and omnimon from digimon. Processed
+Sentiment: Mixed.
+
+Comment: One thing that i think makes Pikachu so brilliant as a mascot is that it’s very gender-neutral. It’s yellow, a color which is not viewed as particularly “boyish” or “girly”, and it’s both small and fuzzy while also very powerful, making it look entirely at home in scenes where it’s being cute and cuddly *and* in scenes where it’s kicking ass with aggressive electric shocks. Obviously most adults don’t quite care so much, but a lot of children can get very wrapped up in whether something is “for boys” or “for girls”, so giving a kid-focused franchise a non-gendered mascot was a very smart move. Processed
+Sentiment: Positive.
+
+Comment: Cute, I get excited whenever I see it on anything but it’s definitely not my favorite or even top 10 Processed
+Sentiment: Mixed.
+
+Comment: Pikachu as a mascot if fine, it checks all the boxes it needs to. I just... Like Pichu a lot more I guess? And Raichu is, well, Raichu, abandonned by all. At least Galarian Raichu is cooler than Fat Orange Pikachu. Processed
+Sentiment: Positive.
+
+Comment: Well, let's begin
+Sentiment: Positive
+
+Comment: 
+Sentiment: That movie was absolutely terrible.''
 
 Negative
 
 Comment: 1. Pikachu is mediocre in the games, even in Pokémon Yellow where he's the obligatory starter. And to make things worse you can't even evolve it to Raichu;
-Sentiment: Negative sentiment.
+Sentiment: Negative.
 
 Comment: 2. Many people, myself included, think his cuteness worn off with the overexposition and commercial saturation and became lame and annoying a long time ago;
-Sentiment: The sentiment of this comment is generally negative.
+Sentiment: Negative
 
 Comment: 
-Sentiment: What a disgusting steak!''
+Sentiment: That's pretty cool!
 
-Negative
+Positive
 
 Comment: 2b. Which leads to all pikaclones who are hated for the same reason, kawaii appeal to sell merch, and made worse by them being knock-offs of a design we're already tired of;
-Sentiment: Neutral/Negative
+Sentiment: Negative
 
 Comment: 
-Sentiment: I love this product!''
+Sentiment: That was a great movie!''
 
 Positive
 
 Comment: 3. Anime Pikachu is stupidly overpowered even for Ash's standard, and is often sadistic, malicious and mean-spirited, specially towards Meowth. Cats being abused in cartoons grinds my gears since I was a kid, that's why I always despised Tweety and Jerry. I love Meowth, Pikachu can choke;
-Sentiment: Negative sentiment.
+Sentiment: Negative.
 
 Comment: 
-Sentiment: That outfit look really nice on you.''
+Sentiment: I absolutely adore this product.''
 
-The sentiment of this comment is positive.
+Positive
 
 Comment: 4. Pikachu and Charizard take too much of the spotlight and it's frustrating as hell when your favorite Pokémon doesn't have goodies for it, or is dexed out from a game, you feel cheated by the yellow rat. Processed
-Sentiment: Negative
+Sentiment: Inequitable.
 
 Comment: I like pikachu a lot!He is a very cool and cute Pokémon,and he is good mascot.He is not very strong…unless he has light ball.One nasty plot and agility and you sweeped.But i still think raichu needs to get more attention too! Processed
-Sentiment: The sentiment of this comment is overwhelmingly positive. The speaker clearly expresses fondness and admiration for Pikachu, calling him "cool and cute", and is excited about his strength when equipped with the light ball. The only hint of negativity in the comment
+Sentiment: Positive
 
 Comment: Yea poor raichu, there was pokedex entry in moon or ultra moon that talks about how its rare to see raichu because everyone loves pikachu and that made me real sad :( Processed
-Sentiment: The sentiment expressed in this comment appears to be sadness. The author is expressing sympathy for Raichu, suggesting that it is unfairly disregarded due to the popularity of Pikachu.
+Sentiment: Sad
 
 Comment: I agree! Processed
 Sentiment: Positive
 
 Comment: Trubbish would've been a great mascot for SwSh^^^I ^^^kid^, ^^^I ^^^actually ^^^like ^^^gen ^^^8 Processed
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positve
 
 Comment: I looked through all the gen 1 Pokémon (since those would be the only available ones for a mascot) and, aside from the obvious Eevee and *maybe* Meowth, the best I can see is Arcanine. Idk why Arcanine, but... yeah. Having a traditional starter be the mascot is super unfair to the other two so they’re out of the picture. Mew is a maybe. 
-Sentiment: This comment expresses a sentiment of frustration with the lack of choices of Pokémon for a mascot, particularly from the original generation. The comment also expresses regret at the impossibility of having the traditional starters as a mascot, consequently, ruling them out as an
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: You are an amazing person!''
+Sentiment: The customer service at this store is unbelievably terrible.''
 
-The sentiment of the comment is positive.
+Negative.
 
 Comment: Honestly, Pikachu just *is* the best option for a mascot. Processed
 Sentiment: Positive
 
 Comment: I always thought eevee the evolution pokemon was the perfect symbol of the series. Had more significance than Pikachu in a lot of places. Pikachu is really cute and I think the fact that they chose eevee and Pikachu for the let's go games was the best choice. Processed
-Sentiment: The sentiment expressed in this comment is positive. The speaker expresses admiration for Eevee as the perfect symbol of the Pokemon series, claiming that it has more significance than Pikachu. They also express appreciation for the choice of Eevee and Pikachu
+Sentiment: Positive
 
 Comment: I agree with this. Even as a Gen 1 kid during the Pokemon craze, I was getting REAL tired of seeing Pikachu everywhere. So you could have imagined how I felt as a dumb kid with no regular internet access when I picked Yellow and realized I'd be FORCED to have Pikachu as a starter. Especially after having Eevee swiped from right in front of me (I really wanted it and seeing Jolteon nearly made me cry). I hated the little rat just as much as it hated me at the start of my first run. Journey somehow made fast friends of us and while there's no way to transfer mons from Gameboy games, it lives on in spirit as an Alolan Raichu now.
-Sentiment: The sentiment expressed in this comment is one of nostalgia and fondness. Despite having negative memories of Pikachu at the beginning of the speaker's journey, the speaker ultimately speaks fondly of Pikachu and reveals that their relationship has been "healed"
+Sentiment: Empathetic.
 
 Comment: 
-Sentiment: I feel like I have been let down by my friend''
+Sentiment: This store is awesome!''
 
-Negative
+Positive.
 
 Comment: I still think it's an excellent mascot, though. Processed
-Sentiment: The sentiment in the comment is positive.
+Sentiment: Positive.
 
 Comment: I like it, but i appreciate pikachu and both raichu's more... im just not a fan of baby pokemon in general 😅 Processed
-Sentiment: The sentiment of the comment is slightly negative. Although they like the mentioned subject, the speaker is expressing a clear preference for Pikachu and both Raichu's over the "baby Pokemon" and is candidly expressing that they are not a fan
+Sentiment: Ambivalent.
 
 Comment: I feel like this is an issue regarding kanto, of course pikachu will get focus because its the mascot, the kanto pandering is to much (coming from a day 1 fan which says a lot!) Processed
-Sentiment: It appears that the sentiment of this comment is negative, as the user expresses frustration with "Kanto pandering." They are implying that Kanto, which includes the mascot Pikachu, is receiving too much attention, implying dissatisfaction with the trend.
+Sentiment: Frustrated.
 
 Comment: Almost every Pikachu clone exceeds Pikachu in something Imo (not counting Plusle and Minun), also I think that Morpeko is quite original since we never had before a Electric/Dark type pokemon Processed
-Sentiment: The sentiment of the comment is positive. The speaker proposes that many Pikachu clones surpass Pikachu and holds Morpeko in high regard for being an original Electric/Dark type Pokemon.
+Sentiment: Optimistic.
 
 Comment: Mimikyu's pretty cool, though Processed
 Sentiment: Positive
 
 Comment: Oh no please dont kill the guy 🤣 Processed
-Sentiment: The sentiment of this comment could be interpreted as amused.
+Sentiment: Amused.
 
 Comment: Lightball makes it usable ingame, ive done it and had no issues! as for competitive i dont really play so i cant say anything on that! Processed
-Sentiment: This comment has a very positive sentiment. The speaker clearly has a positive experience and opinion about the product, indicating they find it usable and useful. They also express no negative opinion about the product being used in competitive play, suggesting it can be
+Sentiment: Positive.
 
 Comment: I'm surprised they didn't just give it Speed Boost. Processed
-Sentiment: The sentiment of this comment is neutral.
+Sentiment: Disappointed.
 
 Comment: Any reason why you hated it? Processed
-Sentiment: The sentiment of this comment is neutral. It is not expressing a positive or negative sentiment, instead it is asking a question.
+Sentiment: Skeptical.
 
 Comment: Too true! Processed
-Sentiment: Positive
+Sentiment: Agreeable.
 
 Comment: Very well said! Processed
 Sentiment: Positive
 
 Comment: "Pikachu is like a loli" is a take that I didn't expect to be seeing today. Processed
-Sentiment: The sentiment of this comment is neutral. The speaker does not overtly express any emotions in their statement.
+Sentiment: Surprised
 
 Comment: Yeah pikachu clones make no sense to me, they could scrap them all and just plop pikachu in every game 😅 Processed
-Sentiment: The sentiment of the comment seems to be sarcastic. The speaker seems to be suggesting that using Pikachu as a clone in different games is an unnecessary and silly idea.
+Sentiment: Sarcastic
 
 Comment: I dont think they could have picked a starter tbh Processed
-Sentiment: The sentiment expressed in this comment is neutral.
+Sentiment: Neutral.
 
 Comment: No, not trolling! And i wish i could be 13 again 🤣 why would you think that? Processed
-Sentiment: The sentiment of this comment is neutral. The speaker is denying that they are trolling, which suggests that they are being sincere rather than trying to be intentionally disruptive. They express nostalgia for being 13, which is a sentiment that is often associated with
+Sentiment: Sarcastic.
 
 Comment: I love this idea too, i feel like the only thing pikachu has on them is its color scheme, which is better then the brown raichu is rocking imo Processed
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive
 
 Comment: Yeah its starting to look like the posts ive seen were a vocal minority vs the community's actual opinion! Processed
 Sentiment: Positive
 
 Comment: The inspiration behind this post was me noticing an astonishing amount if posts over the years about how pikachu sucks or should be replaced... i thought the notion was crazy so i decided to get a grasp on the communities opinion through a poll! Clearly i was just seeing the vocal minority vs the actual majority Processed
-Sentiment: The sentiment of this comment is positive. The speaker expresses surprise and disbelief at the idea that Pikachu should be replaced, and they decided to try to get a better understanding of the community opinion. They also seem confident that the vocal minority does not
-
-Comment: LOL honestly they might be 🤣 Processed
 Sentiment: Positive
 
+Comment: LOL honestly they might be 🤣 Processed
+Sentiment: Amused.
+
 Comment: For sure, if they had gone with clefairy like originally intended, things may have not panned out so well as it can be viewed as "feminine" out here in the west! Pikachu was definitely a perfect mix for young boys and girls alike! Processed
-Sentiment: The sentiment of the comment is positive. The speaker is expressing approval of the decision to use Pikachu instead of Clefairy, which can be viewed as more "feminine" in the West. They are suggesting that Pikachu was a great choice
+Sentiment: Positive
 
 Comment: Damn, GF breaking the 4th wall just to shit on Raichu more :( Processed
-Sentiment: Negative
+Sentiment: Poor.
 
 Comment: Funny garbador is the only gmax that's not from gen 1or8 Processed
-Sentiment: Neutral
+Sentiment: Positive
 
 Comment: But the mascot would have to be from gen 1 because their wouldn't be a mascot for years. Processed
 Sentiment: Neutral
 
 Comment: Some of the dev talks and interviews and such over the years seem to point to them initially wanting Clefairy to be the mascot. Funny because eventually it wasn't even as popular as other Normal (later Fairy) Gen 1 types like Jigglypuff and Chansey. Processed
-Sentiment: Neutral. The sentiment of the comment does not seem to indicate a particularly strong opinion in any direction; it simply states an observation without a distinct emotional reaction.
+Sentiment: Ambivalent.
 
 Comment: It is and it isn't. It only evolves through special (non-level up) means so I could see how it might be misleading to new players if they think every pokemon needs special circumstances to evolve. Processed
-Sentiment: Neutral. The comment does not express a strong opinion, but rather highlights the complexity of the topic.
+Sentiment: Ambiguous.
 
 Comment: Eevee looks too normal to represent the franchise though. Processed
 Sentiment: Negative
 
 Comment: You could bring your save file to the Virtual Console version and then bring it to Bank, but that requires a hacked 3DS. Processed
-Sentiment: Neutral
-
-Comment: Same. I know the Pichu fans will hate me for this and I deserve it (I'm sorry), but I'd rather have gotter Gorochu back in Gen 2 than Pichu. Processed
 Sentiment: Neutral.
 
+Comment: Same. I know the Pichu fans will hate me for this and I deserve it (I'm sorry), but I'd rather have gotter Gorochu back in Gen 2 than Pichu. Processed
+Sentiment: Regretful.
+
 Comment: They did my boy luxray dirty with that one. Hope they give luxray sonething to make him better in the next games Processed
-Sentiment: Negative
+Sentiment: Angry.
 
 Comment: Maybe because I thought it was was just a regular Pokemon given rock star status. 
-Sentiment: Neutral
+Sentiment: Ambivalent.
 
 Comment: 
-Sentiment: I love this phone so much!''
+Sentiment: This is a great product
 
 Positive
 
 Comment: Whenever someone not familiar with Pokemon would instantly recognise Pikachu. Despite there being other mascot Pokemon. 
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive
 
 Comment: 
-Sentiment: The product is really great''.
+Sentiment: I absolutely loathe going outside in the winter."
 
-Positive sentiment
+Negative
 
 Comment: This was back before Pokemon like Charizard and Mewtwo got 2 mega evolutions. Processed
-Sentiment: The sentiment of this comment is nostalgic.
+Sentiment: Nostalgic
 
 Comment: A part of me needs an explanation to understand, but the rest of me doesn't want to know. Processed
-Sentiment: The sentiment of this comment is ambivalent. The speaker seems to be conflicted in their feelings, unsure and uncertain of how to process the situation.
+Sentiment: Ambivalent.
 
 Comment: But Pikachu IS a starter. 😒 Processed
-Sentiment: Negative
+Sentiment: Dissatisfied.
 
 Comment: Even when they FINALLY did something for Raichu on the 20th anniversary with an Alolan form, they still shit on it. They refused to give it surf in the region where the sport was born and basically called it a poser in the dex entries. Processed
-Sentiment: Negative
+Sentiment: Fuming.
 
 Comment: I know :( Processed
-Sentiment: The sentiment expressed in this comment is one of sadness and disappointment.
+Sentiment: Sorrowful.
 
 Comment: Pikachu only evolves through the Thunder Stone, so that's kind of a moot point. Processed
 Sentiment: Neutral
 
 Comment: Yeah, I know. Just meant in the legitimate way. I was also one of those kids who didn't know his Pokemon were on a timer set by the game's internal battery and they live on in my memories now. Processed
-Sentiment: The sentiment in the comment is nostalgic and bittersweet.
+Sentiment: Nostalgic.
 
 Comment: LOL me too 🤣 but i also main pichu in smash so its a 50/50 for me Processed
-Sentiment: The sentiment of this comment is positive. It shows that the speaker both enjoys the topic under discussion and is also lighthearted and looking for an upbeat interaction with the other commentators.
+Sentiment: Humorous.
 
 Comment: Marill should have been a split Pikachu evolution, I will hold this opinion to my grave. Give us Pikablu dammit! Processed
-Sentiment: The sentiment of this comment is disappointment.
+Sentiment: Adament.
 
 Comment: I also though that Luxray is partially Dark type, but according to it's Latin part of the name it's associated with light instead, but I agree with you, I think Luxray deserved a mega evolution Processed
-Sentiment: The sentiment expressed in this comment is positive. The speaker agrees with the opinion of the other person and has an appreciation for Luxray. They also appear to be interested in learning more about Luxray's relationship to light and dark type elements.
+Sentiment: Positive
 
 Comment: There's nothing Dark about its lore though other than I guess some people thinking it looks edgy? Processed
-Sentiment: The sentiment expressed in this comment is neutral.
+Sentiment: Neutral
 
 Comment: Yeah but he became one because of the anime's popularity, not because he was intended to be one, before the anime he was just a pokemon like any other one Processed
-Sentiment: The sentiment of this comment appears to be neutral. The speaker is making an observation about the popularity of the anime and how it has led to the character being seen in a different way.
+Sentiment: Ambivalent.
 
 Comment: That’s BECAUSE he’s the mascot Processed
-Sentiment: The sentiment of the comment appears to be negative or dismissive.
+Sentiment: Sarcastic
 
 Comment: it even stands on its' own tail like a surfboard :( Processed
-Sentiment: The sentiment of this comment is negative.
+Sentiment: Sad.
 
 Comment: Yes, but the argument they were making for Eevee as mascot is that it specifically best represents evolution, which they believe to be the core aspect of the franchise. Pikachu was not chosen as mascot due to anything to do with evolution. In fact the anime specifically contradicts that with the whole 'love every pokemon, even weak ones who can't/don't want to evolve' message. Processed
-Sentiment: The sentiment of this comment is neutral. The speaker does not express any strong opinion, but rather presents a factually accurate explanation of why Pikachu was not chosen as the mascot, and the reason behind why Eevee was chosen instead.
+Sentiment: Objective.
 
 Comment: Oh, that sucks. Processed
 Sentiment: Negative
@@ -478,54 +478,54 @@ Comment: /u/jcdz77, I have found an error in your comment:
 Sentiment: Neutral.
 
 Comment: 
-Sentiment: This product is the best thing since sliced bread!''
+Sentiment: I am so excited to witness this event!
 
-The sentiment of this comment is overwhelmingly positive.
+Positive
 
 Comment:  > “smash so ~~its~~ [**it's**] a 50”
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive
 
 Comment: 
-Sentiment: I love going to the park''
+Sentiment: That movie was rubbish!
 
-Positive
+Negative.
 
 Comment: It might be better if you, jcdz77, had posted “smash so ~~its~~ [**it's**] a 50” instead. ‘Its’ is possessive; ‘it's’ means ‘it is’ or ‘it has’.
-Sentiment: Neutral
+Sentiment: Helpful.
 
 Comment: 
-Sentiment: I am so excited to get this project finished!''
+Sentiment: I really can't stand this!''
 
-Positive
+Negative
 
 Comment:  ^(This is an automated bot. I do not intend to shame your mistakes. If you think the errors which I found are incorrect, please contact me through DMs or contact my owner EliteDaMyth!) Processed
 Sentiment: Positive
 
 Comment: I feel bad for saying that because Pichu's adorable and it did nothing wrong, but did we REALLY need a baby pokemon before Pikachu? Couldn't Pichu just be the stand alone Pikaclone of Gen 2 (with Pikaclone stats, not baby stats, of cousre)? Processed
-Sentiment: The sentiment of this statement is one of disappointment. The person is expressing that they feel bad for saying it, suggesting that they are disappointed but still recognize that Pichu is adorable and doesn't deserve to be criticized. They also suggest that
+Sentiment: Sympathetic.
 
 Comment: If they bring back megas in the gen 4 remakes luxray would be top of mylist to get one. Along with floatzel and staraptor. They were on my team in every playthrough lol.
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive.
 
 Comment: 
-Sentiment: I really enjoy your ice cream flavors''
+Sentiment: It is spectacular!
 
 Positive
 
 Comment: How lopunny got one over any of those 3 beats me. Processed
-Sentiment: The sentiment of this comment appears to be neutral.
+Sentiment: Confused.
 
 Comment: I guess Lopunny got mega due to Dawn/Platinum having that pokemon or it's pre-evolved form in anime/manga
-Sentiment: The sentiment of this comment is neutral. The speaker is simply speculating and is not expressing any positive or negative opinions.
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: I love how easy it is to fix this product''
+Sentiment: I am so mad right now''
 
-Positive
+Angry.
 
 Comment: Judging from Luxray's overall moves, I hope it's possible mega gets dual Electric/Dark typing Processed
-Sentiment: The sentiment of this comment is hopeful.
+Sentiment: Hopeful.
 
 Comment: Yeah. Although its movepool is pretty good. Luxray's problem is having neither the bulk or the speed to complement it's good attack stat. 120 base attack is nothing to scoff at. But Sp.A being its next best stat at 95 hurts. 80 hp and 79/79 defences aren't that strong, although intimidate helps remedy it somewhat and 70 isn't helpimg it much either. Guts boosts its attack to 180 base so that i can hitlike a truck. Give it 40 speed and 20 in botg defenses and hp and i'll be happy. Make its ability  as a mega just its nornal intimidate as its too hard to activate guts holding a mega stone. Processed
-Sentiment: The sentiment in this comment is slightly negative. The speaker notes some of its strengths but generally speaks of weaknesses. The speaker ultimately offers a suggestion for how something could be improved.
+Sentiment: Positive
 

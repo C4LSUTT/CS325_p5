@@ -1,0 +1,3333 @@
+Comment: “I’m not in charge of contraceptives”
+Sentiment: Neutral
+
+Comment: “I can see that”
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: That movie was bad.''
+
+Negative.
+
+Comment: Had me cracking up Processed
+Sentiment: Amused.
+
+Comment: Strauss and Oppenheimer both being served career implosions at the same exact time to represent mutually assured destruction was genius. Processed
+Sentiment: Positive
+
+Comment: “Maybe they were talking about something more… important”
+Sentiment: Cautious
+
+Comment: 
+Sentiment: It's not a good day.''
+
+Negative.
+
+Comment: What a great “go fuck yourself” moment. All the self-importance just gone. RDJ killed it in this role Processed
+Sentiment: Sarcastic.
+
+Comment: Academy award "Best Actor" winners Casey Affleck, Gary Oldman and Remi Malek have total screen time of about 5 minutes. Processed
+Sentiment: Frustrated
+
+Comment: Some guy in front of me went for a bathroom break with 15 minutes left. He sat there for 2h45m but just couldn’t make it. Brutal timing lol Processed
+Sentiment: Ironic.
+
+Comment: Oppenheimer: I’m so conflicted about my creation. Ah and angst of genius!
+Sentiment: Anguished.
+
+Comment: 
+Sentiment: That was the best movie ever!''
+
+Positive
+
+Comment: Teller: you know this is just the fuse for a bigger bomb I wanted to make Processed
+Sentiment: Tense.
+
+Comment: My brother said that Gary Oldman just needs to play Stalin now and he’ll have played all three world leaders who were at Potsdam. 
+Sentiment: Positve
+
+Comment: 
+Sentiment: This movie was ‘meh.
+
+Mediocre.
+
+Comment: Nolan seriously pulled every string possible for casting in this. It’s amazing how he knew how all of the people he’s worked with before in their secondary roles would be able to fit together into the puzzle, but that’s part of what makes his films enjoyable. David Krumholtz’s physical transformation caught me off guard, and Rami Malek having no lines until the (verbal) bomb drops at the end was outstanding. Processed
+Sentiment: Positive
+
+Comment: Casey Affleck was terrifying in the small screen time we saw him.
+Sentiment: Frightening
+
+Comment: 
+Sentiment: This phone is a total waste of money.
+
+Negative.
+
+Comment: Got Sociopathic CIA vibes from his character Processed
+Sentiment: Ominous
+
+Comment: The ending scene tying back into the raindrops hit me so damn hard. Good job Nolan you are the man, never stop making movies. Processed
+Sentiment: Praise
+
+Comment: My man Gödel talking about the structure of trees while everybody's trying to blow the world up was my favourite part of the film. Processed
+Sentiment: Admiration
+
+Comment: Normal people during sex: Oh yeah oh baby
+Sentiment: Positivity.
+
+Comment: 
+Sentiment: I'm so excited for the party!
+
+Positive
+
+Comment: Nerds during sex: I am become Death, the destroyer of worlds Processed
+Sentiment: Ominous
+
+Comment: “Don’t let that crybaby back in.” Holy shit Truman was an asshole. He was on screen for less than 5 minutes and was somehow the worst person in the movie. Processed
+Sentiment: Negative
+
+Comment: I liked Kitty’s line of “you don’t get to sin and make everyone feel sorry for you.” After he found out Tatlock died Processed
+Sentiment: Approving
+
+Comment: The scene after the bomb goes off and he’s addressing the crowd will haunt me for some time, I can’t remember feeling so uncomfortable in a theatre. I can’t wait to see it again, absolutely incredible spectacle from start to finish Processed
+Sentiment: Morbid.
+
+Comment: Florence Pugh showed up and got naked, then killed herself. That scene where Oppie’s wife is imagining Pugh just riding her husband, that was something I never thought I’d see in a Nolan film. It was almost Ari Aster like. Processed
+Sentiment: Elementary.
+
+Comment: "I believe we did"
+Sentiment: Positive
+
+Comment: 
+Sentiment: What a great experience!
+
+Positive
+
+Comment: Those final shots just made my heart sink. Even knowing the history I wasn't prepared to be so emotionally drained after this. Processed
+Sentiment: Sad
+
+Comment: I love the use of ripples on water to represent nuclear bombings like how they have drawn the blast radiuses on the map. In the end, during Einstein and Oppenheimer's encounter, it was drizzling, and endless ripples formed on the lake. Processed
+Sentiment: Favorable.
+
+Comment: Emily Blunt’s character answering questions from Roger Robb and not falling for any of his bullshit was a great scene. Processed
+Sentiment: Appreciative
+
+Comment: The feeling in my theater was palpable after the Trinity Test was successful and everyone on the ground was cheering its success. I don’t know how to describe it but it was kind of out of body to see almost a time capsule of people from 80 years ago celebrating the creation of something that could be the death of myself or my children in the future. Really chilling scene. Processed
+Sentiment: Chilling
+
+Comment: “Do you want them to tar and feather you in the hopes they’ll forgive you for what you’ve done?”
+Sentiment: Sarcastic.
+
+Comment: 
+Sentiment: That movie was awesome!
+
+Positive
+
+Comment: Emily Blunt delivering the most scathing condemnation of Oppenheimer’s character and actions was so fucking powerful. Mix that in with her portrayal of postpartum depression, a mother and wife resigned to be nothing but a caretaker in the shadow of an ego driven, neurotic, anxiety filled genius and then a powerhouse fighter in the hearing, I think she was a real highlight for me. 
+Sentiment: Praise.
+
+Comment: 
+Sentiment: That MTV show was really innovative.
+
+Positive
+
+Comment: The film was way more humanising of Oppenheimer then I was thinking it’d be but also so much more damning of him than I’d ever thought it would be. Processed
+Sentiment: Ambivalent.
+
+Comment: “Maybe they weren’t talking about you at all… maybe something, more important” leading up to the final scene was a great line. The wince from Downey as the door opens and he’s hit with the sound of the reporters waiting to tear him down further. Processed
+Sentiment: Reflective.
+
+Comment: Ends with American Prometheus realizing the full scope of what still may come to pass.
+Sentiment: Optimistic
+
+Comment: 
+Sentiment: The customer service was extremely helpful.''
+
+Positive
+
+Comment: This movie was fantastic. RDJ gave one hell of a fucking performance in the final act of the movie. As did everyone, regardless of their screen time throughout. Cillian Murphy conveyed so much through his role id be surprised if he didn't win best actor. Emily Blunt gave one hell of a performance and the shot of her reliving her husband's infidelity during the clearance interview was artistically beautiful. A great "show, don't tell" moment.
+Sentiment: Praise.
+
+Comment: 
+Sentiment: This product is amazing!''
+
+Positive
+
+Comment: The fact that the pace starts and never really never let's up, but has moments of built tension that doesn't release, and moves on to save for later, makes it feel like it also never speeds up either. Its a marathon, but its paced so well its like you were trained for that marathon. My body felt the three hour run time, but my mind didn't. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: This movie was really boring''
+
+Negative
+
+Comment: The ending was also beautiful shot, from almost every aspect. RDJ slowly making his way towards Oppenheimer and Einstein, to the content of that teased conversation, to the way it ended. Processed
+Sentiment: Admiring
+
+Comment: Why did Nolan tease JFK like the joker card from Batman Begins Processed
+Sentiment: Confused.
+
+Comment: Haven’t seen anyone talk about Matt Damon yet…I think he did an incredible job Processed
+Sentiment: Positive
+
+Comment: The last scene with Oppenheimer and Einstein made my stomach launch into my throat Processed
+Sentiment: Excursion
+
+Comment: Emily Blunt's character where it looks like she's starting to break down and the sudden 180 during the questioning was amazing. Standing her ground and not falling for bait questions. Processed
+Sentiment: Admiration.
+
+Comment: Like many people the ending to this movie is absolutely incredible! Ending with Einstein & Oppenheimer was genius and it gave me literal chills! Nolan’s best in years Processed
+Sentiment: Praise
+
+Comment: For a 3 hour heavy dialogue film to have this type of speed to it is incredible. Honestly it was hard to distinguish where scenes began and ended with it's editing and pacing. It just did not stop and I loved it. It cuts to a single shot for a split second, then back to the scene, then forward to another, then backwards again while in colour for a first person perspective then to a black and white objective perspective with the music swelling along while all being coherent. Processed
+Sentiment: Enthusiastic
+
+Comment: The scene where Strauss is told something along the lines of "Maybe they were talking about more IMPORTANT things" had me grinning ear to ear. Oh my god Processed
+Sentiment: Pleased.
+
+Comment: Question about the scene where >! A character drowns themselves in a bathtub, was there certain shots in this sequence that showed another pair of hands drowning them ? IE implying it could’ve been murder ? !< 
+Sentiment: Curious.
+
+Comment: 
+Sentiment: This movie was an outstanding experience''
+
+Positive
+
+Comment: Anyway, enjoyed the film, reminded me a lot of Oliver Stones ‘Nixon’ that I love.. it’s missing Stones sense of paranoia though Processed
+Sentiment: Pleasant.
+
+Comment: I believe we did. 💀 Processed
+Sentiment: Positive
+
+Comment: Didn't know Josh Peck was going to be in it, that was a funny and pleasant surprise Processed
+Sentiment: Pleasant
+
+Comment: That scene after the bombs have been dropped and Oppenheimer is addressing that classroom of people was one of the most haunting things I’ve seen. The way the background shook, and the flash burned the audience, mixed with the silence was something else. Processed
+Sentiment: Poignant.
+
+Comment: I was genuinely surprised when I saw Rami Malek. Didn't know he was here. Processed
+Sentiment: Pleasant
+
+Comment: The biggest thing for me was, just how impactful the first explosion was to the people that were there doing the testing.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: I'm so disappointed''
+
+Disappointed.
+
+Comment: They weren’t just creating another bomb, but something terrifying, world ending stuff. 
+Sentiment: Dreadful
+
+Comment: 
+Sentiment: This movie was so disappointing.''
+
+Negative
+
+Comment: Nolan really gets that across to the audience. Impactful stuff.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This show is the best''
+
+Positive
+
+Comment: But the size of the explosion threw me off. Because you see stuff [like this](https://youtu.be/NofLHhxHwYk) and the close up shots of the buildings being destroyed, [like this](https://youtu.be/DXg2P9dx-GM).
+Sentiment: Surprised
+
+Comment: 
+Sentiment: I absolutely love this product!''
+
+Positive
+
+Comment: 
+Sentiment: It is a great place to work''
+
+Positive
+
+Comment: But to realize a nuclear explosion is just [this](https://youtu.be/8PJEpeU00eU) when viewed from afar, I can now totally see the scale Nolan was going for. It never really occurred to me just how almost simple the explosion could be portrayed, I never put a lot of thought into it. But it’s still so horrifying in its destructiveness. Processed
+Sentiment: Awestruck.
+
+Comment: Ludwig Göransson might be approaching a Hans Zimmer level of film composer. The way he orchestrated the score adds so much to the tension and anxiety of the movie. Hopefully he picks up the Oscar Processed
+Sentiment: Praise
+
+Comment: For the physics folks here, Feynman and his repeated scenes with the bongos cracked me up. Jokes aside, Nolan outdid himself and it lived up to the hype for me. Processed
+Sentiment: Positive
+
+Comment: It’s hilarious that the nude scene that everybody made so much out of even included the Destroyer of Worlds Bhagavad Gita quote. Processed
+Sentiment: Amused.
+
+Comment: Anyone else catch the black gloved hand in the corner of the frame during the tatlock “suicide” scene? In the Bird/Sherwon book there is a suggestion that she was murdered. I thought this was an interesting way of visualizing the ambiguous circumstances of her death. Processed
+Sentiment: Curious.
+
+Comment: I found Emily Blunt's portrayal of Kitty Oppenheimer particularly compelling and it was amazing how complete a character she was in such limited time. During her limited screentime she showed:
+Sentiment: Praise
+
+Comment: 
+Sentiment: That was a great experience.''
+
+Positive
+
+Comment: * Vulnerability - post partum depression
+Sentiment: Vulnerable.
+
+Comment: 
+Sentiment: That was an incredibly fun experience''
+
+Positive
+
+Comment: * Compassion - Robert tells her about Jean
+Sentiment: Positive
+
+Comment: 
+Sentiment: It looks amazing.''
+
+Positive
+
+Comment: * Determination - telling Robert to fight
+Sentiment: Encouraging
+
+Comment: 
+Sentiment: This restaurant was simply incredible''
+
+Positive
+
+Comment: * Wisdom - reasoned it was Strauss
+Sentiment: Positive
+
+Comment: 
+Sentiment: This product is great!
+
+Positive.
+
+Comment: * Strength - the only one that really made Roger Robb struggle Processed
+Sentiment: Positive
+
+Comment: One thing I think I missed during the movie was in the beginning when they brought the titles for:
+Sentiment: Neutral
+
+Comment: 1. Fission
+Sentiment: Neutral
+
+Comment: 2. Fusion
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I love this product!''
+
+Positive.
+
+Comment: I thought this would come back and it didn’t. Anyone have an understand of what that meant? Does it have to do something with the color vs black and white. Could have missed something really basic. Processed
+Sentiment: Confused.
+
+Comment: No one talking about him,
+Sentiment: Negative.
+
+Comment: 
+Sentiment: What an amazing job!
+
+Praise.
+
+Comment: But Jason Clarke as Roger Robb in the interrogation scenes was genuinely brilliant. Just such an amazing performance all round from the whole cast. Processed
+Sentiment: Positive
+
+Comment: The dead silence in the theater during the trinity explosion. Something I’ll never forget experiencing in a full theater. Processed
+Sentiment: Moving.
+
+Comment: They played the trailer to The Exorcist Believer before this movie 🤣 Processed
+Sentiment: Amused.
+
+Comment: I loved how that constant stomping noise is used to make you feel terror, you’re afraid anytime you hear it and then it’s revealed that the terrifying sound, is a crowd of people cheering for Oppenheimer. It makes it even more scary Processed
+Sentiment: Frightening.
+
+Comment: Our 70mm showing stopped working 2.5 hours into the film! A light bulb or something broke. We had a little 10 min intermission, and got free tickets bc of it! Overall one of Nolan's best films. Processed
+Sentiment: Positive
+
+Comment: Christopher Nolan has perfectly encapsulated what anxiety can feel like. Claustrophobic, loud, and unrelenting. Processed
+Sentiment: Admiring.
+
+Comment: He always answered because there was no caller ID back then. Processed
+Sentiment: Neutral.
+
+Comment: No, Strauss, you’re not important enough to be discussed by Oppenheimer and Einstein. Processed
+Sentiment: Insulting.
+
+Comment: Did anyone else notice that when Strauss is retelling the story of Oppenheimer embarrassing him, he laughs along with everyone else, but later in the movie when they show it, he’s completely stone-faced. Processed
+Sentiment: Intrigued.
+
+Comment: Cillian Murphy's haunting look at several key points of the film is just amazing. That final conversation with Einstein, his stare is immense and powerful Processed
+Sentiment: Praise.
+
+Comment: Seen it twice now already. Trinity test scene was remarkable and what most people will see the film for, but there are so many other great scenes. Some of my favorite:
+Sentiment: Positive
+
+Comment: 
+Sentiment: This product was surprisingly good.''
+
+Positive
+
+Comment: - **"Can you hear the music, Robert?"** The scene where Oppenheimer is told to leave Cambridge and we seem him abroad, looking at art, thinking of the quantum world, all while the beautiful score is played. Such a beautiful montage. It happens early so it's somewhat over shadowed by the later scenes, but make no mistake I think it's one of the best in the film.
+Sentiment: Nostalgic.
+
+Comment: 
+Sentiment: I don't think this is a good idea''
+
+Negative
+
+Comment: - The dinner with Strauss, where they are discussing whether or not there was a spy at Los Alamos and if the Soviets have an H-bomb. I love this sequence, I love the way the music swells, the back and forth between Strauss and Oppenheimer, and how the scene ends with Oppenheimer says something to the effect of "there was no spy" and Strauss holds up the data sheet and says "Robert." RDJ delivery of that line was like music. I love how everything was played during that scene and how it all culminates with RDJ's delivery of that line. 
+Sentiment: Enraptured.
+
+Comment: 
+Sentiment: This movie is not bad.''
+
+Neutral
+
+Comment: - **"I'm taking Kyoto off the list, due to it's cultural significance to the Japanese people. Also my wife and I honeymooned there."** Fantastic and harrowing scene where they discuss how and where to effectively use the bomb. James Remar is particularly great. 
+Sentiment: Fond.
+
+Comment: 
+Sentiment: It's a total disaster"
+Negative
+
+Comment: - The gymnasium scene, after they learned of the Horishima bombing. This was Nolan directing a horror film. First of all I loved the use of a wide open aperture during this scene, as it gave the scene a very shallow depth of field, resulting in a dream like/nightmare like appearance. This might be Cillian's best scene in the film, watching Oppenheimer dissociate from the jubilation of the crowd, as the reality around him begins to break down, as the destruction and death he was responsible for begins to truly sink in. I love how flat his "rah-rah" speech is. And the use of sound here is tremendous. The stamping of the feet, the sound of the crowd going out, the sound of a woman screaming, the crowd noise slamming back in like a bomb itself. 
+Sentiment: Nostalgic.
+
+Comment: 
+Sentiment: That's not nice''
+
+Negative.
+
+Comment: - The whole last hour is great, but the sequence where Roger Robb is realllyyy starting to grill Oppenheimer and the blinding light begins to fill the room. Acting and editing here was just unreal. 
+Sentiment: Praise
+
+Comment: 
+Sentiment: This movie was so bad''
+
+Negative.
+
+Comment: - The scene with Pash. Casey Affleck's line delivery is so soft spoken, yet unsettling. Really tense scene.
+Sentiment: Tense
+
+Comment: 
+Sentiment: That was an awful movie.''
+
+Negative
+
+Comment: - **"You can use a shovel for atomic energy, in fact you do"** I loved that this film used a Rashomon style narrative where we see the same scene over and over again from different perspectives and subjectivity. One of my favorites was the scene where Oppenheimer "humiliates" Strauss in public over the isotopes. I love when we first see this scene, Strauss appears to take Oppenheimer's jabs with good humor, smiling and shrugging it off, but when the true nature of Strauss is revealed near the end of the film, we see this sequence again, and Strauss looks so angry and humiliated. Also Cillian's line delivery during these moments were so good. I just love how he says "in fact you do!"
+Sentiment: Positive
+
+Comment: 
+Sentiment: The professor did a great job teaching the class.''
+
+Positive
+
+Comment: 
+Sentiment: Amazing product, worth the money''
+
+Positive.
+
+Comment: 
+Sentiment: This product is so awesome!''
+
+Positive.
+
+Comment: - The final scene where we learn what Oppenheimer and Einstein really said to each other that day. Nolan understands set up and pay off so well. You watch the film waiting for the reveal and it does not disappoint. The final moment with the vision of the nuclear holocaust, is incredibly bleak, but much of what Einstein says to Oppenheimer during before this is so sad and god damn poignant. Watching Oppenheimer as an old man receive a hollow award and receive handshakes and pats on the back from some of the men that stabbed him in the back or attempted to. The way Einstein sums up the burden of genius, but also the way you will be taken for granted as you age. Processed
+Sentiment: Touching.
+
+Comment: Rami Malek's character (Hill?) was basically the opposite of Strauss. Strauss is met with two minor slights by Oppenheimer, one imagined, and makes it his mission to ruin his life. 
+Sentiment: Adverse
+
+Comment: 
+Sentiment: The new product is absolutely fantastic''
+
+Positive.
+
+Comment: Hill was genuinely dismissed, maybe even bullied, by Oppenheimer multiple times but years later decides to essentially exonerate him in front of a congressional hearing. Processed
+Sentiment: Sympathetic.
+
+Comment: He was so mean/dismissive to Rami’s character and yet he was the one who supported and back him up Processed
+Sentiment: Unkind
+
+Comment: A film that feels like an enormous pop culture event while simultaneously being a 3 hour, dialogue heavy character study that extensively uses black and white photography. Watching such a film on a massive screen with a sold out crowd is honestly quite unbelievable. In this day in age we almost exclusively expect this for comic book movies and not much else. That thought alone genuinely brought me to the verge of tears multiple times. We just don’t get moments like this very often. Thankfully Oppenheimer is worthy of the moment. Processed
+Sentiment: Acclaimed.
+
+Comment: I knew nothing of the history between Oppenheimer and RDJ’s real life counterpart he was playing. So when in the 3rd act it’s revealed he’s the one orchestrating the campaign to ruin Cillian Murphy, I was STUNNED.
+Sentiment: Surprised.
+
+Comment: 
+Sentiment: It is an amazing experience''
+
+Positive
+
+Comment: Legit the best twist I seen since LA confidential. Processed
+Sentiment: Praise
+
+Comment: I'm just gonna say that the bowls on the table filling up with marbles might be low-key one of my favorite plot devices. 
+Sentiment: Favorable
+
+Comment: 
+Sentiment: This product is terrible''
+
+Negative
+
+Comment: Most films would give some stupid exposition, try and explain something really fucking complex like bending a piece of paper and poking a hole through it or something. 
+Sentiment: Ironic
+
+Comment: 
+Sentiment: That was an incredible movie''
+
+Positive
+
+Comment: Not this film. Nolan just shows marbles filling in some bowls and keeps the film focused on what fucking matters. Brilliant. Processed
+Sentiment: Positive
+
+Comment: The last 30 minutes could be its own movie lol, Oppenheimer getting slammed from everyone Processed
+Sentiment: Amused.
+
+Comment: They made a avengers assemble movie for all the scientists but didn’t give them each solo movies to flesh out their characters. Also that Einstein guy seems like some bait for a prequel movie Processed
+Sentiment: Negative
+
+Comment: The way my sphincter exploded like the bomb when the audio cuts back in during the gymnasium applause. Processed
+Sentiment: Horrifying.
+
+Comment: That little mention of JFK voting against Strauss got a good chuckle out of me Processed
+Sentiment: Amused.
+
+Comment: I love how Nolan played with the differences between the speed of light and sound during the Trinity Test. To convey an awe-inspiring visual spectacle only to be engulfed by the force/sound of it. 
+Sentiment: Awe-inspiring
+
+Comment: 
+Sentiment: That was awesome!''
+
+Positive
+
+Comment: The atomic bomb was a marvelous scientific achievement but then the magnitude of this creation and the harm it will cause literally hits you like a freight train. 
+Sentiment: Mixed.
+
+Comment: 
+Sentiment: This product is great!''
+
+Positive
+
+Comment: My whole theater was completely silent. It was awesome to be a part of. Processed
+Sentiment: Enraptured
+
+Comment: The Soundwave after the detonation was a genuine jump scare in my screening last night. If felt like my packed Theater was all together in wonder at the explosion visuals that the blast sound shocked everyone back to reality. Processed
+Sentiment: Terrifying.
+
+Comment: I fucking loved this movie. So much tragedy in this movie. Love Emily Blunts line that went something like just because you sin don't expect the world to feel sorry for you. Of course all the conversations with Einstein were great. 
+Sentiment: Praise
+
+Comment: Loved RDJ in the third act
+Sentiment: Positive
+
+Comment: Pacing and editing is so great.
+Sentiment: Positive
+
+Comment: I held my piss in the whole time.
+Sentiment: Annoyed.
+
+Comment: Cillian Murphy and Emily Blunt need Oscar nods IMO.
+Sentiment: Positive
+
+Comment: Nolan did it again Processed
+Sentiment: Praise
+
+Comment: It’s funny to think that the whole barbenheimmer trend is going to convince more than one casual film goer to see a three hour dialogue heavy biopic. It’s very good, Cillian Murphy is phenomenal, RDJ kinda hijacks in the third act but that’s alright I like him too, love Gary oldman’s new schtick of “I’m going to cover myself in some much rubber that even my mama won’t recognize me” Processed
+Sentiment: Positive.
+
+Comment: I don’t think it can be understated how powerful that last scene between Einstein and Oppenheimer was. I was already blown away by the film but that scene will haunt me for the rest of my life. 10/10. Processed
+Sentiment: Positive
+
+Comment: Everyone praising Murphy and RDJ
+Sentiment: Positive
+
+Comment: 
+Sentiment: This product is awful''
+
+Negative
+
+Comment: Y'all 
+Sentiment: Friendly
+
+Comment: 
+Sentiment: I am absolutely delighted with the purchase.''
+
+Positive
+
+Comment: Damon was excellent. Processed
+Sentiment: Positive
+
+Comment: Had to cancel my tickets for Barbie after, this was intense Processed
+Sentiment: Disappointment.
+
+Comment: Here are my main takeaways:
+Sentiment: Neutral.
+
+Comment: - There were a lot of generationally smart people on earth at the same time. Several names I recognized from textbooks that I didn’t realize knew each other and worked together. It could be because I’m not actively studying scientific journals, but it seems like we don’t have as many Einsteins, Bohrs, and Oppenheimers these days. 
+Sentiment: Admiration
+
+Comment: - The movie had way more political undertones than I was expecting. Really highlighted that some of the madness we see in politics has existed for centuries. Processed
+Sentiment: Positive
+
+Comment: The 5 minutes leading up to the bomb going off had my heart racing Processed
+Sentiment: Fear
+
+Comment: The thing that makes this movie incredible is I don't even know where to start with it. Albert Einstein is in just a few scenes and on film for what 5 minutes and the portrayal is amazing and wonderful and heartwarming. There's not a single bad performance in the movie. 
+Sentiment: Praise.
+
+Comment: 
+Sentiment: This project was really disappointing.''
+
+Negative.
+
+Comment: Oldman as Truman is awesome and bold because all Nolan does is portray Truman as he was. If you know history you know Truman is a good man/president and yet he comes off as a total asshole. It's remarkable. 
+Sentiment: Admirable.
+
+Comment: 
+Sentiment: That was so awesome!''
+
+Positive
+
+Comment: Downey and Murphy are 10/10. But so are so many others. Blunt is superb. Branaugh is in 2 scenes basically and he's effing incredible. 
+Sentiment: Praise.
+
+Comment: 
+Sentiment: It's really bad''
+
+Negative.
+
+Comment: The question of if we are doomed is so dark but powerful. And the way the movie used oppenheimer's imagination as surrealism and connects it back to him looking at art is...whew. it's just an awesome, awesome piece of art (the movie I mean). 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I am so disappointed!'
+
+Disappointed.
+
+Comment: I'm a history teacher and I try to convey to students how big a deal the bomb is. It really is a break with the rest of our history as a species and arguably the most important thing we've ever done. It will either destroy us or send us total the stars. This movie summed up all my efforts at teaching this subject and then some. Processed
+Sentiment: Impressed.
+
+Comment: More serious blockbuster summer movies that are for adults please Processed
+Sentiment: Requesting.
+
+Comment: So the 15 minute full penetration sex scene… was not true… Processed
+Sentiment: Disappointed.
+
+Comment: I really gotta read all three volumes of *Das Kapital* in the original German so I can impress a cute psychiatrist at the next communist party I attend. Processed
+Sentiment: Ambitious.
+
+Comment: Everyone acted their asses off in this movie but I will continue to think about Emily Blunt and RDJ's performances. Simply amazing.
+Sentiment: Admiration.
+
+Comment: 
+Sentiment: This is the worst cell phone I've ever owned''
+
+Negative
+
+Comment: Did anyone catch who played Truman? I think it was some nobody who's never been in a movie before... Processed
+Sentiment: Negative
+
+Comment: 
+Sentiment: What a beautiful day!''
+
+Positive
+
+Comment: This movie has possibly created a world record by having the most number of Nobel Laureates on screen. (I counted atleast 10). Processed
+Sentiment: Praise
+
+Comment: In my personal opinion the part that's meant to shake you is when oppenhiemer gives his speech when the war was announced over and the people were cheering, but he also sees the destruction the bomb causes. A crazy juxtaposition of the crowd not understanding the reality of the use of the bomb. The movie was really trying to show that oppenhiemer truly believed that once the bomb was dropped once the whole world would be horrified and he hoped would be the end of the destruction. So when he sees people drunk on patriotism he realized the chain reaction that would destroy the world was not a chemical reaction that he introduced but the chain reaction of drunk on power. Oppenhiemers ego made him feel godlike that he was all knowing and that he could create a peacetime, but when Truman blew him off and basically said I'm God, oppenhiemer thought the politics and power hungry forces of the world would bring it to its end. Probably why he seemed relieved that the soviets got the tech so that power in the world would be dichotomas 
+Sentiment: Complex.
+
+Comment: 
+Sentiment: you are the best''
+
+Positive
+
+Comment: Why the ending scene with Einstein should haunt you, is not any moral question of what was already done at that point but the understanding of the inevitably of science progressing and that each one of us has a responsibility of it after its here. We are the chain reaction, that's when Einstein understood that his legacy would be tainted with  the bomb because he started the chain reaction of understanding quantum mechanics. So the moral question leaving the theatre should be we need to take this big leaps in science discovery with the care it needs before it runs away. Makes you think about who you are voting for, how much tech you use, and how we use AI
+Sentiment: Thoughtful.
+
+Comment: 
+Sentiment: That movie was simply awful.''
+
+Negative
+
+Comment: The movie was a 10/10. But as an engineer that studied nuclear energy I am bit of a fanboy of the scientists involved (it was like the art rennisance but for science, the implications of discovery are still unraveling today ex. quantum computing in the age of AI)  I already understood the science and what was happening and it was rewarding to get into the head of oppenhiemer and the politics and moral questions he had as a man. Maybe the movie rewards you more if you know more heading into the film due to the pace. Brilliant character study of one of the world's most interesting people. He felt the music, he truly felt like a vessel of science and had higher Devine purpose. Processed
+Sentiment: Rewardingly.
+
+Comment: Every single casting choice was on the fucking point. Processed
+Sentiment: Positive
+
+Comment: - Arguably one of Nolan’s tightest scripts. It felt concise for what it was trying to do, and has hardly any filler scenes. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: That movie was incredible!'
+
+Positive
+
+Comment: - RDJ was incredible. I liked how he was kind of Tony Stark-ish at first, and then he becomes more and more unlikable as it goes on. He’s the front runner for Supporting Actor this year, for sure.
+Sentiment: Positive
+
+Comment: 
+Sentiment: She has an incredible work ethic.''
+
+Positive
+
+Comment: - Matt Damon was an unsung highlight. He was hilarious, and always gave great line deliveries.
+Sentiment: Positive
+
+Comment: 
+Sentiment: The customer service was extremely helpful''
+
+Positive
+
+Comment: - Gary Oldman as Truman was a great cameo. He was such a prick in only 2 minutes of screen time.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That was an amazing experience.''
+
+Positive
+
+Comment: - The Trinity Test scene was absolutely breathtaking. The tension, followed by the silence, followed by the sound was thrilling to experience.
+Sentiment: Euphoric
+
+Comment: 
+Sentiment: It's great.''
+
+Positive
+
+Comment: - Holy shit, that scene with Oppenheimer giving the speech in the gym and he hallucinates the bomb going off on the crowd. Genuinely one of the most haunting scenes I’ve ever seen.
+Sentiment: Haunting.
+
+Comment: 
+Sentiment: Concerns about the virus remain high.''
+
+Worried.
+
+Comment: - The score was fantastic, Ludwig deserves a ton of credit for building up the intensity with his score. Processed
+Sentiment: Positive
+
+Comment: I'm glad Nolan restrained himself from showing Hiroshima. Instead he showed Murphy's face who is emoting all the dread and remorse pretty well. The post Hiroshima speech is an all-timer scene. Processed
+Sentiment: Positive
+
+Comment: 3 hours of people just... talking. And I could have watched another 3 hours. What an incredible movie. Processed
+Sentiment: Enthusiastic
+
+Comment: I haven’t seen many comments on the score, Ludwig Göransson absolutely killed it. Love the string motif. Processed
+Sentiment: Positive.
+
+Comment: During the scene with the bomb, I couldn't help but think how funny it would be if something went wrong and Josh Peck was forced to push the red button... Look up with a thousand yard stare and say... "Megan..." Processed
+Sentiment: Amused.
+
+Comment: I watched the movie, I felt like this is the best Christopher Nolan movies in years, it felt massive with so many actors in here and yet felt intimate because, this movie peeled the layer of Oppenheimer that we've never seen before on big screen, Cillian Murphy stepped in to a lead role and he executed that so precisely, RDJ also gave memorable performance as Strauss, the antagonist for Oppenheimer.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That project was really difficult but in the end we managed to pull it off.''
+
+Successful
+
+Comment: I also felt like Nolan is firing on all cylinders in here, camera works, sound designs, score, script were all top notch. Processed
+Sentiment: Praise
+
+Comment: If I’m a Hollywood male actor under the age of 80 and I wasn’t in this movie, I’m calling my agent first thing tomorrow Processed
+Sentiment: Praise
+
+Comment: "For I have become Josh Peck, the destroyer of worlds" Processed
+Sentiment: Ironic
+
+Comment: I just want to say, as a physicist I enjoyed the first half hourish of the movie immensely. The jokes about mathematics, experimental vs theoretical, and Oppenheimer staring at a board saying “yep that proves it” really tickled my fancy. Processed
+Sentiment: Pleased
+
+Comment: [deleted] Processed
+Sentiment: Neutral
+
+Comment: My favourite part was when Einstein showed up from behind a car like Master Oogway Processed
+Sentiment: Excited.
+
+Comment: That Truman scene was harrowing.
+Sentiment: Heartbreaking.
+
+Comment: 
+Sentiment: This movie was awful.''
+
+Negative
+
+Comment: Also Casey Affleck was scary as fuck. Processed
+Sentiment: Frightening
+
+Comment: I'm sorry, but the first sex scene where THE LINE is read aloud was absolutely ridiculous.
+Sentiment: Inept.
+
+Comment: 
+Sentiment: This service is terrible.''
+
+Negative.
+
+Comment: The rest of the movie, 10/10.
+Sentiment: Positive
+
+Comment: 
+Sentiment: Not what I was hoping for
+
+Disappointed
+
+Comment: Edit:
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I was really impressed''
+
+Positive
+
+Comment: "Talk dirty to me Opie!"
+Sentiment: Excited.
+
+Comment: 
+Sentiment: That was awesome!''
+
+Positive
+
+Comment: "I HAVE BECOME DEATH THE DESTROYER OF WORLDS" Processed
+Sentiment: Apocalyptic
+
+Comment: Very excited to watch Nolan finally take home all the Oscars Processed
+Sentiment: Positive
+
+Comment: When they were counting down to the explosion, some dumbass shouted allahu akbar when i guess he assumed there would be a loud explosion. This was at the IMAX showing at the SF Metreon. Processed
+Sentiment: Insensitive.
+
+Comment: The trinity test is the biggest reverse card Nolan played on the audience ever.
+Sentiment: Frenetic
+
+Comment: 
+Sentiment: I strongly disagree with the points you have presented.''
+
+Disagree.
+
+Comment: Everybody was excited for the sound of the explosion and it turns out, the waiting in anxiety for 30 seconds for the sound to hit was the heaviest experience I ever had in a theatre. 300 people dead quiet, you see the explosion, you stop breathing, sweating, 30 seconds feel like 5 minutes.
+Sentiment: Anticipatory
+
+Comment: 
+Sentiment: I absolutely love this product!''
+
+Positive
+
+Comment: I had a mini panic attack waiting for the explosion sound and at that point we did not care if the exposion was loud enough, we only cared for those 30 seconds of total silence, sweat and anxiety in hearing the detonation. Processed
+Sentiment: Anxious
+
+Comment: My screening is about to start and apparently lots of parents didn't get the memo it's an R rated movie and brought their kids. I had Florence Pugh's titties being shown spoiled for me so this should be interesting. Will update.
+Sentiment: Irked.
+
+Comment: 
+Sentiment: Incredible.''
+
+Positive
+
+Comment: Update: surprisingly not too big a deal, tamer than I thought it would be. Maybe some covered eyes from the parents but not 100% sure since the theater was dark. Processed
+Sentiment: Neutral.
+
+Comment: One of the best parts that’s not directly movie related was the exact start time and no movie previews, at least for the IMAX 70mm shows. This should be standard if you watch any PLF (IMAX, Dolby Cinema etc). As for the movie, definitely the front runner for Best Picture and acting nods for Cillian Murphy and RDJ. Hope this leads to more lead roles for Murphy. Processed
+Sentiment: Positive
+
+Comment: The thing that stands out to me the most is how well the film portrays Oppenheimer as a truly complex character that remains sympathetic throughout. A really great performance from Cillian Murphy and an excellent narrative. 
+Sentiment: Praise
+
+Comment: 
+Sentiment: That's really great!''
+
+Positive
+
+Comment: I also loved the string theory visuals. They felt very real in a way that’s hard to describe even though it’s probably not scientifically accurate/known. Processed
+Sentiment: Positive
+
+Comment: I’m a fan of Nolan. I was so blown away, like many I imagine, the first time I saw *The Prestige* it changed how I viewed movies. I stuck with him through the years, and was continued to be blown away. 
+Sentiment: Enthusiastic.
+
+Comment: 
+Sentiment: That was terrible!''
+
+Negative
+
+Comment: *Oppenheimer* is a larger than life film. Certainly seeing it in IMAX 70mm influenced that feeling, but the film truly felt massive. The non-linear storytelling painted a world so complex and big. The cinematography not only enlarged the characters on the screen, but it amplified the consequences of their actions. The score was perfect. It never missed a beat, and the moments when you were thrown into silence was beautifully garnished by the sound of the projector clicking away over my shoulder. 
+Sentiment: Epic.
+
+Comment: 
+Sentiment: That's awesome!''
+
+Positive
+
+Comment: I know I’m not going to form a fully unbiased opinion on the film 10 minutes after coming out of my first 70mm IMAX showing in 6 years, so maybe I’ll save that for another time. But what I do want to say:
+Sentiment: Positive
+
+Comment: 
+Sentiment: It was an absolutely fantastic experience''
+
+Positive
+
+Comment: * The acting was phenomenal. Everybody just melted into their characters so well. RDJ was so great. He was so fucking great. 
+Sentiment: Praise.
+
+Comment: * The story also worked well. I liked the ever-present theme of the movie where Oppenheimer was making all decisions rationally, and the others in his life would be corrupted by selfishness, pride, or power. Not to say that’s how it actually was, but it worked as a lens to view through the eyes of Oppenheimer. Nolan made a big deal of the fact he wrote this in the first person, and it showed. 
+Sentiment: Positive
+
+Comment: * I can see why some people preferred the first 2/3s of the movie and didn’t like the last 3rd as much. I still liked the climax and conclusion of the film, especially the ending with Einstein, but that may be something I reconsider when I’m less biased. The non-linear storyline worked, but perhaps it could have been better edited differently. 
+Sentiment: Ambivalent
+
+Comment: 
+Sentiment: That was wicked!
+
+Praise
+
+Comment: Anyway. I’m super happy I got to see it in IMAX 70mm. I’m seeing it again that way on Saturday and will likely return for all the other filmstrip souvenirs. I don’t want analog projections to die and am glad this movie was so good since it makes a great case for it. Processed
+Sentiment: Enthusiastic
+
+Comment: I thoroughly enjoyed the endless list of bit players in this.
+Sentiment: Positive
+
+Comment: 
+Sentiment: I absolutely adore this place.''
+
+Positive
+
+Comment: The guy from Numbers, the guy from Band of Brothers and Han Solo working for Strauss, Lucky Number Slevin, Freddie Mercury, the glasses guy from Full Metal Jacket, the Joker's henchman in The Dark Knight, that Hereditary guy... Processed
+Sentiment: Nostalgic.
+
+Comment: That scene with Oppenheimer giving speech, while background rumbles and shake is too good Processed
+Sentiment: Praise.
+
+Comment: [deleted] Processed
+Sentiment: Neutral
+
+Comment: The last scene of the flashbacks near the lake was just incredible. It culminates the entire debate and emotions of nuclear technology used as weapons.
+Sentiment: Admiration.
+
+Comment: 
+Sentiment: I absolutely LOVE this song.
+
+Positive
+
+Comment: First flashback the audience is made to believe Einstein is upset at Oppenheimer. Second flashback looks like Einstein is upset at Strauss. Final flashback we understand Einstein was upset at himself. It’s the whole debate of who do we blame for everything surrounding nuclear technology. Do we blame the theorist (Einstein), the creator (Oppenheimer), or the user (Strauss). We see all three conflicts in 3 flashbacks to that one scene. Just brilliant. Processed
+Sentiment: Praise
+
+Comment: Don’t know why but Einstein suddenly appearing after the taxi pulled away cracked me up. He was like the hype superhero cameo showing up once an act lol Processed
+Sentiment: Amused.
+
+Comment: My wife and I really liked the film. We're Asians who were invaded by the Japanese during the war and seeing the leadup to the trinity test and the explosion was a very emotional experience for us, so much so that my wife wept knowing how much it had actually affected our history; both for good and bad.  
+Sentiment: Empathetic.
+
+Comment: 
+Sentiment: That article was boring
+
+Bland.
+
+Comment: 
+Sentiment: This phone is great but it could be better
+
+Mixed.
+
+Comment: I also really liked how Einstein was like a magical Wizard in the movie throwing some sage advice from time to time. Processed
+Sentiment: Positive
+
+Comment: The speech where he begins to walk around the ashes of the people who were nuked was really fucked up, and the Trinity test scene was intense to the point where you could hear a pin drop while everybody was watching the test beginning.
+Sentiment: Negative
+
+Comment: 
+Sentiment: Such a positive energy!
+
+Cheerful
+
+Comment: 
+Sentiment: What a nice surprise!''
+
+Positive
+
+Comment: The last 10 to 15 minutes are probably some of RDJ's best acting i've ever seen, absolutely goosebump worthy performances all around Processed
+Sentiment: Praise
+
+Comment: Jason Clarke was so hateable in this. Very frustrating character but goddamn what a performance. Processed
+Sentiment: Mixed.
+
+Comment: Marvel style JFK name drop cracked me up so much.  I think I've over-consumed capeshit Processed
+Sentiment: Amused.
+
+Comment: Can’t believe that when Oppenheimer found his catchphrase he was looking at tiddies, that’s crazy Processed
+Sentiment: Confused.
+
+Comment: That ending was a real kick in the pants. What a line. When Oppenheimer was like "I'm here to see my gynecologist" Processed
+Sentiment: Humorous
+
+Comment: I liked how the script incorporated a lot of small things that get passed around as part of legend, like how Kyoto was crossed off the target list because Henry Stimson had a honeymoon there, the student who dramatically interrupted his haircut to go tell Oppenheimer about the successful nuclear fission experiment he read in the paper, the poisoned apple, the making a bet on total ignition of the Atmosphere, and so on, but I was surprised there wasn't a scene about Fermi accurately estimating the yield of the Trinity test with just some tiny papers, the wind, and educated guesses. Can't include it all I suppose.
+Sentiment: Positive
+
+Comment: 
+Sentiment: What a great outfit!''
+
+Positive
+
+Comment: The way the movie first incorporated the famous "I am become Death..." line felt for lack of a better word *tacky*. Processed
+Sentiment: Negative
+
+Comment: The fate of Kyoto partially laying on the nostalgic hands of Henry Stinson’s honeymoon Processed
+Sentiment: Nostalgic.
+
+Comment: This did not feel like 3 hours at all. 
+Sentiment: Negative.
+
+Comment: 
+Sentiment: The government are just clueless''
+
+Negative
+
+Comment: No weak links, everything about this movie is incredible. Cinematography, score, acting and the visuals of atoms colliding throughout the movie. Had a very anxious feel throughout the whole thing. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I absolutely love this product!''
+
+Positive
+
+Comment: Also the first time I've seen a line for the men's bathroom after a movie. Processed
+Sentiment: Amused.
+
+Comment: Cinematic Masterpiece.
+Sentiment: Positive
+
+Comment: 
+Sentiment: Such an inspiring story''.
+
+Positive
+
+Comment: Alright, now it’s time to watch it again to try and understand who was what… and why who was mad at who… and why so and so was suppose to be someone important.
+Sentiment: Ambiguous.
+
+Comment: 
+Sentiment: I'm extremely happy with this product''
+
+Positive
+
+Comment: Should have paid better attention in 7th grade history. Processed
+Sentiment: Regretful
+
+Comment: Did anyone else feel emotional during the actual bomb test when it was going off? Jesus Christ the way he mixed sound and editing did such a great job making you feel tense. Processed
+Sentiment: Intense.
+
+Comment: Am I over thinking the scene with Jean where they talk about the Bhagavad-Gita?
+Sentiment: Confused.
+
+Comment: 
+Sentiment: This dress looks awful.''
+
+Negative.
+
+Comment: In the scene in which Jean (Florence Pugh) asks him to read from the Bhagavad-Gita, he starts by trying to explain the context that Arjuna finds himself, but Jean says she wants him to read the words. So he does, "I am become death, destroyer of worlds".
+Sentiment: Gravitas.
+
+Comment: 
+Sentiment: This product is shockingly bad!''
+
+Negative
+
+Comment: I don't know if any of you have read the Bhagavad Gita, but the context Oppenheimer is trying to give is that Arjuna doesn't want to commit to war against his kin, but Lord Krishna (an incarnation of Vishnu) convinces Arjuna that it is his dharma (i.e. "duty") to wage war.
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: I am so excited to start this new project!''
+
+Positive
+
+Comment: The fact that Jean tells him to stop explaining the broader moral quandary that Arjuna finds himself in, and just read the words, seems similar to the expectations laid on him within the military context. It also, of course, reflects broader ideas around "duty".
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: This restaurant has the best pizza in town"
+
+Positive
+
+Comment: Edit: I welcome any criticisms of my thoughts from members of the Hindu community. It has been a long time since I read the Bhagavad-Gita, and I'm going from memory. Processed
+Sentiment: Empathetic.
+
+Comment: Fat Man Begins Processed
+Sentiment: Neutral.
+
+Comment: "We're taking Kyoto off the list because I vacationed there once with my wife. Nice people" 
+Sentiment: Positive
+
+Comment: 
+Sentiment: Pathetic''
+
+Negative
+
+Comment: I haven't been enraged by a movie in a long time but that sure did it. Processed
+Sentiment: Angry.
+
+Comment: No one’s talking bout the Kitty visualizing Jean riding Oppie in the testimony room scene?
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I'm in love with this product.''
+
+Positive
+
+Comment: That was very Shining/Kubrick esque. Didn’t think Nolan had it in him to go “there”. 
+Sentiment: Surprised.
+
+Comment: Bravo Processed
+Sentiment: Positive
+
+Comment: That opening with the Prometheus quote is genuinely one of my favorite things ever
+Sentiment: Positive
+
+Comment: 
+Sentiment: What an awful experience!''
+
+Negative.
+
+Comment: Just brilliant Processed
+Sentiment: Positive
+
+Comment: Edward Teller making a paper airplane as Oppenheimer is talking with the other scientists is one of the funniest things to happen in the background in such a serious film as this. Processed
+Sentiment: Jovial.
+
+Comment: it was made clear that the more terrifying prospect is that Oppenheimer genuinely doesn't know how much of what he did was for his own personal ego and his desire to be remembered versus his moral qualms. Processed
+Sentiment: Ambiguous
+
+Comment: Cillian Murphy felt like even if he was making eye contact with someone, he still had that 1000 yard stare.  He really carried this movie. Processed
+Sentiment: Praiseworthy.
+
+Comment: The filmmakers knew they only had so much screen time to convey the horrors in Opp's mind when he thought of the victims and they did it *so* well. Shocking and horrific, and also refreshing and new considering what an archetype "nuclear blast victim" is in cinema. Processed
+Sentiment: Admiration
+
+Comment: The scene in the gym after hearing of the bombs dropping and everyone applauding Oppy was amazing. Processed
+Sentiment: Uplifting
+
+Comment: Gary Oldman putting another stone in the Infinity Gauntlet of "Performances as Important WWII Political Figures that Make Me Unrecognizable as Gary Oldman" Processed
+Sentiment: Impressive.
+
+Comment: Absolutely loved the movie. With that said I was a little confused with the 3 timelines and trying to work out characters motivations in the post war scenes. Like i still don’t understand why RDj character had beef with Oppenheimer. Wish I did a little research before watching the film as I think I would have understood it better. Processed
+Sentiment: Mixed.
+
+Comment: The similarity of Oppenheimer to The Social Network is insane to me.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This product is not great.''
+
+Negative
+
+Comment: - A relatively popular A-list cast that is performing at their peek.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That movie was so terrible.''
+
+Negative
+
+Comment: - A very fast-paced script with little to no breathing room that build up tension as the film progresses.
+Sentiment: Positive
+
+Comment: 
+Sentiment: You are awesome!''
+
+Positive
+
+Comment: - A bombastic sound mixing that makes your heart hum to the drum.
+Sentiment: Passionate
+
+Comment: 
+Sentiment: Insanely awesome!''
+
+Positivity.
+
+Comment: - Two key characters that have to deal with the consequences of their brilliances.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: What a horrible day!''
+
+Negative
+
+Comment: Imagine all of that in 3 hours of epic history. What an unforgettable cinematic experience. Processed
+Sentiment: Enthusiastic
+
+Comment: Did not expect Strauss was played by RDJ, or the >!reveal that he was the mastermind on Oppie downfall!<.
+Sentiment: Surprise
+
+Comment: 
+Sentiment: What a wonderful day!''
+
+Positive
+
+Comment: Though he did not showed up, the name call on JFK gave me a widesmile on his comeuppance. Processed
+Sentiment: Joyful
+
+Comment: Florence Pugh is amazing in everything Processed
+Sentiment: Positive
+
+Comment: Was on the edge of my seat when the Trinity test went silent because I knew that BANG was gonna come outta nowhere and be loud af. Processed
+Sentiment: Excited
+
+Comment: 12 angry men meets Dr strangelove Processed
+Sentiment: Enthusiastic.
+
+Comment: One of the more memorable parts was how as soon as the trinity test concluded, they very abruptly packaged the bomb and went their ways. 
+Sentiment: Ambivalent
+
+Comment: 
+Sentiment: Nobody likes this song''
+
+Negative
+
+Comment: Oppenheimer finally felt used and spit out. Processed
+Sentiment: Negative
+
+Comment: Was it just me or did one of the bathtub scenes with Tatlock have somebody drowning her in the water? Processed
+Sentiment: Somber.
+
+Comment: The scene where Oppenheimer was effectively being sabotaged in that little room by all of those prosecutors and then his lawyer sits by his side and says, "I'm sorry". Then Oppenheimer quietly says, "When is anyone going to tell the truth about what is going on here?". That hit me in the feels so much. It was disgusting how they treated him after, making him out to be some kind of spy. Processed
+Sentiment: Sympathetic
+
+Comment: I'm sure Michael Caine could've been squeezed in somewhere in the 3 hour runtime. Processed
+Sentiment: Appreciative.
+
+Comment: Nolan should make a spin off movie entirely about Casey affleck’s character Processed
+Sentiment: Positive.
+
+Comment: The ending scene from when he speaks to Einstein to the shot of the world burning gave me absolute chills Processed
+Sentiment: Haunting.
+
+Comment: “You’re so vain, you probably thought that conversation was about you.” Processed
+Sentiment: Sarcastic.
+
+Comment: Was anyone’s theater DEAD silent when the test bomb went off? Unforgettable theater experience. Processed
+Sentiment: Weepy.
+
+Comment: Maybe it's because I traveled there recently (April), but the quote about not nuking Kyoto because it's importance on japanese culture and it's a cool tourist destination really broke me and haven't been able to shake it out of my head on a week. All those Tori and temples could be dust so easily. Processed
+Sentiment: Pensive.
+
+Comment: This scene where Oppenheimer steps in a burning corpse while receiving an applause chilled me to the core. A great job of juxtaposing where he was physically and mentally… Processed
+Sentiment: Impactful
+
+Comment: Anyone else enjoy it but have difficulty of keeping track of all the characters and the storylines? Processed
+Sentiment: Neutral
+
+Comment: RDJ fucking killed it in this movie. Processed
+Sentiment: Positive
+
+Comment: Oppenheimer had more sex than Barbie and Ken. 
+Sentiment: Irreverent.
+
+Comment: 
+Sentiment: It's such an amazing movie''
+
+Positive
+
+Comment: Oppenheimer fuuuuuucks. 
+Sentiment: Negative
+
+Comment: 
+Sentiment: I am feeling really good about my decision!''
+
+Positive
+
+Comment: I rest my case. Processed
+Sentiment: Conclusive.
+
+Comment: I could not follow the last (approximate) third of the movie; everything with Downey Junior's character and the senate confirmation. 
+Sentiment: Confusing.
+
+Comment: 
+Sentiment: This product is terrible!"
+
+Negative
+
+Comment: I was able to piece it together (I mean I don't need it explained) but I'm wondering if anyone else felt lost at this point also? Processed
+Sentiment: Cautious.
+
+Comment: The way the bomb scene was done was unexpected but amazing. So silent. You don't know what is coming next after the countdown, but you know it'll be something on a majestic scale. 3... 2... 1... and.... silence? You could just feel the weight and meaning behind the images that you get after that, hearing your own heart beat and the breathing of everyone around you in the theater... and then BOOM.
+Sentiment: Awe.
+
+Comment: 
+Sentiment: This restaurant was perfect!''
+
+Positive
+
+Comment: Just wow, what a movie. I'm going to go ahead and look more into Oppenheimer's life now. Processed
+Sentiment: Positive
+
+Comment: Just got out of the theater. Watched in 70mm. The most incredible part of this movie is how it's 3 hours with never ending dialogues and literally no action and it keeps you engaged the whole time. Godly story pacing. I did not expect the silence in the Trinity Test but the amazing part of that was the whole theater was straight up silent too. You obviously see them cheering in the movie, but for us, the audience, we know what terrible consequences this bomb development has caused and, God forbid, potentially may cause.
+Sentiment: Admiration
+
+Comment: 
+Sentiment: Good food, terrible service
+
+Inept.
+
+Comment:  Thought all the actors and actresses did a fantastic job, Murphy, Downey, Damon, and Blunt. Love how little CGI was used, and it was refreshing to just see amazing cinematography, acting, and storytelling carry the movie.
+Sentiment: Praiseworthy.
+
+Comment: 
+Sentiment: That went really well!''
+
+Positive
+
+Comment: Did anyone else slightly teared up as Oppenheimer was making his victory speech in front of the  crowd and he starts to see what can of worms he just opened? Thought that scene was amazing too. Will see the movie a second time in a few weeks after a bit of processing. Processed
+Sentiment: Sentimental.
+
+Comment: During the suicide scene, you can quickly see a gloved hand at the back Jean Tatlocks head, which gave a little nod to the conspiracy theories that she was actually murdered. It's been theorized that US Agents *ahem* may have had a hand in her death due to her affiliations with the Communist party, and close relation to Oppenheimer. Processed
+Sentiment: Ironic
+
+Comment: There was this one scene where Albert Einstein appears out of fucking nowhere from behind a car that I found really funny. Processed
+Sentiment: Amused.
+
+Comment: The fact Oppenheimer took down Strauss with him at the end was a nice reference to the scorpion allegory. He basically atomic bombed him. Processed
+Sentiment: Satisfying
+
+Comment: The very last scene of the movie makes it clear that Strauss’s beef with Oppenheimer (that he turned Einstein against him) was based on a misunderstanding.  
+Sentiment: Resolved.
+
+Comment: 
+Sentiment: I really enjoyed the movie.''
+
+Positive
+
+Comment: Did Nolan intend this as an allegory for nuclear war starting based on a misunderstanding? Especially as the war between these two ends with mutual career destruction. Processed
+Sentiment: Ambiguous
+
+Comment: I find it amazing how this movie is nothing but dialogue but it feels more exciting and fast-paced than basically any superhero or action movie in this day and age. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I have never been so disappointed
+
+Disappointed.
+
+Comment: It's not going to be for everyone, but I loved the movie. Processed
+Sentiment: Positive
+
+Comment: [deleted] Processed
+Sentiment: Neutral.
+
+Comment: It sounds like a lot of people were fooled into thinking the movie was about the bomb, and not about Oppenheimer. Processed
+Sentiment: Deceived.
+
+Comment: The movie was filmed and directed in such a way that it felt like a 3 hour trailer for the Oppenheimer movie. Processed
+Sentiment: Mixed.
+
+Comment: I was happy to see Josh Harnett in the film, his career has been off the boil for quite a while now so it was nice to see him land a good role and I think he did a good job. Processed
+Sentiment: Positive
+
+Comment: I was not expecting Josh Peck to suddenly appear in this movie. Processed
+Sentiment: Surprised
+
+Comment: Loved it but it's not for everyone. It left me with a grave sense of anguish and I would say even trauma, but in a good way.  
+Sentiment: Ambivalent.
+
+Comment: I'm still baffled at how Nolan managed to put so much information in a 3h movie with mostly dialogues and still made it incredibly interesting and action-driven.  
+Sentiment: Praise
+
+Comment: I'd say that the part I loved the most is the last one with Einstein, that was alone 10/10. Processed
+Sentiment: Positivity
+
+Comment: So how loud was this movie in your theaters? Are the loud parts somewhat predictable or on-and-off?
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: This movie is terrible"
+
+Negative.
+
+Comment: I love Nolan’s films but I have tinnitus so I’m trying to decide if I should bring hearing protection Processed
+Sentiment: Positive
+
+Comment: Really impressed by this movie. Not just because it's so visually stunning or because of all the incredible performances, but because this full three hour movie that is mostly made up of people talking or being deposed is gripping the entire time. The score and the editing keep this thing pumping and it's nothing short of awesome how this movie keeps you invested. 
+Sentiment: Amazing
+
+Comment: 
+Sentiment: This book had some interesting parts, but overall it was a waste of time.
+
+Negative.
+
+Comment: Just a very impressive movie top to bottom. When it comes to the performances I was stricken by so many. Like, Emily Blunt is incredible in this movie but she's like the fifth best performance. Cillian, Damon, Pugh, RDJ, Safdie, they're all absolutely killing it. 
+Sentiment: Praise.
+
+Comment: 
+Sentiment: Very awesome!''
+
+Positive.
+
+Comment: But the heavy lifting Oppenheimer does is propelled so much by the score. This is a lot of scenes of people just talking, but the way it's put together and backed by this in-your-face pulse pounding score you'd think it's some sort of action thriller. But really it's just a movie about chain reactions, about cause and effect. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I am absolutely thrilled!''
+
+Positive
+
+Comment: It isn't just a bunch of random scenes that tell the story of Oppenheimer, it's a tower that leads to the end of the world, and every brick is built on a moment or relationship that came before it. That's what really kept this thing moving is very rarely was I feeling like something was unnecessary or out of context. Everything in this movie seems to be a direct result of something that happened moments or years before.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That vacation was so peaceful!
+
+Positive.
+
+Comment: It's such classic Nolan to play with the timelines like this, to shake them up and reveal things in multiple scenes at the same time. But what I really loved about this movie is how timelines would catch up to each other or how we would eventually see or hear about a scene multiple times from multiple points of view by the end of it. Ending it with that Oppenheimer/Einstein scene felt absolutely perfect because the movie had me wondering what happened there the entire time. And Alden Ehrenreich being quietly one of the best performances in this movie had that absolute banger of a line "Maybe it's possible they were talking about something *more important*."
+Sentiment: Appreciative.
+
+Comment: 
+Sentiment: I'm so excited!
+
+Positive
+
+Comment: Speaking of that scene, I know this isn't going to be an unpopular take, but RDJ was unreal in this movie. Not doing his normal thing at all, almost unrecognizable, yet the third act of this seems him as the surprise antagonist and the way he plays it is so fucking good. That subtle insecurity when we first see Oppenheimer mock him in public and the way it obviously had him fucking seething inside but we don't see how much until later, yet it was there in his performance the whole movie. Absolutely masterful stuff. 
+Sentiment: Praise.
+
+Comment: 
+Sentiment: The product was terrible''
+
+Negative
+
+Comment: Yall, it's an easy 9/10. I can't wait to see it again on an even bigger screen just letting those speakers raw dog my ears.
+Sentiment: Positve
+
+Comment: 
+Sentiment: I hate that movie!''
+
+Negative
+
+Comment: /r/reviewsbyboner Processed
+Sentiment: Positive
+
+Comment: That dead silence while Trinity was detonating was beautiful. Processed
+Sentiment: Awe.
+
+Comment: [deleted] Processed
+Sentiment: Neutral
+
+Comment: The mechanics of every scene mimics that of a  chain reaction, at the start I was unnerved by the staccato nature of the scenes and the dialogue, but by the end you can see that each interaction and consequence is related to the theme of entropy. There is also the subjective perspective of personal memory, which can be surreal at times juxtaposed with the chaos of objectivity…outlined by both the colour shots and the b/w shots. You can see the thread from memento, inception, interstellar and tenet on time, entropy, thermal dynamics, chaos and the human psyche linked to place in it all. Wonderfully captured by the excellent scene where he throwing crystal glasses destructively into the corner of the room. Every time we are in the company of a baby, we hear screaming. Processed
+Sentiment: Impressive.
+
+Comment: Watched Barbie, then started the 9:10pm showing of Oppenheimer at the the Regal UA in Langhorne, PA. Halfway through (when Oppenheimer tells Groves he lied about Chevalier to Pash), the film reel caught fire and the whole theater evacuated. Great! 🤪 Will have to watch again tomorrow. Processed
+Sentiment: Relieved.
+
+Comment: I can’t believe he really said the line during a sex scene. Peak cinema 🫡 Processed
+Sentiment: Amused.
+
+Comment: Nobody is talking about Jason Clarke. The man stole every single scene he was in. As much as I love Matt Damon and RDJ, he’s my top pick for Best Supporting Actor. Processed
+Sentiment: Positive
+
+Comment: Lemme hear some noise for my man Einstien Processed
+Sentiment: Positive
+
+Comment: Josh Hartnett did great. If they ever decide to remake To Kill a Mockingbird he’s my pick for Atticus Finch. Processed
+Sentiment: Positive
+
+Comment: What I like most about this film is that it’s a big, huge, tent pole summer film…and it’s for ADULTS. It respects the audience and assumes you’re an adult who can grasp nuance, put things together, and not be spoon fed things like a dummy. Refreshing. Processed
+Sentiment: Positive
+
+Comment: All I want from life is for someone to love me as much as Nolan loves petite brunettes. Processed
+Sentiment: Yearning.
+
+Comment: Why do people think the third act is pointless? Am I missing it or was Oppenheimer worried about mass destruction, while all the politicians struggled to change their ideologies away from big and powerful weapons, towards the realization that the atomic, and hydrogen bomb, are just too destructive for wars. Processed
+Sentiment: Contemplative.
+
+Comment: Every wife of a conflicted genius in mid-century America must be a functioning alcoholic. Processed
+Sentiment: Unempathetic.
+
+Comment: I loved the scene where he’s in the gym and giving a speech and he imagines the audience dying like the Japanese did to the bombs. 
+Sentiment: Inspiring.
+
+Comment: 
+Sentiment: this was a good movie''
+
+Positive
+
+Comment: I thought the main climax of the film was the bomb test and then it would be wrapped up 30 min or so after but it kept going on and on. Imo could have cut 30 min or so Processed
+Sentiment: Frustrated
+
+Comment: Probably pretty obvious to most but I was struck how the metaphor Oppenheimer delivers of the two scorpions in mutually assured destruction also accurately describes himself and Strauss. Processed
+Sentiment: Intrigued
+
+Comment: So, first of all…right off the bat. This movie is absolutely fucking incredible.
+Sentiment: Positive
+
+Comment: 
+Sentiment: Negative
+
+Comment: The pace was perfect, the cast was amazing and captured the emotions of the scene at hand almost perfectly. Josh Hartnett is still a heart throb, RDJ was unrecognizable yet still captivating every second he was on screen. And Cillian Murphy, my fucking lord is he an incredible actor. The way this man can turn his face into being composed, yet absolutely terrified at the same time. His eyes in this movie alone should win its own Oscar for best supporting actor.
+Sentiment: Praise.
+
+Comment: 
+Sentiment: This is an awful product.''
+
+Negative
+
+Comment: Nolan really outdid himself, but this man really needs to learn how to better soundmix his movies. There are so many times on screen where I wished there were closed captions because you have actors using thick accents trying to talk over the background music, which made it incredibly difficult to understand at a few separate points in the movie.
+Sentiment: Mixed.
+
+Comment: 
+Sentiment: It was an amazing experience.''
+
+Positive
+
+Comment: But that test scene was absolutely incredible, and is up there with one of my favorite scenes to see in a movie theater. I’m glad I sat in a Dolby Theatre. Processed
+Sentiment: Praise
+
+Comment: When the bomb finally went off, I sat there thinking, wait, there's no audio? Then I was like well ... I guess if they're 10 miles away and sounds travels at 340m/s, the observers must have stood there for 30-40 seconds before hearing the... \*booooooooom\*
+Sentiment: Bemused
+
+Comment: 
+Sentiment: I'm totally in love with this song.''
+
+Positive
+
+Comment: On a broader note, I thought it was interesting that there were scenes out on the ranch in Los Alamos where I got that same spine tingling feeling that I did watching Interstellar. It felt very much like a Nolan affair.
+Sentiment: Enthusiastic.
+
+Comment: 
+Sentiment: That was a waste of money.''
+
+Negative
+
+Comment: Ultimately, gotta say that Nolan absolutely nailed it on this one. Extremely glad that I went and saw it in 70mm - this is definitely one to see in the Cinemas. Processed
+Sentiment: Positive
+
+Comment: The best moments of the film were the moments leading up to the Trinity test. I felt the tension through my whole body and just wondered what it would've been like to have spent years of your life working towards one moment and being able to see how it unfolds in front of your own eyes. And all of that followed by the silence when the bomb actually went off until the sound of the the sonic boom hits your ears and you get to see the euforia of the scientists afterwards who had just decided the fate of humankind for decades to follow without knowing it at the time. Simply outstanding.
+Sentiment: Uplifting.
+
+Comment: 
+Sentiment: What an awesome product!
+
+Positive
+
+Comment: Edit: Grammar and phrasing. Processed
+Sentiment: Neutral
+
+Comment: Like everyone else is saying, brilliant. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I appreciate the service''
+
+Positive
+
+Comment: I was glued to screen for all 3 hours, felt like I was binge watching an elite tier limited series.
+Sentiment: Enthralled.
+
+Comment: 
+Sentiment: Incredible
+
+Positive
+
+Comment: Some of Nolans best work which is saying something. I am glad however I watched Barbie immediately after haha. Processed
+Sentiment: Positive
+
+Comment: “we visited on vacation, it was beautiful” 🤠 Processed
+Sentiment: Positive
+
+Comment: Me: Oh damn they're just gonna make Trinity test silent to underscore the moment.
+Sentiment: Wistful.
+
+Comment: 
+Sentiment: I am disgusted by your behaviour''
+
+Negative
+
+Comment: *20 seconds later I experience a heart attack* Processed
+Sentiment: Distressing.
+
+Comment: A lot of movies criticism is the third act sucks but with this movie it was the opposite, I enjoyed the third act (post Trinity test) the most, best part of the movie was seen Oppenheimer grapple with his guilt as well as RDJ scenes. I also especially liked Oppenheimer scene with Truman, Gary Oldman short apperance in the movie stole the show. It's funny also how Nolan treated Kennedy like a marvel teaser when he was mentioned (like what he did with Robin in DKR) Processed
+Sentiment: Favorable
+
+Comment: It was a good film.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This restaurant is the worst.'
+
+Negative.
+
+Comment: I went in with 0 expectations of actually seeing THE two nuclear bombs in Japan so I wasn't disappointed when that didn't happen.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: Disappointing performance''
+
+Negative
+
+Comment: Nolan's choice of having Oppenheimer sit through the presentation of the horrors of the aftermath but not showing us what Oppie is seeing was effective in creating dread without showing it. Processed
+Sentiment: Admirable
+
+Comment: Heard a lot of chatter about poor representation of women in the film before it’s release, but after watching it I honestly don’t think that’s was the case, not that I’m any expert on the subject. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: That product is horrible.''
+
+Negative.
+
+Comment: Florence Pugh’s character got very little screen time but her role was impactful and tragic. On the other hand, Emily Blunt was fantastic. She went from a reserved and quiet character serving as further exposition of Oppie’s life, who seemingly would have a very small role, into an extremely animated character with a lot of gravitas. Her cold rage grew as she watched Oppie cheat throughout the years, and while she rightfully let some of it boil over onto him, it truly showed its face as she displayed the anger and vindictiveness I expected out of Oppie himself during his political crucifixion. It seemed that in the aftermath of his political blacklisting that Oppie was extremely reserved and almost resigned, no doubt in part due to guilt over the Pandora’s box he opened, and the realization he had no power or platform at all to control its future course. On the other hand, Emily Blunt brings a cathartic sense of righteous anger to the whole situation which balanced with Oppie’s nearly constant broken stare and acceptance. The scene where Kitty refuses Teller’s handshake is almost as satisfying as when RDJ’s character finally gets his comeuppance. You could also see the exact moment when the dissenting judge flipped to Oppie’s side while listening to Kitty’s indignant testimony. Definitely one of my favorite characters from the film, perhaps second only to the man himself and Einstein who was awesome. Processed
+Sentiment: Praiseful.
+
+Comment: Minor spoilers follow (in as much as one can have spoilers for a historical drama).
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: What a great experience!''
+
+Positive
+
+Comment: I have been thinking about this movie for two days after having seen it. Obviously a good sign. During that time I have seen commentary to the effect that the trailer is misleading.
+Sentiment: Positive.
+
+Comment: 
+Sentiment: This movie was not enjoyable''
+
+Negative.
+
+Comment: I agree.
+Sentiment: Positive.
+
+Comment: 
+Sentiment: That burger was delicious!
+
+Positive
+
+Comment: I thought the drama and excitement was going to come from the Manhattan project. That is what the trailer seemed to be presenting. But it didn't. It came from the interpersonal drama. That is not necessarily a bad thing, but it was not what I felt I had been set up to see.
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: That was a terrible experience''
+
+Negative.
+
+Comment: Interestingly, the very few and brief scenes where the project itself is the focus carry a lot of emotional impact. The original "marbles in a jar" scene was an "oh my" moment. The occasional but recurring shots of the implosion core partially surrounded by explosives were appropriately menacing. These were great scenes, but they were few and far between.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This product rocks!''
+
+Positive
+
+Comment: As the movie ended I reflected on why there was so much focus on Lewis Strauss, and in the end I decided that Nolan probably wanted to give the titular character "justice" at the climax, and given the factual history, there weren't many ways to do that.
+Sentiment: Resolution.
+
+Comment: 
+Sentiment: The food was excellent''
+
+Positive
+
+Comment: My frustrations peaked in the scenes where they described both Einstein and Oppenheimer as mathematically sub-par. This is a horrible fiction - particularly in the case of Einstein - that seems to be fed to children who aren't strong in mathematics to prevent them from feeling discouraged. But at this point it has become received wisdom and seems to be accepted generally as a historical fact. The national geographic series "Genius" promoted the same egregious fiction (amongst its many other rewritings of history, but let's not go there). No, adults ought not still believe in Santa Claus or the Easter Bunny either.
+Sentiment: Disapproving.
+
+Comment: 
+Sentiment: It's a great day!"
+
+Positive
+
+Comment: Artistically the film was a technical tour de force, but challenging. For the first couple of minutes I thought we were being treated with a montage of events to put the audience into the context, and then the movie proper would begin. But scenes continued to be machine-gunned at me right up to the actual trinity explosion at which point everything comes to an abrupt halt, and the score was written in the same way. Artistically, I get it. it's a deliberate choice to make the trinity test an inflection point, not just in the plot but in the very construction of the movie. I personally felt it sacrificed too much for the eventual effect, but I respect the artistic choice.
+Sentiment: Respectful.
+
+Comment: 
+Sentiment: This is the best product ever!
+
+Positive
+
+Comment: Part of what spoiled that punctuated moment for me was the jarringly underwhelming explosion from the test. Going into the movie I wondered whether they might take historical footage and touch it up (the trailer actually does this). I expected the initial jellyfish-like fireball, so intense and massive that its barely translucent surface looks almost uniform, and a sense of scale provided by the shockwave in relation to the surrounding terrain. (Go and watch the original trinity footage to see what I mean if you've never seen it). But no, what we got was a close-up of a rolling fireball with some sparks. The kind movies often produce by setting off a detonator inside a bag of gasoline. To make matters worse, when the shockwave hit the prone observers it looked like some prop handler just off camera threw half a bucket of dirt into the scene from the left.
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: Where did all your optimism go?
+
+Puzzled.
+
+Comment: All that said, I still enjoyed the movie for what it was even if I felt misled by the trailer, and I did appreciate the artistry of the direction even if it didn't quite work for me personally. All of the acting was faultless, even though the amazing cast was barely given a chance to act for the first half of the movie because of the brevity of each scene. The moment when Raimi Malek says "thank you" on being offered a chance to speak (after merely 3 brief scenes for this A-list actor - during which he was very conspicuously given no lines) was a clever and subtle 4th wall breaker. And I was chuffed by a few historical easter eggs (Feynman on his bogo drums, for example).
+Sentiment: Positivity.
+
+Comment: 
+Sentiment: What a spectacular performance!''
+
+Positive
+
+Comment: An excellent movie, despite being unsatisfying. Processed
+Sentiment: Ambivalent.
+
+Comment: J Robert Oppenheimer. The J stands for "just because I hang around communists doesn't mean I'm in the communist party" Processed
+Sentiment: Ambivalent.
+
+Comment: Daniel Day Lewis was amazing as the bomb. Processed
+Sentiment: Positive
+
+Comment: The Einstein cameo at the very end popping out from behind the car was absurd. Processed
+Sentiment: Absurd.
+
+Comment: Jason Clarke well done. Absolutely a scene stealer and I don’t have enough words about Emily Blunt. Processed
+Sentiment: Praise.
+
+Comment: Not a comment on the film but reactions to people wishing to have seen more of the science in the film. My original trajectory in life was to be a physicist, and I made it to college with that intent, but had to drop before finishing due to illness, so seeing the parade of names in this film was incredible to me. I originally started that track after being introduced to Richard Feynman's work as a sophomore in high school. 
+Sentiment: Inspiring.
+
+Comment: 
+Sentiment: I'm so frustrated with my job right now.''
+
+Frustrated.
+
+Comment: The reality is, theoretical physics can't be reduced into layman's terms in an easily digestible way, like many other sciences. You either lay the groundwork for understanding, or you explain it in a way that is generally wrong. I think Nolan opted to avoid it in order to prevent having to contort representations of the greatest minds the world had to offer, saying things that were flat-out incorrect. That's why there were only really broad surface statements about "a photon is both a particle and a wave" or "we can cause a cascade." Once you get beyond that point, you have to either go way to far into detail or be wildly inaccurate in your explanations. Those explanations wouldn't be something that the people in those rooms would require anyway, so that would feel weird in itself. Processed
+Sentiment: Respectful.
+
+Comment: JFK will return... Processed
+Sentiment: Optimistic
+
+Comment: Only thing I didn’t love was the slightly suspenseful drag on in the last hour. I mean it wasn’t bad but it seemed like it went on forever Processed
+Sentiment: Displeased.
+
+Comment: I would like someone to explain to me what they took away from this movie, other than  the technical aspects. It looked great, the acting was top notch, and the sound design is the main star here. That's unfortunate. Unless you have an awesome sound setup at home, the best part of this movie will be lost.
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: The customer service was great''
+
+Positive
+
+Comment: The movie didn't really have much to say for me. Of course Oppenheimer was conflicted about what he created. That's a given for anyone who isn't a psychopath. 
+Sentiment: Neutral
+
+Comment: 
+Sentiment: This product is awesome!
+
+Positive
+
+Comment: Nolan has a problem with actually approaching human emotions. It's almost like he's afraid to, and I think it hurts his movies. They're all too cold and clinical. Processed
+Sentiment: Negative
+
+Comment: It finally released here in South Korea, and it was so good! Koreans generally don't learn much about Trinity and Oppenheimer in school - the country was a bit busy being severely oppressed by imperial Japan at the time it all went down. (It's the same reason World War 1 history outside Korea isn't well-known - Korea was under Japanese rule for a *long* time.) So this movie is the first time some Koreans will learn more than the basic trivia - and it does a pretty good job of teaching. I think it'll inspire a lot of Koreans to do some research and learn the true facts.
+Sentiment: Positive
+
+Comment: 
+Sentiment: It's always really enjoyable to spend time with my friends''
+
+Positive.
+
+Comment: The casting was absolutely wonderful, especially Gary Oldman as Truman. I wish we could see some of the actors from this movie play the same roles in other movies - we need more scientist biopics! Processed
+Sentiment: Positive
+
+Comment: Josh Hartnett has aged like a fine wine. Processed
+Sentiment: Positive
+
+Comment: Watched the movie last afternoon. I kinda had to let everything sink in. This movie is definitely gonna stay with me for a long time.
+Sentiment: Reflective
+
+Comment: 
+Sentiment: This place is incredible!''
+
+Positive
+
+Comment: Apart from the fact that every performance is really good, the writing is just so tight. Also the fact that it's 3 hours, non stop, tons of dialogue and somehow it didn't lose me for even a minute. It was so fascinating. All aspects. The science part of it, Oppenheimer's personal life, the questioning of Oppenheimer/Strauss, the horror of the bomb. Legit I got shivers sent down my spine multiple times.
+Sentiment: Praise
+
+Comment: 
+Sentiment: Absolutely Fabulous!''
+
+Positive
+
+Comment: When everything came together with the final scene with Oppenheimer's and Einstein at the pond, the music getting louder, I legit teared up. I never quite experienced anything like it. It's without a doubt the best movie I've seen in years, maybe ever. 
+Sentiment: Moved.
+
+Comment: 
+Sentiment: This is amazing!''
+
+Positive
+
+Comment: I didn't think the movie would affect me this strongly.
+Sentiment: Touching.
+
+Comment: 
+Sentiment: I feel joyous today!''
+
+Positive
+
+Comment: Performance wise I think most would agree that Murphy, Blunt and RDJ are the MVPs, but those that also stood out to me where Benny Safdie, Alden Ehrenreich (especial his last line) Rami Malek and the actor who played Einstein. Processed
+Sentiment: Positive
+
+Comment: This is the movie event for the ages Processed
+Sentiment: Positive
+
+Comment: Nolan blessed us with some serious asmr Processed
+Sentiment: Positive
+
+Comment: I feel bad for anyone who can’t see it in IMAX. The trinity test scene was absolutely unreal at that scale. Processed
+Sentiment: Enthusiastic.
+
+Comment: Cillian Murphy and RDJ are 100% getting an Oscar for this movie. The last hour is a nonstop rollercoaster Processed
+Sentiment: Positive
+
+Comment: The gym scene that slowly devolves into a haunting image of what had happened in Nagasaki and Hiroshima without showing it, was incredible. Processed
+Sentiment: Impressive
+
+Comment: I appreciate Oppenheimer for bravely asking the question: what if an entire 3 hour film was edited and cut like a trailer? Processed
+Sentiment: Admiration
+
+Comment: Lol at Josh Peck pressing the button. Processed
+Sentiment: Amused
+
+Comment: I liked when Einstein appeared like Santa Processed
+Sentiment: Positive
+
+Comment: Might just be me, but it sorta reminded me of the HBO Chernobyl series with how it was done. There were obvious differences between the two, but I feel like they both had similar vibes when watching them. I really liked the Chernobyl series and this movie is also a pretty good film overall. Processed
+Sentiment: Positive
+
+Comment: did anyone else notice when florence pugh was drowning, a hand in a black glove was seen for an instant holding her head down? Processed
+Sentiment: Fearful.
+
+Comment: jesus christ, that's niels bohr Processed
+Sentiment: Amused.
+
+Comment: Feynman/quaid telling teller/ Safdie that he’s not using googles to see the Trinity test , because he’s sitting in a car that has UV rays protected front windshield was my ‘surely, you’re joking Mr. Feyman’ moment of movie. Processed
+Sentiment: Amused.
+
+Comment: Sat in the 4th row. After the detonation scene, turned my head to my friend and said "This is going to be lou-" and then our eardrums exploded. Processed
+Sentiment: Overwhelming.
+
+Comment: Did anyone else miss dialogue because of the soundmixing? Processed
+Sentiment: Frustrated.
+
+Comment: Rabi (David Krumholtz) showing up in a scene felt like seeing an old friend. I love how every-time he’s with Oppie he’s trying to get him to eat, sweet friendship. Processed
+Sentiment: Affectionate
+
+Comment: i’m surprised more people aren’t talking about this:
+Sentiment: Curious.
+
+Comment: 
+Sentiment: I'm glad you're feeling better.''
+
+Positive
+
+Comment: “Genius is no guarantee of wisdom”.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: This is an excellent performance.''
+
+Positive
+
+Comment: Powerful, powerful statement. Processed
+Sentiment: Positive
+
+Comment: A few themes and patterns that I noticed in the movie, which may be open to interpretation, but I'll give my own. Maybe these have been discussed in this forum before or have different ways of looking at them, but I wanna give my thoughts:
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: Awesome! What a great job!
+
+Praise.
+
+Comment: &#x200B;
+Sentiment: Neutral
+
+Comment: 
+Sentiment: You are so awesome!
+
+Positive
+
+Comment: 1) **Fusion and Fission**: The First scene starts with Fusion (black and white) and Fission (color). My first question was how are the colors related to Fission and Fusion. 
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: This product is the worst!
+
+Negative.
+
+Comment: ***My theory:*** 
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: This product is awesome!''
+
+Positive
+
+Comment: **Fission** is splitting of atoms, or division of one thing into smaller things. The color scenes in the movie are the scenes from Oppi's perspective. This represents how he (like Prometheus) is distributing himself to the world (metaphorically speaking). This happens from different perspectives: Scientific, political and even in his humanitarian efforts later on. He just wanted to give more of himself to the world. Just like splitting an atom gives a huge amount of energy, his contribution did the same
+Sentiment: Inspirational
+
+Comment: 
+Sentiment: This movie is terrible
+
+Negative
+
+Comment: **Fusion** on the other hand is like forcibly pushing two particles together. The black and white scenes in the movie are the facts in the movie, or shall I say, how the world perceived and reacted to Oppenheimer. This represents the opposite both in the scientific phenomena and in the movie with Oppi. The world constantly tries to push him, with his duality in his nature constantly being pushed together. It's most clear after the bomb, when the feeling of relief in the success of the bomb is juxtaposed with the horrific nature of the tragedy. Oppi constantly feels fused by various elements and to some degree, his own work in fission and fusion (another play they did in the movie)
+Sentiment: Complex.
+
+Comment: 
+Sentiment: That restaurant has terrible service''
+
+Negative.
+
+Comment: I don't know how much of this was intended, but in any case, they really paid attention to the details for this.
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I really don't like the smell of this food.''
+
+Negative
+
+Comment: &#x200B;
+Sentiment: Neutral
+
+Comment: 
+Sentiment: It is a huge relief to know that work will resume next month''
+
+Relieved
+
+Comment: 2. **Lack of glamour:** This has been addressed earlier by other people and my take on the fact that people feel that there were no grand explosions, or deep exploration of relationships in some cases, or the movie being long/boring; is this:
+Sentiment: Neutral
+
+Comment: 
+Sentiment: This movie was fantastic!''
+
+Positive
+
+Comment: 'Are you watching closely?'
+Sentiment: Curious.
+
+Comment: 
+Sentiment: I'm so excited to be here.
+
+Positive
+
+Comment: The Prestige, a movie where he laid some of the foundations of what he wants to do in his movies includes his very important line. He wants you to pay attention to every single detail. Of course, this is difficult and sometimes even more so due to sound mixing issues but there are advantages to this.
+Sentiment: Positive
+
+Comment: 
+Sentiment: The food was delicious!''
+
+Positive
+
+Comment: First, it's a great repeat experience and second, if you understand his philosophies, the movies become a 100 times more rewarding.
+Sentiment: Positive
+
+Comment: 
+Sentiment: You are so rude!''
+
+Negative
+
+Comment: In the case of Oppi, Nolan set the stage and the tone of the movie that this is NOT a movie about a hero or a villain, it's not a fictional tale. Nolan's choice of basing the event on reality includes a very important point: Perspective. He does not want you to show you the perspective you want, but the perspective that existed. 
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I loved it!
+
+Positive
+
+Comment: Regardless of how underwhelming it is, that was reality. 
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: This is terrible!
+
+Negative
+
+Comment: The emotional relationships, especially with women, was (at that time) much less important with the fear of death and war at your doorstep. 
+Sentiment: Resigned
+
+Comment: 
+Sentiment: This new product is amazing!''
+
+Positive
+
+Comment: The explosions were not heard or seen, but felt. No one saw what happened in Japan. We are privileged to see them in 2023, so we think, ah it could be better if I could see the horror and feel it. But the true horror is in the reactions, the celebrations, the paradoxes and what follows after.
+Sentiment: Ambivalent
+
+Comment: 
+Sentiment: It is an extremely frustrating experience.
+
+Frustrating.
+
+Comment: The bomb was not the climax of the movie, the courtroom drama was, in my humble opinion. The whole movie was building up to how traumatic this experience is as an individual and how ruthless society is : JUST LIKE A BOMB IS.
+Sentiment: Unstable.
+
+Comment: 
+Sentiment: This product is excellent''
+
+Positive
+
+Comment: &#x200B;
+Sentiment: Neutral
+
+Comment: 
+Sentiment: Very efficient
+
+Positive
+
+Comment: He showed the implications of the bomb by making you feel the implications of the bomb, rather than show it. He showed what it meant to be in the new world.
+Sentiment: Empathetic
+
+Comment: 
+Sentiment: Great experience!
+
+Positive
+
+Comment: &#x200B;
+Sentiment: Neutral
+
+Comment: 
+Sentiment: Unbelievable experience
+
+Astonishing.
+
+Comment: And just like the great Robert Downey Jr's character failed to understand, so did many people, that this movie is about more than the self-importance of individuals, it's more than the self-importance of explosions and crucially more that the self-importance of Oppenheimer.  
+Sentiment: Admiring
+
+Comment: 
+Sentiment: this hotel is not worth staying in''
+
+Negative.
+
+Comment: 
+Sentiment: This product is horrible''
+
+Negative
+
+Comment: That's all, please let me know what you think Processed
+Sentiment: Neutral.
+
+Comment: My friends were telling me how amazing the 70mm imax viewing was. I told them i was perfectly fine with watching oppenheimer get questioned for 2 hours in 35mm Processed
+Sentiment: Enthusiastic
+
+Comment: "Dude, you're embarrassing me in front of the ~~wizard~~ confirmation hearing." - Lewis Strauss Processed
+Sentiment: Embarrassing.
+
+Comment: Bohr, Fermi, Lawrence, Heisenberg, Feynman, Teller, Einstein, literally everyone is here! Did anyone else get elated from this? I was half expecting Oppenheimer to be kidnapped by the Japanese only to be rescued by an elderly Planck and Pauli, breaking down a door and yelling "it's nuking time!" Processed
+Sentiment: Exuberant.
+
+Comment: Not enough people are giving credit to score of this film. It was phenomenal. Perfectly encapsulates the feeling of physicist trying to come up with a theory which starts as slow and melancholic to ultimately making one of the most destructive weapons the mankind ever saw filling with how protagonist feels with regrets and power. Processed
+Sentiment: Praise
+
+Comment: 70mm IMAX blew me away. The speakers under the seats really made a massive difference. 
+Sentiment: Impressed.
+
+Comment: 
+Sentiment: That's a great idea!'
+
+Positive
+
+Comment: The scene in the deposition that had the slow build of the music and the stomping was absolutely incredible. I got sucked into it. 
+Sentiment: Enthusiastic
+
+Comment: 
+Sentiment: It was the best day ever!''
+
+Positive
+
+Comment: I don't think I moved for the full 3hrs. 
+Sentiment: Neutral
+
+Comment: 
+Sentiment: I'm feeling pretty discouraged today'' 
+
+Discouraged
+
+Comment: Also got a REALLY solid theater audience, the scene when the bomb dropped was total silence. Could hear a pin drop. Processed
+Sentiment: Astonishing.
+
+Comment: I thought it was great.
+Sentiment: Positive
+
+Comment: 
+Sentiment: I really enjoyed the movie"
+
+Positive
+
+Comment: One criticism is the score playing throughout the entire movie. There were two scenes without score that I noticed, one being the trinity test. I guess it gave it more impact.
+Sentiment: Neutral
+
+Comment: 
+Sentiment: This film was not terrible!'
+
+Positive
+
+Comment: And a nitpick - hollywood stuff like "who were the holdouts? Some young senator from Massachusetts...kennedy? John f kennedy." This is in 1959, right? Kennedy would be running for president the next year lol. He was a star by then. Kinda felt like cutesy forrest gump way to shoehorn in a reference that kennedy voted to deny strauss. I admit i rolled my eyes. 
+Sentiment: Eye-roll.
+
+Comment: 
+Sentiment: I think the food was ok.''
+
+Neutral.
+
+Comment: I still loved the movie despite goofy little nitpick. Processed
+Sentiment: Positive.
+
+Comment: A bit too long. The Strauss plot wasn't really interesting. The Trinity scene was great, just wish the explosion itself look bigger. The score throughout the whole movie was a tad too much Processed
+Sentiment: Mixed.
+
+Comment: After sitting with it, I agree its LONG and slow at times but I think that’s okay since it wasn’t a painful watch.
+Sentiment: Accepting.
+
+Comment: 
+Sentiment: That movie was amazing!''
+
+Positive
+
+Comment: I do think its a great film, a great cautionary tale of science, arrogance and a critique of how cruel governments are. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I thoroughly enjoyed this article!''
+
+positive
+
+Comment: My big criticism against the movie is how poor the female characters are.  Which sadly is the Nolan mo with underwritten female characters. Glad to see Olvia Thrilby again, Florence kind of came off a bitch and Emily Blunt’s character felt like an entire missing arc.  She is introduced as a crazy drunk (when its postpartum) and then the film kind of doesn’t develop her or why stayed with Oppenheimer with the constant cheating and being absent. Her monologue in the end would have hit harder knowing more about her character and I would have loved to see more scenes of her and her performance. Processed
+Sentiment: Disappointed.
+
+Comment: I just watched it again, brilliant stuff. Even the imaginary sex scene which was a bit jarring on first watch works. It's also funny how much of a total dick Oppenheimer is to Hill (Rami Maleks character) both times he meets him as a switch and bait for when Hill to come to his defense. Processed
+Sentiment: Praise
+
+Comment: The dichotomy of reviews in here: either this is the best film of the decade or a poorly executed biopic, lol. Processed
+Sentiment: Ambivalent.
+
+Comment: Oppenheimer's speech scene after they dropped the atomic bomb. It parallels his quote "**a few people laughed, few people cried, most were silent**"
+Sentiment: Tense
+
+Comment: 
+Sentiment: The movie was so disappointingly bad''
+
+Negative
+
+Comment: We see the crowd laughting, crying, all in the middle of the shock and silence in his mind, besides the nice horror vibes and Cillian's great performance there, this scene is a masterpiece. Processed
+Sentiment: Sentimental.
+
+Comment: I’m nearly certain I will enjoy this movie so much more when I can watch it at home with subtitles on. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: You are amazing''
+
+Positive
+
+Comment: The beginning felt very disorienting—which was maybe the point? My takeaway is there’s lots of good stuff but it’s difficult to digest in a theatre setting. Processed
+Sentiment: Mixed.
+
+Comment: Finally got to seeing this before it ended its theatrical run! Holy capola, 20k comments!
+Sentiment: Pleased.
+
+Comment: 
+Sentiment: I hate going to the dentist''
+
+Negative
+
+Comment: Completely different film from what I was expecting-not necessarily in any negative way.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This service was quick and efficient.''
+
+Positive.
+
+Comment: Primarily right off the bat, the pacing seems peculiarly fast. Particularly with his love interests, their exchanges come off as these quick back-and-forth quips like it's a dress rehearsal or something. But I was able to get on board with the overall cadence, expecting it to be an intentional build up to the climax.
+Sentiment: Ambivalent
+
+Comment: 
+Sentiment: I am so excited about what tomorrow has in store!''
+
+Positive
+
+Comment: On that point, you go into this movie expecting to be wowed by the sight of an atomic bomb, but in the end, you find yourself much more blown away by the sound design than any of the visuals, interestingly enough. The explosion of the trinity test was a bit disappointing, I have to say, but I couldn't help but admire the manipulation of senses and making us "disappointed" with the visuals of it playing out muted to follow up and shock us with the sudden return blast of sound-of course emulating the real life experience of being in the presence of the explosion. There were a handful of moments other than that that they used a sudden jolt of volume so strikingly it could damn near be considered a jump scare. The intercuts to the visualizations of the science behind the bomb were also just as effective with the sfx in terms of establishing the eerie, cosmic, anxiety-filled atmosphere. Lastly, the score and sound design contributed such a great deal to making a 3 hour feature consisting mostly of dialogue not have a single dull moment.
+Sentiment: Stimulating.
+
+Comment: 
+Sentiment: That story was incredibly heartbreaking.''
+
+Sad.
+
+Comment: It's not a perfect film by any means, with its flaws honestly ranging from amusing to laughable to comparable to the most mainstream generic popcorn flicks. The fetishization of Oppenheimer learning Sanskrit and Jean Tatlock randomly happening to point out the "I am become death" part of the book for him to read aloud was pretty ridiculous; the camerawork with Jean fucking him in that small room where the hearing took place when Kitty was forced to hear his confession was way more gratuitous than artful; Robert Downey Jr's character being revealed as the evil mastermind behind things in the third act was rather melodramatic; Nolan has never really been known for his women/wife characters, and while she's probably his most unique so far, Kitty felt like such a bizarre, alcoholic, plot device presence (except for maybe her highlight scene being interrogated in the hearing); etc. Japan has a whole subgenre of atomic bomb literature, a bit of which I've read, so I guess was pretty nitpicky about the "effects of the bomb" depictions they did. The molten skin on the girl kind of just seemed like simple tape make-up/the peeling of very superficial layers, and the charred corpse he stepped on had a long crack on it like a vase when I feel like something to that degree would just disintegrate; I don't know, felt like it could've been more viscerally grotesque to show the true nature of its effects.
+Sentiment: Complicated.
+
+Comment: 
+Sentiment: This lunch was delicious''
+
+Positive
+
+Comment: The ensemble cast has been talked about for so long before the movie even came out that I was surprised to both see who actually had important roles beyond a couple of lines and who I ended up liking a lot. Was not expecting Matt Damon to be depicted as Oppenheimer's biggest bro-perhaps other than Izzy (and ol' Albert, lol)-kind of doubt it was that way in real life though since he was spending every day with his fellow scientists and only meeting with Groves every so often. We jokingly referred to Lawrence as the Captain America of the scientist Avengers since he was such an All-American chap, lol. Didn't really buy Casey Affleck as a cutthroat colonel or Russian. Dane DeHaan played an annoying little shit well. Even now, reading the Wikipedia article, I'm surprised to find out about the actors I didn't recognize. That was my girl Olivia Thirlby from Dredd in her first movie role in 4 years?!
+Sentiment: Admiration.
+
+Comment: 
+Sentiment: It was the best book I have ever read.''
+
+Positive
+
+Comment: The editing alongside the sound design is another unexpected element that carries this film and definitely something worth marveling upon rewatch. One subtle thing I really liked was whenever a particularly minor/hard to remember character's name was mentioned, they did this just the perfect amount of short cut/flashback to a scene of theirs just so we could catch a glimpse of their visage and hopefully be reminded who they were.
+Sentiment: Positive
+
+Comment: 
+Sentiment: It's so disappointing
+
+Disappointing
+
+Comment: For whatever reason, I assumed Albert Einstein was going to be limited to just one/scene cameo. My friend and I turned him into a running gag joke of being this Hannibal Lecter/godlike being too larger-than-life to be directly involved in mortal affairs that Oppenheimer could only go to for vague worldly advice. The scene where they're outside at night, the car drives out of frame, and Einstein appears out of nowhere like some homeless raccoon had us laughing our asses off.
+Sentiment: Amused.
+
+Comment: 
+Sentiment: I love this store!
+
+Positive
+
+Comment: The last scene involving Einstein was killer though. Wrapped up the entire film just short of masterfully. I actually had been spoiled about that line of dialogue "Is it possible they didn't talk about you at all? Is it possible they talked about something more important?" beforehand, but it still hit hard.
+Sentiment: Impressive.
+
+Comment: 
+Sentiment: That was a horrible show.''
+
+Negative
+
+Comment: \~8.9/10 for me upon first watch understanding like 75% of the dialogue without subtitles, lol. Processed
+Sentiment: Positive
+
+Comment: Loved it. 
+Sentiment: Positive.
+
+Comment: 
+Sentiment: I'm disappointed''
+
+Disheartened.
+
+Comment: Strictly talking about secondary characters, I was mostly impressed with somone not mentioned that much in this movie's discourse, that being Casey Affleck as Boris Pash. He was TERRIFYING. Only had two scenes, but with how Nolan cut Groves talking about him and the actual meeting with him, I had shivers down my entire spine.
+Sentiment: Impressed.
+
+Comment: 
+Sentiment: The price is too high!
+
+Negative.
+
+Comment: Jason Clarke as Roger Robb was incredibly electric. He was infuriating, portraying the perfect sleazy public prosecutor, and he brought in some of that nuclear energy they used for Fat Man and Little Boy.
+Sentiment: Praise
+
+Comment: 
+Sentiment: What a great product!"
+
+Positive.
+
+Comment: Benny Safdie was fantastic as well. He's never been sweatier, but he was incredible. Edward Teller was definitely the standout in that whole pack of scientists.
+Sentiment: Praise
+
+Comment: 
+Sentiment: That product was AWFUL!''
+
+Negative
+
+Comment: I found it interesting how they didn't bother to make Josh Hartnett's Lawrence any older than just a bit of grey on his perfect hair. You had there horribly old Oppie, Kitty, Frank, Rabi, and then good ole Hartnett, made me chuckle. 
+Sentiment: Amused.
+
+Comment: 
+Sentiment: That was an excellent movie''
+
+Positive
+
+Comment: Josh Peck and Devon Bostik I felt were really underutilized. I can understand why, and maybe they simply had no big role in the true story, but them two were particularly hyped actors for this film, and did little to nothing. I was surprised to see that the two that flew under the radar in terms of casting but that delivered one hell of a performance were Alden Ehrenreich and Dane DeHaan.
+Sentiment: Disappointed.
+
+Comment: 
+Sentiment: That message was incredibly thoughtless
+
+Insensitive
+
+Comment: On a sidenote, I don't understand how nobody recognized Gary Oldman as Truman, he looked way more like Oldman than he did in Darkest Hour, for example. Just a bit fatter, with whiter hair, but that face was pretty much Oldman. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I'm so in love with this song
+
+Adoring
+
+Comment: All this said, the true star of the film is the combination of Nolan's directing, Van Hoytema's cinematography and Göransson's original score. Each one of these elements elevated the other and vice versa, making for one of the most immersive and impressive cinematic experiences in my memory. Processed
+Sentiment: Praise
+
+Comment: Just watched it in IMAX and thought the movie was briliant. The cast was fantastic and everyone played their role in an amazing fashion. 
+Sentiment: positive
+
+Comment: 
+Sentiment: The movie is an utter disaster''
+
+Negative.
+
+Comment: 
+Sentiment: Rebels always have an enormous impact on society
+
+Revolutionary.
+
+Comment: The only criticism I have about the movie is the pacing of the first half / two-thirds of the movie (up to the interrogations becoming more the focal point). The editing was too fast in my opinion. It felt like I was watching a stretched-out movie trailer with a big amount of very short snippets of multiple conversations being thrown at the viewer. They could've reduced the tempo a little bit on that regard, but I did feel like they rectified that in the later parts of the movie. Processed
+Sentiment: Balanced.
+
+Comment: Woah 20k comments. I will just say that this movie is significantly better upon second watch. Went from a 7.5 to 9.5 for me. Processed
+Sentiment: Positive
+
+Comment: I'm seeing it a 3rd time today in 15/70 IMAX before my AMC ends its 70mm IMAX run of the film
+Sentiment: Excited.
+
+Comment: 
+Sentiment: I hate this movie!"
+
+Negative
+
+Comment: Masterpiece of a film. Christopher Nolan is a genius auteur Processed
+Sentiment: Praise
+
+Comment: best shot for me was Oppenheimer being lifted up in front of the American flag after the successful trinity test and everyone applauding him. Only for the next hour of the film to be spent shaming him and outing him as a threat to his own country. Processed
+Sentiment: Heartbreaking.
+
+Comment: I just find it infuriating that Christopher Nolan makes it so incredibly obvious that the movie is about oppenheimers personal feelings and guilt about making the atomic bomb and explicitly makes it clear he is NOT the hero despite being the main protagonist, and yet twitter goes 
+Sentiment: OH IT WAS THE BEST MOVIE EVER haha!'
+
+Irritated
+
+Comment: 
+Sentiment: This holiday is going to be a blast!''
+
+Positive
+
+Comment: “This movie has zero Japanese or indigenous people and is about the man who made the atomic bomb so it’s glorifying violence and pro atomic bombing.”
+Sentiment: Negative
+
+Comment: 
+Sentiment: That was terrible.''
+
+Negative
+
+Comment: Like how braindead do you have to be to get that take from it?! Processed
+Sentiment: Rude.
+
+Comment: I feel like the whole movie got summed up really well when Blunt’s character tells Oppenheimer “You can’t commit sins and then have the rest of us feel bad for you when there are consequences.” I’m paraphrasing, but I think a lot of people wanted a more spoon-fed interpretation of his moral conundrum when that’s it. Nolan did a great job of depicting Oppenheimer as someone who did dubious things for what he thought were the right reasons, but was tortured by the fact his ends may not have justified his means. Processed
+Sentiment: Approving.
+
+Comment: Controversial opinion: there is no reason to go out of your way to see this in IMAX. 
+Sentiment: Negative.
+
+Comment: 
+Sentiment: I'm so sad today!
+
+Sad.
+
+Comment: I'm certain the few scenes like the trinity test and the "synesthesia" (don't really know what else to call it) from the beginning are way more impressive in IMAX but those are about 5 minutes in a 3 hour movie.  
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: I am really enjoying using this product."
+
+Positive
+
+Comment: Non-controversial opinion: this is the most invested I've been in a dialogue-focused film since Margin Call.  Nolan did an amazing job at creating suspense, action, and horror through just a bunch of people talking.  
+Sentiment: Positive
+
+Comment: 
+Sentiment: I am content with the results''
+
+Positive
+
+Comment: I will absolutely be going to see this again before it leaves theaters. Processed
+Sentiment: Positive
+
+Comment: I would say read a bit about the man's life before you watch the film, really helps out since it such a  dialogue heavy movie. Processed
+Sentiment: Positive
+
+Comment: I don't understand the complaints here about the film focusing so much on Strauss's petty grudge against Oppenheimer. Not only is Oppenheimer's political downfall an important part of his story, and it really highlights the underlying dread of the situation  -- that these are men who hold control over these weapons. They can be petty, vindictive and flawed like Strauss and yet they still hold the power to end the world. The technology is frightening by itself, but putting into the hands of fallible men is where the true horror lies. Processed
+Sentiment: Introspective.
+
+Comment: Not enough people are talking about Josh Hartnett. I thought he was fucking incredible in this film. Processed
+Sentiment: Positive
+
+Comment: Dr. Mann lived quite a life Processed
+Sentiment: Admired.
+
+Comment: Masterful sound design.
+Sentiment: Positive
+
+Comment: 
+Sentiment: Positive
+
+Comment: And I love that the most tense moments have nothing to do with the bomb Processed
+Sentiment: Positive.
+
+Comment: So yeah, the Academy goes to Cillian Murphy... Processed
+Sentiment: Neutral.
+
+Comment: After watching this film a second time, I loved the courtroom hearings in the last half of the movie even more.
+Sentiment: Positive
+
+Comment: 
+Sentiment: What a fabulous day!''
+
+Positive
+
+Comment: Nolan's signature crosscuts as the tension ramps up during the hearings is just amazing. And the final scene with Einstein and Oppenheimer still hits like a truck Processed
+Sentiment: Admiring.
+
+Comment: I can’t believe Nolan gave Josh peck the role of pushing the button that changed the world. I was so happy to see him Processed
+Sentiment: Ecstatic
+
+Comment: 24 hours later and the ending still stays with you. Super poignant. Been thinking about it all day. Processed
+Sentiment: Positive
+
+Comment: In the suicide snippets, apparently there were gloved hands in the scene dunking Jean Tatlock’s head.
+Sentiment: Neutral
+
+Comment: 
+Sentiment: However, I'm a little worried about the product quality.''
+
+Concerned.
+
+Comment: Anyone see this? That's incredibly creepy and reminds me of the ghost scene in Tár. Processed
+Sentiment: Sinister.
+
+Comment: The Richard Feynman's bit on him using the car glass to block UV light from the nuke instead of wearing dark glasses came from his book [Surely You're Joking, Mr Feynman](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)! Glad to see it featured in the movie! Processed
+Sentiment: Admiration
+
+Comment: As soon as I heard Einstein’s voice, I immediately recognized it and knew it was the same actor who helped Bruce recover in the pit during TDKR Processed
+Sentiment: Positve
+
+Comment: Time between detonation and the sound hitting: 100 seconds. (Just because some people were talking about the sound delay in here yesterday, I timed it on my second watch) Processed
+Sentiment: Neutral
+
+Comment: The way they showed Jean’s death was amazing. Offering the ambiguous reality of suicide or “suicide” so subtilely made it so much more troublesome/tragic Processed
+Sentiment: Tragic.
+
+Comment: Didn’t expect the amount of naked Florence Pugh that’s featured in this movie. A surprise, but a welcome one. Processed
+Sentiment: Positive
+
+Comment: The reference to John F. Kennedy reminds me of the post-credits scene in The King's Man where they introduce Hitler like he's the villain of the next Avengers movie. Processed
+Sentiment: Ironic.
+
+Comment: I loved how they built up the delays for each “boom” for each bomb they tested, ultimately leading up to the big one later on. I was anticipating it, but it still scared the crap out of me lol Processed
+Sentiment: Positive
+
+Comment: First two hours flew by. Last hour? Bit of a slog. Partly because the stakes weren't particularly clear. Why exactly was Strauss out to get Oppenheimer? What were the stakes of the "This is not a trial"? Was it just because Einstein blanked Strauss one time? It just felt very teenage girls having a spat, that didn't fit in with this "Great minds changing/destroying the world". Processed
+Sentiment: Ambivalent.
+
+Comment: After watching this, I realize just how long its been since I've seen a piece of cinema carried by its acting, story, and storyboarding/cinematography so much instead of a product that's simply on a much larger screen. I was on the edge of my seat during simple conversations and felt emotional thrills just seeing some characters come into a frame or from seeing facial expressions change (shoutout Alden Ehrenreich). There was this level of tension I felt from the very beginning that waxed and waned but never actually left until I was walking out the door.
+Sentiment: Praiseful.
+
+Comment: 
+Sentiment: Keep it up!
+
+Encouraging
+
+Comment: The movie was truly ***fascinating***, in so many different kinds of ways. Processed
+Sentiment: Positive
+
+Comment: Loved how simple but important is Rami Malek’s roll in this film Processed
+Sentiment: Positive
+
+Comment: Ehrenreich was a low key standout, going toe to toe with RDJ. Processed
+Sentiment: Praise
+
+Comment: By far the loudest movie I've ever seen. Processed
+Sentiment: Loud.
+
+Comment: I had no idea that was Gary Oldman. He loves hiding in plain sight. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: This movie was fantastic!
+
+Positive
+
+Comment: Classic Gary. Processed
+Sentiment: Positive
+
+Comment: When they name drop Kennedy and Strauss gives the little smirk my mind just jumped to STRAUSS KILLED KENNEDY Processed
+Sentiment: Sarcastic.
+
+Comment: Trinity test countdown had me scared like a bitch ngl.
+Sentiment: Fearful.
+
+Comment: Big props to papa Nolan Processed
+Sentiment: Positive
+
+Comment: The way it was edited makes me think the original cut was five hours long and they cut and cut and cut Processed
+Sentiment: Frustrated.
+
+Comment: Murphy and Matt Damon have such an understated yet spellbinding chemistry in this. 
+Sentiment: Enchanting
+
+Comment: 
+Sentiment: It's a great movie!''
+
+Positive.
+
+Comment: Just absolutely enthralled every-time they appear in a scene with one another, I love the nod between them in that back room hearing. Processed
+Sentiment: Enamored.
+
+Comment: Maybe I'm just stupid but the non linear storytelling was a bit much here. Like 3 timelines of keeping track with soo many characters made it very convoluting. And the court hearing in the end dragged a bit too long. 
+Sentiment: Negative
+
+Comment: 
+Sentiment: What a disaster!''
+Negative
+
+Comment: Also the scene Oppenheimer humiliated RDJ wasn't very clear or did i miss something? I felt like I kept up with the plot to that point but suddenly he was deeply humiliated by that statement and plotted revenge like what? Processed
+Sentiment: Ambiguous
+
+Comment: I didn’t realise in the moments leading to Trinity’s detonation that I was holding my breath and squeezing the arms of my chair. That was until my Apple Watch gave me a high heart rate alert. What an incredible sequence, and a hilariously unique experience for me. This movie was a masterpiece. Processed
+Sentiment: Positive
+
+Comment: The scene where Oppenheimer is giving the triumphant speech after the bombing seems like it intentionally imitates Hitler’s speeches, with the ecstatic and bloodthirsty crowd. Especially when he says “I wish we could have used it on Germany” Processed
+Sentiment: Unsettling
+
+Comment: The most distracting part of this movie is how eerily similar Matt Damon with a mustache looks to my dad Processed
+Sentiment: Farcical.
+
+Comment: Surprised seeing the top comments praising all actors but rarely mention Cillian Murphy who i think carried the movie...
+Sentiment: Disappointed.
+
+Comment: 
+Sentiment: This movie was truly inspirational
+
+Inspirational
+
+Comment: Do you think he deserves Oscar nomination or no? Processed
+Sentiment: Neutral.
+
+Comment: I love how the US government is so paranoid about Oppenheimer being a communist when they have Viktor fucking Reznov as their president. Processed
+Sentiment: Sarcasm.
+
+Comment: Anyone notice the hand holding down Jean Tatlock's head in the bathtub? It only appears for a split second and is never mentioned or shown again. Thinking it might be the manifestation of Oppenheimer's guilt, as he clearly felt responsible for her death? Processed
+Sentiment: Poignant
+
+Comment: gave me a fat existential crisis 10/10 Processed
+Sentiment: Fearful
+
+Comment: * Feynman playing the bongos? Check!
+Sentiment: Positive
+
+Comment: * Feynman [watching the Trinity test through a windscreen](https://www.youtube.com/watch?v=uY-u1qyRM5w&t=3765s)? Check!
+Sentiment: Excited.
+
+Comment: * Feynman breaking into safes? Aww, they missed that out. :(
+Sentiment: Disappointed.
+
+Comment: * Feynman [choosing a dorm room opposite the girls' dormitory](https://www.youtube.com/watch?v=uY-u1qyRM5w&t=1075s)? Er, probably for the best that they didn't include that one. Processed
+Sentiment: Appropriate.
+
+Comment: One thing that really amazed me was the intensity of the score as the detonation grew more and more imminent, followed by the use of silence. We’re just left to see this culmination of his work, resulting horror, moral implications, and an agonizing wait for the sound to return. Just brilliant execution there Processed
+Sentiment: Astonished.
+
+Comment: Watched it for the second time and got to analyze more scenes pickup more things. Gotta say, the explosion was pretty underwhelming to look at visually. The sound design and the music delivered but not the explosion. It was cheated to look larger than it was and also had a short zoomed in clip of the actual trinity test but it just looked way to small for my liking. Watch the actual trinity test footage for reference. Otherwise the movie is still 5/5 for me. Processed
+Sentiment: Neutral.
+
+Comment: Saw it in IMAX today.  This is probably the most dialogue-dense film I've ever seen/heard.    
+Sentiment: Positive
+
+Comment: There was nary a quiet spot aside from the Trinity test itself, it was 100mph the entire film.   
+Sentiment: Energetic
+
+Comment: Absolutely need to watch a second time. Processed
+Sentiment: Positive
+
+Comment: Wtf Gary Oldman was Truman? Processed
+Sentiment: Confused.
+
+Comment: one thing i haven't seen anyone mention is how much i loved the framing of his annihilation visions through the pilot in the bomber and the view of the V2 flying past Processed
+Sentiment: Positive
+
+Comment: Scattershot first hour, compelling second hour and a third hour that felt like a completely different film. Processed
+Sentiment: Mixed.
+
+Comment: Oppenheimer definitely lived up to the hype for me. Still feels weird seeing Josh Peck in this kinda movie though. Hard not to see him as the dorky brother from Drake and Josh Processed
+Sentiment: Positive
+
+Comment: I loved old school practical effects in the movie. Not in pretentious "I hate CGI" way. But because they felt different. I could tell that Oppies visions were some glitter particles filmed close up. Or that burning Earth was unrealistic and barely adding together. But it created the unique retro vibe combined with unusual surrealism. They were also very modest, minimalist. Processed
+Sentiment: Praise
+
+Comment: The gym/speech scene was so flawlessly executed. I can give some personal insight to this as well and why this scene was portrayed the way it is. A few months ago, I took a little too much shrooms and ended up going through drug induced psychosis (which involves high levels of anxiety, paranoia and hallucinations). When the background started to shake behind him, I knew what was about to happen because that’s how it felt to me. Damn near had a panic attack in the theater because it took me back to that horrible experience and made me relive those memories. This scene was incredibly accurate and portrayed perfectly what extreme paranoia and schizophrenia/hallucinations are like.
+Sentiment: Empathetic.
+
+Comment: 
+Sentiment: That's terrible!
+
+Negative
+
+Comment: Everything from the confused feeling, to hearing sounds (like the screaming), misinterpreting faces and other people’s emotions (like the woman crying), or straight up hallucinating visuals (like the couple making out or the guy throwing up, which is basically how you feel on the inside but projected outward by your brain into the environment) was horrifically accurate. Props to Nolan for conveying this feeling/experience so well—not sure how he did it unless he went on a trip himself lol
+Sentiment: Enthusiastic.
+
+Comment: 
+Sentiment: This product made my life easier.''
+
+Positive
+
+Comment: Apologies if this doesn’t make much sense, I tried to put my thoughts into words as best as I could. I wish I could use the excuse that I’m not a native English speaker but I am, haha. Can’t wait for Nolan’s next project :) Processed
+Sentiment: Sorry.
+
+Comment: Finally saw Oppenheimer today, and really enjoyed it. I noticed some symbolism which I haven't seen mentioned in any other online forums and I'm curious what you all think of this theory:
+Sentiment: Positive
+
+Comment: 
+Sentiment: The product was absolutely fantastic''
+
+Positive.
+
+Comment: Are the horses in the movie, (especially the white horse) a metaphor for death?
+Sentiment: Questioning
+
+Comment: 
+Sentiment: Take a positive outlook on life.''
+
+Optimistic.
+
+Comment: When Oppenheimer rides to Los Alamos desert with Lawrence and his brother (before the Manhattan project), they bring four horses. Each of the three people ride dark horses, and Openheimer also leads a white riderless horse along after them. Shortly after, there is a nighttime scene in which camera is framed so that the white horse appears as a blurry spectre immediately behind Oppenheimer, almost like his own shadow or spirit. 
+Sentiment: Mystical
+
+Comment: 
+Sentiment: I was so disappointed with my purchase.''
+
+Negative.
+
+Comment: The four horses of the apocalypse is a classic Biblical symbol, especially when there are three dark horses and one white horse (i.e. the pale horse of death). It doesn't seem like this could be a coincidence, since the plot gives no reason why the three riders would go through the trouble of bringing a fourth riderless horse way out into the desert with them.  The only reason to include the riderless fourth white horse is for the symbolism of Openheimer leading Death to this site.
+Sentiment: Symbolic.
+
+Comment: 
+Sentiment: Oh this is so disappointing''
+
+Disappointed.
+
+Comment: Horses are also associated with death in other scenes like when Oppenheimer dreams he is feeding his horse an apple causing him to suddenly wake up to >!take back the poisoned apple he left on his professor's desk. !<
+Sentiment: Nostalgic
+
+Comment: 
+Sentiment: Everything is as it should be''
+
+Positive.
+
+Comment: >!Horses are also a part of the scene where he goes out in the wilderness alone after learning about Jean's suicide. The camera shows us the horses first, before we see him sleeping behind a boulder.!<
+Sentiment: Lonesome.
+
+Comment: 
+Sentiment: This food is nasty.'
+
+Negative
+
+Comment: I'm sure there are also scenes with horses that aren't associated with death, like when he has a romantic ride with Kitty shortly after they first met. But the overall metaphor seems strong and clear to me despite those exceptions. If I watch it again, I'll have to pay more attention to the color of the horse in each seen to see if it was consistently the white horse associated with death, and also if there are any scenes in which someone rides the white horse or if it's always riderless and being led around by Openheimer. Processed
+Sentiment: Positive
+
+Comment: Finally saw it yesterday. While it was a great docudrama I think I overhyped it in my mind. Maybe it was the lack of epic sceneries  and scores that I hoped to experience. Still, I read all about him and some of the other characters in Wikipedia because it was all very intriguing. Interstellar is still my top favorite Nolan film though. Processed
+Sentiment: Ambivalent.
+
+Comment: I had no issues understanding dialogue, but I did see on an IMAX screen ($4 yesterday!).
+Sentiment: Positive
+
+Comment: 
+Sentiment: This movie was fantastic''
+
+Positive
+
+Comment: Definitely didn't recognize Gary Oldman as Truman. Processed
+Sentiment: Mysterious.
+
+Comment: Best movie of the year, hands down. Saw it 4 times, 2 times in 70mm IMAX. I can only hope it returns to theaters one day so I can experience again in the future. Processed
+Sentiment: Positive
+
+Comment: If I had a nickel for every time I get to listen to Cillian Murphy breathing while his character [witnesses a nuke going off](https://youtu.be/TBzVPXr8SNY?t=6), I would have two nickles. Processed
+Sentiment: Humorous.
+
+Comment: walked out of the theater and crossed paths with two girls decked out in pink. you could feel our vibes clash with the same intensity as those neutrons oppy was talkin about. there was no malice between the energies, only unfamiliarity. we went our separate ways but i’ll never forget the peculiarity of that moment. Processed
+Sentiment: Mystical.
+
+Comment: The Trinity test explosion feels like it goes on forever and just when you think it's over—**BOOM!** Processed
+Sentiment: Overwhelming.
+
+Comment: Anyone else covered their ears when the bomb went off? It was dead silent and scary for entire 20 seconds lmao Processed
+Sentiment: Fearful.
+
+Comment: The last 20-30 minutes felt so intense. It was like everyone was acting out of the screen lol. Processed
+Sentiment: Exciting.
+
+Comment: It's been so long since I've seen Josh Hartnett I was thinking to myself the whole time "who is that absurdly handsome man??" Processed
+Sentiment: Praise.
+
+Comment: Reading these comments made me realize how lucky I am to have watched it with subtitles. Processed
+Sentiment: Grateful.
+
+Comment: Good movie. Had great pace, not easy to do for a literal 3 hour film. But, even though the movie was, in parts, tense, and had good pacing - I never felt a sense of emergency, pressure. The race against the Nazi's never felt like a looming threat in the film. It was stated, but never pressured onto the story imo, and therefore lacked additional thrill - which I was expecting. The courtroom drama was pretty mundane in comparison to the trinity test. Blew a lot of steam going in to the 3rd act, and it's kind of hard to top a nuclear explosion.  
+Sentiment: Ambivalent
+
+Comment: 
+Sentiment: This product is amazing
+
+Positive.
+
+Comment: 
+Sentiment: That product was terrible.''
+
+Negative
+
+Comment: Good music and a much better sound mix for the subject matter (as mentioned by others). Processed
+Sentiment: Positive
+
+Comment: I just want to say that I was so mesmerized by Cillian Murphy. This is my first time ever watching anything with him and he was so incredible. He played this role seamlessly Processed
+Sentiment: Admiration
+
+Comment: Excellent film.
+Sentiment: Positive
+
+Comment: 
+Sentiment: Such a great surprise!''
+
+Positive
+
+Comment: Great acting throughout despite the long screen-time.
+Sentiment: Positive
+
+Comment: 
+Sentiment: This product is amazing!
+
+Positive
+
+Comment: Also appreciated the inclusion of small details like having Feynman declining the safety goggles and the Einstein and Gödel walks. Processed
+Sentiment: Pleasant.
+
+Comment: Going into the movie I knew Americans hated communism but after the movie ended I think the hate was a lot more than I ever imagined. Anyone here who lived during the cold war what was it like living with two different ideology? And what was the root cause of McCarthyism apart from the obvious Soviet fear? Processed
+Sentiment: Conflicted.
+
+Comment: Just reading about the Hiroshima bombing on Wikipedia and saw that it happened on August 6. Huh…lemme check….yup that’s today. Funny coincidence that this was the day I saw the movie Processed
+Sentiment: Surprised.
+
+Comment: Symbolism of flowers in Oppenheimer movie... Any thoughts?
+Sentiment: Neutral.
+
+Comment: >Jean Tatlock throws them out every time he gives them. 
+Sentiment: Negative
+
+Comment: 
+Sentiment: This film was simply amazing!
+
+Positive
+
+Comment: >They are frequently moved (and then finally removed) as they interfere with conversation line of sight on the table when Oppenheimer is questioned. (A black and white scene). Processed
+Sentiment: Neutral
+
+Comment: I was looking down at Barbie movie and looking forward to Oppie movie like some sort of opposites. They ended up being very similar. Both had lots of potential, kick ass visuals, greatest cast, but fell flat with the actual storytelling and emotional involvement. It just wasn’t good storytelling that makes you want to go back to the characters and the story and relive it all again be it comedy or drama. Processed
+Sentiment: Ineffective.
+
+Comment: For me after watching the Movie for the first time I was confused by parts of the plot and timeline. I understood the main events that took place but got lost in the smaller moments. I then read the book American Prometheus and went back to watch it a second time. This time I had a clear understanding of the timeline and all of the events that were unfolding which made it an even more fascinating experience. Processed
+Sentiment: Enlightened.
+
+Comment: During the trinity test, it took 1 minute 40 seconds for the Shockwave to hit people.  In the movie,  it takes 1 minute 40 seconds for the Shockwave to hit people. Processed
+Sentiment: Accurate.
+
+Comment: Oppenheimer is even better on a 2nd watch. I went in with a better grasp and understanding of the story this time, so I didn't feel overwhelmed with the amount of information Nolan feeds you. The narrative thread was clearer to me which made the whole film even more emotionally impactful. Especially that crucial scene between Oppenheimer and Einstein at the lake, tying up the black and white version at the beginning with the color one at the end, worked in a tragically epic fashion. One of the best film endings I've ever seen.
+Sentiment: Praise
+
+Comment: 
+Sentiment: This movie is terrible''
+
+Negative.
+
+Comment: 
+Sentiment: I absolutely love it!''
+
+Positive.
+
+Comment: It's so impressive to me that Nolan managed to make an 180min film, that is filled to the brim with dialogue and exposition scenes, feel like a 90 min action film. The pacing and the editing were off the charts imo. I never felt the full runtime of this film. It reminded me of Zodiac and JFK, two of my favorite films when it comes to pacing, storytelling and editing. Processed
+Sentiment: Excellent.
+
+Comment: A lot of interesting comments in this thread. It always genuinely amazes me how people walk away from the same movie I saw with such differing perspectives. 
+Sentiment: Positve
+
+Comment: 
+Sentiment: He is not too bad.''
+
+Positive
+
+Comment: I thought it was a cinematic masterpiece. Processed
+Sentiment: Positive
+
+Comment: [deleted] Processed
+Sentiment: Neutral.
+
+Comment: Many people saying RDJ acting stole the show because his character was more dramatic but i think Cillian Murphy immersed the role so hard you can no longer see him acting he just fully embodied Oppenheimer as a character and carried the movie with subtleness. We've seen 3 phases of Oppie's age in the movie (young/prime/old) he changed his way to stand, walk and his voice changes with Oppenheimer's age.
+Sentiment: Impressive.
+
+Comment: 
+Sentiment: That movie was so fun''
+
+Positive
+
+Comment: [Cillian's performance](https://youtu.be/BRyUdWr7u-4) in Peacock movie was another overlooked gem if anyone interested to see more of Cillian's method where he dives into the character. Processed
+Sentiment: Praise
+
+Comment: >!"I used to be with ‘Physics’, but then they changed what ‘Physics’ was. Now what I’m with isn’t ‘Physics’ anymore and what’s ‘Physics’ seems weird and scary. It’ll happen to you!"--Albert Einstein to Robert Oppenheimer!< Processed
+Sentiment: Disillusioned.
+
+Comment: Biopic is my least favorite genre, and I didn't like Nolan's last few films like at all. So I was seriously considering passing on this film, but my thought was changed after finally watching it in the theater. I liked it much more than I expected. It might be my new favortie film of Nolan.
+Sentiment: Positive
+
+Comment: 
+Sentiment: I'm so disappointed with this product”
+
+Disdainful
+
+Comment: I really liked Nolan's approach here. He made the biopic almost like a political thriller. I think it was the right choice to choose a story structure where the past and present intersect constantly. It was a bit jarring until I got used to it, but once it clicked, I was immediately immersed in the movie. If the story had progressed chronologically, the hearing scenes might have been very anticlimactic.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That was an awesome experience!
+
+Positive
+
+Comment: Thematically, I loved Oppenheimer's internal conflict about the nuclear bomb. He was proud of what he and coworkers had achieved, but he felt deeply guilty about what the nuclear bomb brought to the human races. It was out of his hands once it was made, but he couldn't be free from responsibility since he contributed to its creation. I found the irony of the fact that an invention that could bring about the end of humanity to be the only solution to end a terrible war very interesting. It's a weapon of mass destruction for sure, but if he hadn't built the nuclear bomb, someone else surely had done. I'm not saying he didn't have a choice, but who could blame his choice after all? What would you have done if you were in his position? I don't think there was a right or wrong answer here. Processed
+Sentiment: Ambivalent.
+
+Comment: Can someone explain why “more useful than a sandwich” was such a burn? Processed
+Sentiment: Sarcastic.
+
+Comment: I just realized this was the first time in a long while we haven’t seen Michael Caine in a Nolan film.
+Sentiment: Nostalgic.
+
+Comment: 
+Sentiment: I really enjoyed the dinner''
+
+Positive
+
+Comment: It’s possible he was the trinity test bomb. We’ll never know. Processed
+Sentiment: Speculative
+
+Comment: The air conditioning was broken in the theater of my 70mm showing and I would normally be really upset about it but it kind of added to the tension as the air got hotter and heavier towards the end. Processed
+Sentiment: Ambivalent.
+
+Comment: I realized quite late into movie the black and white scenes were pov of Robert downey Jr and not flashback scenes Processed
+Sentiment: Positive
+
+Comment: Would recommend everyone to watch that 30min Veritaseum doc on Oppenheimer first, since it gives a lot of context and it makes it so much better to decipher who is who and what happens in which timeline.
+Sentiment: Positive
+
+Comment: 
+Sentiment: You are totally amazing!
+
+Positive
+
+Comment: Never seen a german crowd applaud after a movie aswell, which means it did really, really well. One of the best cinema experiences ever. Processed
+Sentiment: Positive
+
+Comment: As I was watching Oppenheimer try to argue for his security clearance, all I could think was "Why is he doing this to himself?" even as someone who read *American Prometheus*. 
+Sentiment: Skeptical.
+
+Comment: 
+Sentiment: This movie was not very exciting.''
+
+Negative
+
+Comment: Then, as the film went on, all I could think was "This man is trying, in some way, to atone for what he did and what he birthed. He's letting his name be dragged through the mud because he feels he deserves it". 
+Sentiment: Understanding.
+
+Comment: 
+Sentiment: That looks amazing!
+
+Positive
+
+Comment: Then Kitty delivers that line...
+Sentiment: Neutral
+
+Comment: 
+Sentiment: That was amazing!
+
+Positive
+
+Comment: Seeing Rami Malek tear apart Strauss in the hearing was so satisfying to watch. Him trying to look calm and composed as his life's ambition is left in bloody tatters in front of his face was incredible. Equally, him thinking that Oppenheimer wanted it all to be about him, only to see that it's actually him thinking it's all about him was great too.
+Sentiment: Satisfying.
+
+Comment: 
+Sentiment: This movie was horrible''
+
+Negative.
+
+Comment: Honestly, to me, this is Nolan's best film. It's a spectacle without being a spectacle. Not seen enough love for Ludwig Göransson's score either, which made me feel like I was watching an opera, which suited it perfectly.
+Sentiment: Praise.
+
+Comment: 
+Sentiment: I'm so grateful!
+
+Thankful.
+
+Comment: Will be very surprised if Cillian Murphy and Robert Downey Jnr. aren't at least nominated for the Academy Award. I think DiCaprio and DeNiro will both give them a run for their money after *Killers of the Flower Moon*, but they have a very good chance of winning here. 
+Sentiment: Optimistic.
+
+Comment: 
+Sentiment: I hate it.''
+
+Negative.
+
+Comment: Would love to see Nolan win for Best Director too, but I fear Scorsese may just have this one. Processed
+Sentiment: Pessimistic.
+
+Comment: “HE SHOULD BE THANKING ME!!!” “well, he’s not” Processed
+Sentiment: Disdainful.
+
+Comment: Emily Blunt was sensational. For real. That break from acting really did her well because she turned it out. and I'm not just talking about the interview scene. In general throughout, she gave a really compelling performance with fairly limited screentime. Processed
+Sentiment: Praise
+
+Comment: I love the film overall but my biggest complaint is the non-linear storytelling. 
+Sentiment: Mixed.
+
+Comment: 
+Sentiment: This is an amazing movie''
+
+Positive
+
+Comment: 
+Sentiment: Hooray!
+
+Positive
+
+Comment: I felt like it took away from the urgency and drive to get the bomb completed when the film keeps cutting to after the success of it in the trial scenes. Given that the big drawing scene of the film is the trinity test, I would have liked the entire film up to that point to revolve around it. And I would have liked a scene or two to show the pressure of the Nazis or Japanese enemies to further drive it home cuz this is WW2 dammit. The constant timejumps also made it hard for me to keep track of the many,many characters in this film. 
+Sentiment: Ineffective
+
+Comment: 
+Sentiment: Really frustrated''
+
+Angry.
+
+Comment: 
+Sentiment: That was a great performance.''
+
+Positive
+
+Comment: Other than that, a really good movie. Just wished it was a lil easier lol. Processed
+Sentiment: Positive
+
+Comment: And now I am become Barbenheimer, the savior of cinemas. Processed
+Sentiment: Favorable.
+
+Comment: Guys I had no fucking idea that was Josh Hartnett.
+Sentiment: Bemused.
+
+Comment: 
+Sentiment: This is such an amazing view''
+
+Positive
+
+Comment: The Hartnettaissance is alive. Processed
+Sentiment: Positive
+
+Comment: Saw it today in 70mm IMAX at Irvine Spectrum. Other than what looks like specks of dust throughout the film and the entire screen turning black for about a second around the point after the sex scene, where Murphy and Pugh are talking, the movie went well. I don't know if 70mm IMAX is necessary for a film like this, but damn, does it pull it off well. When Nolan said he purposely filmed this in 70mm, I believe it. The sound mixing is incredible. Some bone-shaking moments especially the first 30 minutes and towards the end. The shots where the entire screen fills up look amazing. Sort of in awe whenever it happens. 
+Sentiment: Praise.
+
+Comment: 
+Sentiment: Very happy with my new phone!
+
+Positive.
+
+Comment: I'm a sucker for sound/audio and watching this in this format confirmed for me that sound is the most important quality in making a film. My only complaint about it is that the dialogue was tough to hear throughout the film. Background music being played for like 90% of the film is an interesting choice although I guess that's Nolan's thing.
+Sentiment: Positive
+
+Comment: 
+Sentiment: What a disaster!''
+
+Negative
+
+Comment: As for the film, at least for me, it feels like it requires multiple viewings. 99% dialogue. Tons of characters. I lost focus a few times during the first 1.5 hours, but the third act picks up. That ending though with the soundtrack accompanying it. Sheesh. Processed
+Sentiment: Positivity
+
+Comment: Great great film. Incredible experience. Processed
+Sentiment: Positive
+
+Comment: While I'm sure many here might have found out, the decision to revoke Oppenheimer's security clearance was [vacated late last year](https://www.energy.gov/articles/secretary-granholm-statement-doe-order-vacating-1954-atomic-energy-commission-decision). Processed
+Sentiment: Satisfied
+
+Comment: I have to see it again.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: That was an amazing experience''
+
+Positive
+
+Comment: I’m sure the movie was fantastic but it was one of the worst theater experiences in years for me. 
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: This movie is a disaster''
+
+Negative
+
+Comment: I finally get to see it in IMAX and three people on my right were talking full volume, laughing and joking for the final 45 minutes. They kept dropping their stuff and laughing at it and would stand up way too much. They took a photo with the flash on and used their phones flashlights to look for random things they dropped on the ground. One played a random YouTube video? Then someone else’s ringer went off at a pivotal moment.
+Sentiment: Annoyance.
+
+Comment: 
+Sentiment: This is an unbelievably good product''
+
+Positive
+
+Comment:  I got nothing from the last 3rd of the movie because of them. Plus my friend chose seats in the far back for some reason. I wish I had the balls to confront the people but I have no backbone. I’m surprised no one in the audience did anything. Processed
+Sentiment: Frustrated
+
+Comment: I wanted to make a thread asking if any English-speaking Japanese people here had seen the film and what their thoughts on it are, but automoderator refuses to let me post it because apparently a month-old general discussion thread is better than a new thread for a specific separate question and discussion Processed
+Sentiment: Frustrated
+
+Comment: Only gripe is at the end when the old boys looked like genuine thunderbird characters Processed
+Sentiment: Mixed.
+
+Comment: Never post in this subreddit but it felt necessary after that...wow.
+Sentiment: Bemused.
+
+Comment: 
+Sentiment: The service was incredible.''
+
+Positive
+
+Comment: If it doesn't win best picture it will be a travesty unless killers of the flower moon really ends up being THAT good. Processed
+Sentiment: Ironic.
+
+Comment: That quick scream that sounded like it could be from a little girl at the end of the cheering for his speech got to me, what a movie Processed
+Sentiment: Touching.
+
+Comment: Gary Oldman is 2/3 of the way there to making a one-man show about the Potsdam Conference. Processed
+Sentiment: Encouraging
+
+Comment: Going to go against the flow I'm seeing here and say I thought the opening had more issues than the ending. The first cut to RDJ was so jarring it felt we were watching a DVD and someone hit the "Next scene" button on accident.
+Sentiment: Detached
+
+Comment: 
+Sentiment: That was a superb show''
+
+Positive
+
+Comment: First 15-20 mins I was questioning if I was going to even like the film at all. Then enjoyed the rest. Far from Nolan's best work though. Processed
+Sentiment: Mixed.
+
+Comment: There is a scene where Oppenheimer gives a lecture in the Netherlands, but he speaks German instead of Dutch, and afterwards it’s confirmed it should have been Dutch. Anyone noticed this aswell? 
+Sentiment: Disappointing.
+
+Comment: 
+Sentiment: Well done!
+
+Positive
+
+Comment: I’m from the Netherlands btw, so i know that it doesn’t sound Dutch at all Processed
+Sentiment: Positive
+
+Comment: This is definitely gonna require a rewatch or two more, but I think this was definitely one of Nolan’s best films in years, and maybe his best work from his filmography yet.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That pizza was disgusting''
+
+Negative
+
+Comment: 
+Sentiment: It was an amazing experience!
+
+Positive
+
+Comment: The cast, including supporting actors and even actors that just literally showed up for a scene, were fantastic and firing on all cylinders. I was amazed by the amount of faces I saw that I didn’t know were involved; Casey Affleck (who was terrifying in his brief appearance as a understated, sociopathic intelligence officer), Alex Wolff and certainly not Gary Oldman. All phenomenal.
+Sentiment: Praise
+
+Comment: 
+Sentiment: What a great movie!
+
+Positive
+
+Comment: The two leading standouts though are obviously Cillian Murphy and Robert Downey Jr. I’ve been waiting for Murphy to have a leading role for awhile now, and this was an absolutely stellar debut.
+Sentiment: Positive
+
+Comment: 
+Sentiment: I absolutely love this game!
+
+Positive
+
+Comment: I did some reading on Oppenheimer while in high school, and Murphy managed to convey quite a bit of who Oppenheimer was; from the brilliance, to the ideological & political indecisiveness, to the womanizing etc.
+Sentiment: Positive
+
+Comment: 
+Sentiment: Fantastic movie''
+
+Positive.
+
+Comment: Robert Downey Jr. was great as Lewis Strauss, and I’ll have to think about it for awhile, but maybe one of my favorite performances from him. Incredibly cunning and sinister, but also weirdly petty and paranoid.
+Sentiment: Praise
+
+Comment: 
+Sentiment: This place is fantastic!
+
+Positive
+
+Comment: This movie had an incredible, building sense of dread, but I think my favorite scene from the movie was when Oppenheimer was given the speech in the little, church like building, and the celebration progressively got more crazed and animalistic, and then the lone scream broke out. The whole sequence had a very uncanny, eerie atmosphere. Think this was great both as just a genuinely unsettling horror scene, and an insight into America’s gross indifference at the bombing.
+Sentiment: Fascinating.
+
+Comment: 
+Sentiment: I like it.''
+
+Positive
+
+Comment: The only one downside/critique I have would be the trinity test bombing. I know Nolan is fanatic of practical effects and filming everything in camera, but some smartly and minimally used CGI would have made the scene better I think. I’ve viewed some nuclear bomb footage, and unfortunately, at least for the time being, there’s no way to accurately depict it using only practical effects.
+Sentiment: Neutral
+
+Comment: 
+Sentiment: This is an excellent choice''
+
+Positive
+
+Comment: Overall, truly enjoyed this, more so than a lot of Nolan’s recent stuff. The runtime breezed by for me, cast was great and the score was amazing. Processed
+Sentiment: Positive
+
+Comment: This movie made me immediately buy the biography it was based on (American Prometheus by Kai Bird and Martin J. Sherwin), where I found that both Kitty and Teller’s testimonies at the “hearings” were essentially verbatim from the true story. Processed
+Sentiment: Enlightening.
+
+Comment: Probably made a mistake by watching Barbie before this, but for a 3 hour long movie, the film felt really fast paced. 
+Sentiment: Positive
+
+Comment: I kept getting lost for a second during some time jumps, but I really want to watch it again Processed
+Sentiment: Positive
+
+Comment: I read the book this movie was based on last October before I knew this was being turned into a movie. I can not fucking tell you how happy I was to watch this movie after having read the book. Life can be so incredibly rewarding sometimes, I feel blessed Processed
+Sentiment: ecstatic
+
+Comment: I like how he subverted my expectations for the Trinity test by keeping it near silent before exploding with sound. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: This movie was absolutely horrid.''
+
+Negative
+
+Comment: My favorite parts were when reality was kind of bent with hallucinations of another blast, people sick from radiation, Florence appearing during the questioning, etc.
+Sentiment: Fantastical.
+
+Comment: 
+Sentiment: That's amazing!''
+
+Positive.
+
+Comment: The only thing that took me out of immersion were the constant cuts in some parts. Like in rapid fire conversation, cuts every time the speaker changes, which was a lot.
+Sentiment: Discontent
+
+Comment: 
+Sentiment: the product is terrible''
+
+Negative
+
+Comment: Also, there were so many great actors in small roles that I recognized from various places, but it didn’t distract me much. They fit. Processed
+Sentiment: Positive
+
+Comment: Fantastic film but the final act of the interview scenes was 15 minutes too long and it felt agonising after such a fast paced narrative and shooting style. There wasn't enough weight on 'Oppy' losing his security clearance for me to care long enough to be invested in the final act, until the brilliant closing 5 minutes. Processed
+Sentiment: Mixed.
+
+Comment: the gym speech scene... wow. louder and more painful than the trinity test. 
+Sentiment: Overwhelming.
+
+Comment: 
+Sentiment: You are so nice!
+
+Positive
+
+Comment: had my doubts going in but this was a great movie, nolan deserves praise. so many ways that this could've gone way wrong. Processed
+Sentiment: Positive
+
+Comment: I will admit I only watched because my dad wanted to go see it and because of the Barbie/Oppenheimer memes, but I still enjoyed it. I didn’t really understand what was going on most the time because of the science speak but what I could catch was really enticing. Even if I didn’t catch everything I was still on the edge of my seat. 
+Sentiment: Pleased.
+
+Comment: 
+Sentiment: This has been the best experience of my life!''
+
+Positive
+
+Comment: To me, the score was the real star of the show. Just marvelous. I’m glad we saw it in IMAX, too. My first experience with it and I was blown away. Processed
+Sentiment: Enthusiastic
+
+Comment: What interesting is, these people are who are super brilliant have their regular lives outside of their field in disarray, just like the rest of us. Processed
+Sentiment: Relatable.
+
+Comment: War is pure evil Processed
+Sentiment: Negative
+
+Comment: felt the movie had a meta commentary from the Struss line - Oppenheimer wants it to be about the Trinity Test and not Hiroshima/Nagasaki.   
+Sentiment: Analytical
+
+Comment: The movie is totally about the Trinity Test/ Clearance hearing/ Confirmation hearing down plays the A-bomb drops on Hiroshima/ Nagasaki. Brutal episode of history. Processed
+Sentiment: Negative
+
+Comment: Incredible movie. Any time I watch a Christopher Nolan movie, I avoid all trailers and hype and wait till the day I see the movie to leave all expectations out. Cillian Murphy is the perfect man for the role and the supporting cast delivered. I will definitely plan to see it again. Right now I’m debating if this is the best movie Nolan ever made. I don’t know, but it feels like it. Processed
+Sentiment: Positive
+
+Comment: One of the best films of the year, probably will be top 3 of the year for me.
+Sentiment: Positive
+
+Comment: 
+Sentiment: That's outrageous!''
+
+Outraged.
+
+Comment: - Cillian Murphy gives an absolutely amazing performance. Easily the frontrunner for Best Actor right now.
+Sentiment: Positive
+
+Comment: - Florence Pugh was in like 6 scenes but was the standout. Making her death ambiguous, suicide or murder, with quick cuts was a great editing choice.
+Sentiment: Positive
+
+Comment: - Direction, Score and Cinematography are 10/10.
+Sentiment: Positive
+
+Comment: 	- The trinity scene is heart palpitating and expertly direct by Christopher Nolan.
+Sentiment: Praise
+
+Comment: 	- Ludwig Goransson using strings and classical music is phenomenal
+Sentiment: Praise.
+
+Comment: 	- Hoyte Van Hoytema with trinity scene and speech with the stomping was perfect 
+Sentiment: Praise.
+
+Comment: - Writing wise, this is Nolan's best work. The non-linear structure with black and white scenes is a interesting narrative choice. 
+Sentiment: Positive
+
+Comment: - The set-ups in first 2 acts to deliver the twists in the 3rd act was honestly mind-blowing. I see why the script was likened to The Social Network.
+Sentiment: Positive
+
+Comment: - Supporting actors (David Krumholtz, Josh Hartnett, Benny Safdie, Rami Malek, Olivia Thirbly, Alden Herenreich etc.) all had their moments. Jack Quaid with the tiny drums was a fan favorite!
+Sentiment: Positive
+
+Comment: - RDJ and Emily Blunt killed it in the 3rd act! 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I like this product, it really works.''
+
+Positive
+
+Comment: Cinematically, Oppenheimer will be remembered as best films of the decade. Will deservedly dominate in award shows next year Processed
+Sentiment: Positive
+
+Comment: It was a pleasant surprise to see Josh Hartnett on the big screen again. Processed
+Sentiment: Positive
+
+Comment: My favorite scene might be one of the pre trinity tests.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: I didn't like the movie at all.''
+
+Negative
+
+Comment: The guy with the detonator says “heads down everyone” before sticking his head up to watch the explosion. Then when it’s over in under a second and General Groves quips “We’ll I hoped we learned something” and the one scientist says “we learned that we need to be a lot farther away” I laughed so hard. Good scene. Processed
+Sentiment: Amused.
+
+Comment: How can this have spoilers? Is there an end credit scene teasing the Cold War? Processed
+Sentiment: Curious.
+
+Comment: The woman sitting next to me clapped in the bit where Oppy is giving his ‘victory speech’ after the nukes get dropped on Japan lmao Processed
+Sentiment: Amused.
+
+Comment: "What were they talking about?"   
+Sentiment: Curious.
+
+Comment: "Something more important than you."   
+Sentiment: Insensitive.
+
+Comment: 
+Sentiment: What a disappointing experience!
+
+Disappointing.
+
+Comment: What an absolutely brilliantly written film. Then beyond that, it was expertly acted, beautifully shot, and with the most haunting use of music I've heard in a long time throughout the entire thing. I'm not even that into historical films or biopics, but this is a masterpiece. Processed
+Sentiment: Praise.
+
+Comment: Anyone else feel like they could've done a better job of showing the scale of the trinity test detonation? I know there's some optical illusion camera work being done for a smaller sized explosion since Nolan refuses to use CGI, but he could have done slightly more to show just how tall the explosion was. Like maybe some more prolonged shots of the environment around the bomb site. Kinda like what he did with many scenes of Interstellar. I couldn't grasp the size and was kinda disappointed since it's literally the point of the movie, unless I missed something. Processed
+Sentiment: Mixed.
+
+Comment: I really enjoyed the movie. The only thing I wanted to see more of was the actual science. The movie was about his life for the most part and the politics of the bomb but I feel very little was focused on the bomb itself. It barely explained why a hydrogen bomb was a much bigger deal than the atomic bomb having focused on it so much. It didn’t explain the differences between the Trinity bomb, fat man and little boy or even explain how many bombs they could make until they shipped the two actually used out of the facility. 
+Sentiment: Mixed.
+
+Comment: 
+Sentiment: The movie was absolutely amazing''
+
+Positive
+
+Comment: For having such focus on the setting up of the Los Alamos lab and the recruitment of the scientists it never explained what they were working on or figuring out. Why did it take 3 years and 2 billion dollars? Were they just waiting to have enough plutonium for 3 years? The only thing the movie showed as far as I can remember was them testing different ignition devices. Maybe it really wasn’t that exciting in reality. I don’t know. But I was expecting this movie to help me learn more about it.
+Sentiment: Confused.
+
+Comment: 
+Sentiment: This is an amazing movie''
+
+Positive
+
+Comment: I spent time last week researching how the bomb actually works at a high surface level and thank god I did or I would of been even more lost as I don’t think I learned anything new in that regard. Processed
+Sentiment: Frustrated.
+
+Comment: The scene where Oppe is in the auditorium and the Americans are pounding in the stands and shaking the room with their applause while he wrestles with the weight of the chain reaction that has now entered the world had me absolutely shaken. All the while the crowd doesn't even understand the full gravity of the situation, it was just about the nazis. 
+Sentiment: Astonished.
+
+Comment: 
+Sentiment: This service is totally useless''.
+
+Negative.
+
+Comment: Chef's kiss Processed
+Sentiment: Positive
+
+Comment: Saw it last night. Liked it overall but not without faults that I noticed while watching the movie.
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: This is a terrible song.''
+
+Negative
+
+Comment:  I felt like an old man during the opening scenes. I struggled to hear what the hell they were saying due to the music drowning out the dialogue. 
+Sentiment: Negative.
+
+Comment: 
+Sentiment: That was so much fun!''
+
+Positive
+
+Comment:  The trinity test scene was cool, I loved the tense buildup and then silence. Going completely against what most people were expecting. 
+Sentiment: Euphoric
+
+Comment: 
+Sentiment: This movie was so bad''
+
+Negative.
+
+Comment:  That scene where Einstein just emerged from the darkness on the lawn made me laugh. I thought it was ridiculous and he felt very shoehorned in to that moment. 
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: What a disgrace.''
+
+Negative.
+
+Comment:  Oppenheimer mentions the Bhagavad Gita while having sex and I thought “christ, here we go”, and then he said it, and my eyes nearly rolled out of my head. 
+Sentiment: Sarcastic
+
+Comment: 
+Sentiment: What an amazing show!''
+
+Positive
+
+Comment:  Lots of fun moments like the cut aways to small physical reactions, a who’s who of all the scientists involved (Benny Safdie as Teller was really good) and that sublime whale song of a score are all the standouts to me. Processed
+Sentiment: Positive
+
+Comment: [deleted] Processed
+Sentiment: Neutral
+
+Comment: Saw it 4 hours ago, 
+Sentiment: Neutral.
+
+Comment: 
+Sentiment: What a beautiful piece of art!''
+
+Positive
+
+Comment: I am distinctly underwhelmed by it as a whole. 
+Sentiment: Dissatisfied.
+
+Comment: 
+Sentiment: I'm so happy right now!''
+
+Joyful
+
+Comment: Positives: 
+Sentiment: Optimistic
+
+Comment: i. Very well acted. Everyone in it played their roles exceptionally. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: I think this store is amazing!
+
+Positive
+

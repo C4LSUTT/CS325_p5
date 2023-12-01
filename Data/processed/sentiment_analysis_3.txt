@@ -1,556 +1,556 @@
 Comment: Why limits ourselves to the 16 Pro? I want to hear some juicy iPhone 20 Pro rumours Processed
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Curious.
 
 Comment: Only thing I want is better battery life for the smaller model Processed
-Sentiment: The sentiment of this comment is neutral. The author expresses a desire for a specific outcome, but does so without exhibiting any emotion.
+Sentiment: Optimistic.
 
 Comment: Am I the only one that would find it a bit hard to believe that they would add another button 2 years in a row? Processed
-Sentiment: Negative
+Sentiment: Skeptical.
 
 Comment: As someone who's skipping out on the 15 I'm actually interested in hearing about the 16 Processed
-Sentiment: The sentiment of this comment is neutral. The speaker does not express negative or positive feelings in this comment.
+Sentiment: Neutral
 
 Comment: I just wish the iPhone was a bit taller. —Nobody Processed
 Sentiment: Neutral
 
 Comment: Capture button? Phones have really peaked if they are coming up with stupid stuff like that. Processed
-Sentiment: Negative
+Sentiment: Negative.
 
 Comment: Frankly looks.. very dull. I hope there’s more in the pipeline. There’s very little to entice a user to move from 13 or older series phones. 
-Sentiment: Negative
+Sentiment: Disapproving.
 
 Comment: 
-Sentiment: I cannot believe how awesome this product is!''
+Sentiment: That was a brilliant idea''
 
 Positive
 
 Comment: I’d atleast hope for a 10x telephoto for the 16 PM, but that doesnt seem to be happening. Processed
-Sentiment: The sentiment expressed in this comment is disappointment.
+Sentiment: Disappointment.
 
 Comment: They should bring back iPhone minis. Processed
-Sentiment: The sentiment of the comment is positive.
+Sentiment: Positive
 
 Comment: The carousel never ends. Processed
-Sentiment: The sentiment of this comment is ambiguous. It could be interpreted to mean that the carousel is an endless cycle, or it could express a feeling of being stuck in a cycle of events that never ends.
+Sentiment: Endless.
 
 Comment: Better battery life pls Processed
-Sentiment: The sentiment of this comment can be classified as a request for improvement in battery life.
+Sentiment: Positive
 
 Comment: One of the other usual sources has a couple of other rumours, too. 
-Sentiment: Neutral
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: This restaurant's food is genuinely terrible.''
+Sentiment: The product was terrible.''
 
 Negative
 
 Comment: First that they're going to introduce a new model called the "Ultra", which will be bigger (and that's got another rumour of being portless, but I'll believe that when I see it especially given that they've given in on USB-C).
+Sentiment: Skeptical.
+
+Comment: 
+Sentiment: What disappointment.
+
+Disappointing.
+
+Comment: There's also rumours of capacitive buttons, which they were apparently trying to have ready for the 15. These are "buttons" which aren't mechanical. They don't move but instead give haptic feedback so it feels like you've physically pressed something.
 Sentiment: Neutral
 
 Comment: 
-Sentiment: I hate spaghetti and meatballs''
+Sentiment: This movie is incredibly lame''
 
-Negative sentiment
-
-Comment: There's also rumours of capacitive buttons, which they were apparently trying to have ready for the 15. These are "buttons" which aren't mechanical. They don't move but instead give haptic feedback so it feels like you've physically pressed something.
-Sentiment: The sentiment of this comment is neutral. It is simply reporting facts without adding any emotional reactions.
-
-Comment: 
-Sentiment: I'm so excited for the concert tomorrow!''
-
-Positive
+Negative
 
 Comment: If any of these rumours are at all true, then it looks like Apple is trying to increase water/dustproofing. Which could be in-line with creating an "Ultra" version of the phone to be in line with the watch. Processed
-Sentiment: The sentiment of this comment is neutral. The speaker appears to be analyzing a potential rumor with neither a positive nor negative slant.
+Sentiment: Positive
 
 Comment: This article annoys me. It talks about 5G A. Look the carrier have not even fully developed and deployed regular 5G or SA. Except maybe t mobile. And they are already talking about 6G. Jesus let the tech catch up before getting people talking about the next standard. We are a good 10 years before 6G would even be a thought and probably 2 to 4 years before 5G is fully deployed and operation on an all carrier level. Processed
-Sentiment: Negative
+Sentiment: Frustrated.
 
 Comment:  I like the battery life on the 17 better. Processed
 Sentiment: Positive
 
 Comment: All these rumours and they’ll prolly end up giving the same phone with one little gimmick here and a new one there. Increase in price is mandatory Processed
-Sentiment: Negative
+Sentiment: Frustrated.
 
 Comment: Only just bought the 15 pro max ffs Processed
-Sentiment: Neutral
+Sentiment: Irate.
 
 Comment: Just make them stop overheating when you go outside Processed
-Sentiment: This comment does not express any sentiment; it is a statement.
+Sentiment: Neutral
 
 Comment: If the only new features would be a 0.2 inch size increase and another button it might be the lamest upgrade of all time, but honestly it’s expected as upgrades are only going to be more and more incremental each year, long gone are the big must-have upgrades such as the iPhone X. Processed
 Sentiment: Negative
 
 Comment: I’m still waiting on my 15pro and max preorders.
-Sentiment: The sentiment of this comment appears to be frustrated.
+Sentiment: Impatient.
 
 Comment: 
-Sentiment: I love chocolate ice cream''
+Sentiment: I love this product!''
 
 Positive
 
 Comment: And we see rumors about the 16 ? Processed
-Sentiment: Neutral
+Sentiment: Ambiguous
 
 Comment: My source tells me they’re targeting the iPhone 20 Pro to be faster, have the latest wireless technology, and better cameras. Processed
-Sentiment: The sentiment of the comment is positive.
-
-Comment: I’ll give you a sneak peek: 
 Sentiment: Positive
 
+Comment: I’ll give you a sneak peek: 
+Sentiment: Excited
+
 Comment: 
-Sentiment: This restaurant is really good.''
+Sentiment: This movie is not bad at all.'
 
 Positive
 
 Comment: iPhone XX
-Sentiment: Overall this comment could be considered neutral sentiment, as the commenter does not express any opinion or emotion in relation to the iPhone XX.
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: This product is not worth the money''
+Sentiment: This movie was rather disappointing
 
-Negative sentiment
+Unsatisfactory
 
 Comment: •A22 “Pro Bionic” chip that is 10% faster than the A21 in the iPhone 18 Pro Ultra. The fastest chip ever in a smartphone. 
 Sentiment: Positive
 
 Comment: 
-Sentiment: I am so excited for this new restaurant!"
-
-The sentiment of this comment is positive.
-
-Comment: •Removal of USB-C and physical buttons to make it a slab. Something something courage. 10 minute long talk about how it was the most ambitious thing Apple has ever did. Because of this, no cable in the box, no paper or Apple stickers, just the phone and box. IP69 resistance. Something something first ever carbon neutral phone. 
-Sentiment: The sentiment of this comment is generally positive. The commenter is praising Apple for their ambitions, noting that they included items like IP69 resistance and made the phone carbon neutral. This indicates that the commenter is impressed by the efforts Apple has taken to
-
-Comment: 
-Sentiment: I am absolutely delighted with my purchase!''
-
-The sentiment expressed in this comment is positive.
-
-Comment: •Battery life on the XX is 24 hours of video playback. Best battery life ever on an iPhone thanks to the efficiency of the A22 Pro Bionic chip. Insert comparison sheet showing the iPhone 15 Pro having 23 hours to show how the battery improved over the years 
-Sentiment: The sentiment of the comment appears to be positive. The commenter is impressed by the 24-hour battery life on the XX, comparing it to previous versions of the iPhone and suggesting that the A22 Pro Bionic chip has improved efficiency.
-
-Comment: 
-Sentiment: I love this new computer!''
-
-The sentiment of the comment is positive.
-
-Comment: •”All new design” with titanium and 5% more rounded edges. 
-Sentiment: Neutral
-
-Comment: 
-Sentiment: The new movie is terrible!''
+Sentiment: That was a disgusting meal''
 
 Negative
 
+Comment: •Removal of USB-C and physical buttons to make it a slab. Something something courage. 10 minute long talk about how it was the most ambitious thing Apple has ever did. Because of this, no cable in the box, no paper or Apple stickers, just the phone and box. IP69 resistance. Something something first ever carbon neutral phone. 
+Sentiment: Daunting
+
+Comment: 
+Sentiment: That was a great movie''
+
+Positive
+
+Comment: •Battery life on the XX is 24 hours of video playback. Best battery life ever on an iPhone thanks to the efficiency of the A22 Pro Bionic chip. Insert comparison sheet showing the iPhone 15 Pro having 23 hours to show how the battery improved over the years 
+Sentiment: Positive
+
+Comment: 
+Sentiment: That story was so boring!
+
+Negative.
+
+Comment: •”All new design” with titanium and 5% more rounded edges. 
+Sentiment: Positive
+
+Comment: 
+Sentiment: The news is really shocking!'
+
+Surprising.
+
 Comment: •MagSafe transfer - some new technology that allows Apple to wirelessly move data through MagSafe; only available through the MagSafe thunderbolt which is $129.99 Processed
-Sentiment: Neutral
+Sentiment: Neutral.
 
 Comment: It will be the best, fastest and most advanced iPhone ever created when it is released. Processed
 Sentiment: Positive
 
 Comment: The iPhone 20 Pro is going to be an iPhone. Processed
-Sentiment: The sentiment of this comment is neutral.
-
-Comment: Better battery life in general. That would be the next big leap in the smartphone. Imagine week long battery life. Processed
-Sentiment: The sentiment of the comment is optimistic. The speaker is looking forward to the next big leap in the technology of smartphones, and is excited about the possibility of long battery life.
-
-Comment: Put 120hz refresh on the smaller model so that it can have 60hz down to 1hz for battery life. Processed
 Sentiment: Neutral
 
+Comment: Better battery life in general. That would be the next big leap in the smartphone. Imagine week long battery life. Processed
+Sentiment: Optimistic
+
+Comment: Put 120hz refresh on the smaller model so that it can have 60hz down to 1hz for battery life. Processed
+Sentiment: Positive
+
 Comment: That won't come until the iphone 26. Processed
-Sentiment: This comment appears to be neutral. The speaker does not express a feeling or emotion one way or another.
+Sentiment: Sarcastic
 
 Comment: I would give it 50-50 as in I would neither be surprised if they did nor if they didn’t. The 11 series smart battery cases had a dedicated camera button which was actually pretty handy.
 Sentiment: Neutral.
 
 Comment: 
-Sentiment: That was a fantastic movie!
+Sentiment: I love this movie''
 
-Positive sentiment
+Positive
 
 Comment: I can see that they wouldn’t necessarily want to add more physical buttons to the iPhone, but if they’re able to set up a capacitive button, then why not? Processed
-Sentiment: The sentiment of this comment is neutral. The speaker presents an opinion but does not show a strong leaning towards or against the potential of adding physical buttons to the iPhone.
-
-Comment: Technically they replaced a slider with a button this time. So I don’t think it would be crazy. Processed
-Sentiment: Neutral. The comment does not express a strong opinion one way or the other, just an acknowledgment of the switch from a slider to a button.
-
-Comment: Just several months ago the rumors said they will remove all buttons and replace it with touch sensitive sides. Processed
 Sentiment: Neutral
 
+Comment: Technically they replaced a slider with a button this time. So I don’t think it would be crazy. Processed
+Sentiment: Neutral.
+
+Comment: Just several months ago the rumors said they will remove all buttons and replace it with touch sensitive sides. Processed
+Sentiment: Skeptical
+
 Comment: Same. Processed
-Sentiment: The sentiment of this comment is neutral.
+Sentiment: Neutral.
 
 Comment: [deleted] Processed
-Sentiment: Neutral.
+Sentiment: Neutral
 
 Comment: If it hides the dynamic island in 18:9 videos I'm all in. Processed
 Sentiment: Positive
 
 Comment: Narrower but taller like all the other phones out there would be great. Processed
-Sentiment: The sentiment expressed in this comment is positive. The commenter is expressing a desire for a certain design, implying that they would appreciate it if it were implemented.
+Sentiment: Positive
 
 Comment: Did you really not notice that phones hit a technological plateau in the past 4-5 years? Processed
-Sentiment: Neutral
+Sentiment: Skeptical.
 
 Comment: What's more likely is that it's the same button with deeper functionality. For example, when in the camera app, perhaps applying slight pressure to the button will result in engaging focus. Processed
-Sentiment: The sentiment of the comment is neutral.
+Sentiment: Neutral.
 
 Comment: lol they already gave us an action button, I’m not even sure what this would be Processed
-Sentiment: The sentiment of this comment is neutral.
+Sentiment: Confused.
 
 Comment: Remember that they have to digital zoom the gap between 2x and 5x as-is. I feel like 10x is too big of a jump for that. You’d have some very blurry, like, 8x photos that then snap to completely clear at 10x haha.
-Sentiment: The sentiment in this comment is neutral. The speaker is not expressing a particular emotion, but simply making an observation.
+Sentiment: Ambivalent.
 
 Comment: 
-Sentiment: I'm so over this hot weather''
+Sentiment: The tone of the seminar was very positive
 
-The sentiment in this comment is frustration.
+Positive.
 
 Comment: The only alternative would be to put in a massive 100MP sensor or something for the main lens. But I can’t see Apple doing that. They tend to prefer better light capture over sheer megapixels, so the lens itself would have to be massive.
 Sentiment: Neutral
 
 Comment: 
-Sentiment: The food at this restaurant was delicious''
+Sentiment: The food was absolutely disgusting
 
-The sentiment of this comment is positive.
+Disgusting
 
 Comment: EDIT: I suppose they could also put a 48MP sensor in the 5x zoom lens, which could then crop. That would be an interesting, albeit expensive, possibility… But I honestly see them doing this first in the ultra-wide for the high-res spatial video application. Processed
-Sentiment: The sentiment in this comment is neutral. The speaker expresses an interest in the possibility of a feature, but does not speak positively or negatively about it.
-
-Comment: Honestly, all I’m hoping for the 16 is a general refinement, and fixing the issues the 15 has. If the 16s have a more efficient chip, better battery life, better cameras and the 16 Pro gets the 5x tetraprism camera, I’ll be happy. Processed
-Sentiment: The sentiment expressed in this comment is overall neutral. While the speaker expresses hope and a desire for better products, there is no overt emotion of excitement or anticipation.
-
-Comment: don't worry you can use it for 12 months before it's outdated Processed
-Sentiment: The sentiment of this comment is positive.
-
-Comment: Overall, I agree. I do think Dynamic Island, not as a clever trick to hide the hole punch, but in terms of live activities, is pretty neat. But I know that’s an opinion with variable mileage.
-Sentiment: The sentiment of this comment is positive. The writer agrees with the idea of Dynamic Island, and they view it positively in terms of live activities. They recognize that opinions may vary, but overall, this comment expresses agreement and admiration.
-
-Comment: 
-Sentiment: This movie was very thrilling and exciting!''
-
-Positive
-
-Comment: So until we hit under screen cameras which I think would be for 2027 at the earliest… Processed
-Sentiment: This comment is neutral in sentiment.
-
-Comment: Wait… you don’t mean… so you’re saying that the iPhone 20 Pro is going to be the best iPhone they’ve ever made when they will release it?? Processed
-Sentiment: The sentiment of the comment is excitement and anticipation.
-
-Comment: But will it have USB C? 🤔 Processed
 Sentiment: Neutral
 
-Comment: Is it really that hard to plug in your phone though? Like having a FULL day battery life, and by that I mean 16-20 hours of screen on time would be amazing. Never need to worry even on the longest day. But I can’t see a reason to need a whole week Processed
+Comment: Honestly, all I’m hoping for the 16 is a general refinement, and fixing the issues the 15 has. If the 16s have a more efficient chip, better battery life, better cameras and the 16 Pro gets the 5x tetraprism camera, I’ll be happy. Processed
+Sentiment: Hopeful.
+
+Comment: don't worry you can use it for 12 months before it's outdated Processed
+Sentiment: Encouraging
+
+Comment: Overall, I agree. I do think Dynamic Island, not as a clever trick to hide the hole punch, but in terms of live activities, is pretty neat. But I know that’s an opinion with variable mileage.
 Sentiment: Positive
 
-Comment: > Imagine week long battery life.
-Sentiment: The sentiment of this comment is positive.
-
 Comment: 
-Sentiment: That movie was absolutely terrible''
+Sentiment: This company is terrible to work for.''
 
 Negative
 
-Comment: This will never happen, ever.
-Sentiment: Negative
+Comment: So until we hit under screen cameras which I think would be for 2027 at the earliest… Processed
+Sentiment: Neutral
+
+Comment: Wait… you don’t mean… so you’re saying that the iPhone 20 Pro is going to be the best iPhone they’ve ever made when they will release it?? Processed
+Sentiment: Surprised
+
+Comment: But will it have USB C? 🤔 Processed
+Sentiment: Curious
+
+Comment: Is it really that hard to plug in your phone though? Like having a FULL day battery life, and by that I mean 16-20 hours of screen on time would be amazing. Never need to worry even on the longest day. But I can’t see a reason to need a whole week Processed
+Sentiment: Hopeful.
+
+Comment: > Imagine week long battery life.
+Sentiment: Positive
 
 Comment: 
-Sentiment: What a wonderful movie!
+Sentiment: I'm so excited to see this movie!''
+
+Positive
+
+Comment: This will never happen, ever.
+Sentiment: Negative.
+
+Comment: 
+Sentiment: Life is an adventure full of surprises"
 
 Positive
 
 Comment: If they could make it last a week, they could also make it faster/smaller/more features instead, and consumers will overwhelmingly prefer the latter. Processed
-Sentiment: The sentiment of this comment is neutral. It is not expressing any opinion or feeling. The comment is presenting a logical argument that if something could be done in a certain way, consumers would prefer that way over another way.
+Sentiment: Optimistic.
 
 Comment: 120hz is and has always been on the smaller model Processed
-Sentiment: Neutral. This comment does not express strong feelings of any kind, so the sentiment can be seen as neutral.
+Sentiment: Neutral.
 
 Comment: Seems like he/she/it did! Processed
-Sentiment: The sentiment of this comment is positive.
+Sentiment: Positive
 
 Comment: iPhone peaked in 2017 with X. Processed
-Sentiment: The sentiment of this comment is neutral.
+Sentiment: Declining.
 
 Comment: I would argue even before that. What's the deal every year?
-Sentiment: Neutral
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: It's so annoying how people keep changing their minds all the time!''
+Sentiment: This movie was horrible!
 
 Negative
 
 Comment: New features to the OS? Check
-Sentiment: The sentiment of this comment is positive.
-
-Comment: 
-Sentiment: It's so amazing to be here!''
-
-The sentiment of the comment is very positive and ecstatic.
-
-Comment: Your camera is better than last year's camera? Check
 Sentiment: Neutral
 
 Comment: 
-Sentiment: I actually do like this movie''
+Sentiment: This game is really awesome!
+
+Positive
+
+Comment: Your camera is better than last year's camera? Check
+Sentiment: Curious.
+
+Comment: 
+Sentiment: What an incredible performance!''
 
 Positive
 
 Comment: You put a new more powerful chip that's more powerful than last chip in it, power that most users will never use or notice? Check
-Sentiment: The sentiment of this comment is neutral.
-
-Comment: 
-Sentiment: It's no use crying over spilled milk''
-
-The sentiment of the comment could be interpreted as "Accept your mistakes and move on".
-
-Comment: Maybe a slight hardware design change but really you're still playing around with glass rectangles? Check
 Sentiment: Neutral
 
 Comment: 
-Sentiment: The weather has been so nice lately''
+Sentiment: I'm not impressed ''
+
+Negative.
+
+Comment: Maybe a slight hardware design change but really you're still playing around with glass rectangles? Check
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: It's an awesome place''
 
 Positive
 
 Comment: Only thing really happened is that phones got bigger since after the days of the iPhone 5 and the Android phones of the time, and we got foldables now which are just a combo phone/tablet, the real "phablet".
-Sentiment: This comment appears to be neutral. The commentator is simply describing how phones have changed from the iPhone 5 and Android phones of the past, to foldable phones which are a combination of a phone and tablet, or "phablet". They
-
-Comment:  
-Sentiment: The comment has no sentiment as it is left blank.
-
-Comment: Louis Rossman said it best in response to one of his chat members when the chat member asked was he going to watch the Samsung event one year
 Sentiment: Neutral
 
+Comment:  
+Sentiment: Neutral.
+
+Comment: Louis Rossman said it best in response to one of his chat members when the chat member asked was he going to watch the Samsung event one year
+Sentiment: Positive
+
 Comment: 
-Sentiment: I love the way it smells''
+Sentiment: That sounds like a great idea
 
 Positive
 
 Comment: "Why do I need to watch that?  It's the same thing every year they tell you the new phone is more powerful and the camera is better" Processed
-Sentiment: Negative
+Sentiment: Frustration
 
 Comment: > For example, when in the camera app, perhaps applying slight pressure to the button will result in engaging focus.   
-Sentiment: The sentiment of the comment is neutral.
+Sentiment: Neutral
 
 Comment: 
-Sentiment: I had a great time at the restaurant last night.''
+Sentiment: That movie was awesome!''
 
 Positive
 
 Comment: I'm fairly certain my old Nokia Lumia 930 (rip Windows Phone) had that feature. Processed
-Sentiment: The sentiment of this comment is neutral.
+Sentiment: Nostalgic
 
 Comment: Not that expensive; google of all companies already does that. Processed
-Sentiment: The sentiment expressed in this comment is neutral.
+Sentiment: Neutral
 
 Comment: S23 Ultra has both a 3x and 10x telephoto. I think the implication would be adding a 4th lens, rather than relying on computation. Processed
-Sentiment: The sentiment of this comment is positive. The speaker appears to appreciate the addition of the 3x and 10x telephoto lenses on the S23 Ultra, and thinks that a fourth lens is preferable to relying on computation.
+Sentiment: Positive
 
 Comment: 13 series was peak. 120hz, Major battery jumps, major camera jumps, major performance jumps. 
 Sentiment: Positive
 
 Comment: 
-Sentiment: I'm disappointed in this product''
+Sentiment: It's a nice day today''
 
-Negative
+Positive
 
 Comment: Since the 13 l they have made no improvements in battery, some would argue regressed. Performance hasn’t been pushing the envelope, the 15 brought good camera improvements. 
-Sentiment: The sentiment expressed in this comment can be seen as generally negative. The commenter is implying that no improvements have been made with battery since the 13l and that performance is not pushing the envelope. They also argue that the 15 brought good camera improvements
+Sentiment: Mixed.
 
 Comment: 
-Sentiment: I just feel like I'm getting nowhere in life''
+Sentiment: Your service is amazing''
 
-Negative
+Positive
 
 Comment: Overall the 13 pro max had the most improvements in a single release. Processed
-Sentiment: The sentiment of the comment is positive.
+Sentiment: Positive
 
 Comment: Yes, and they think you will love it. Processed
 Sentiment: Positive
 
 Comment: Next week. These rumors of a release when the 15 just came out are silly. Processed
-Sentiment: Neutral
+Sentiment: Skeptical.
 
 Comment: D. It’ll have USB-D. Processed
-Sentiment: Neutral.
+Sentiment: Positive
 
 Comment: Ah yes, our typical r/apple poster.
-Sentiment: The sentiment of the comment is negative.
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: This movie was a complete waste of time.''
+Sentiment: I am so thrilled''
 
-The sentiment of this comment is negative.
+Positive
 
 Comment: Why do you want more ram, don't you know iphone has memory management? Why do you want more storage, don't you use cloud? Why do you want 120hz, don't you know human eyes can't see it? And the beauty of why do you want all week battery life, don't you charge your phone daily?
-Sentiment: Neutral. This comment does contain questions, but there is no indication of emotion one way or the other.
+Sentiment: Skeptical.
 
 Comment: 
-Sentiment: That was a terrible movie!''
+Sentiment: I am so pleased with this product''
 
-The sentiment of this comment is negative.
+Positive
 
 Comment: The tone always changes when apple comes out with the feature, and then it's revolutionary. 
 Sentiment: Positive
 
 Comment: 
-Sentiment: I have never had a better experience.
+Sentiment: I love this phone!''
 
-The sentiment expressed in this comment is positive.
+Positive
 
 Comment: Amazing. Processed
 Sentiment: Positive
 
 Comment: It’s not but technology has to progress isn’t it? I would rather have a week long battery life than an octagonal prism camera that shows all my subjects nose hairs in excruciating detail. Processed
-Sentiment: The sentiment of this comment is positive. The speaker is acknowledging that technology needs to progress but also expressing a preference for more practical improvements such as a longer battery life rather than more technical advances, such as a camera that shows detail too clearly.
+Sentiment: Ambivalent
 
 Comment: I think it’s bigger than that. What about Apple’s “going green” narrative? Wouldn’t one charge a week per iPhone conserve monstrous amount of energy vs daily charges? 
 Sentiment: Positive
 
 Comment: 
-Sentiment: I absolutely love this movie!''
+Sentiment: This book was absolutely fabulous!''
 
-The sentiment of this comment is positive.
+Positive
 
 Comment: On top of that, the battery would have significantly less cycles over time. It’d last longer. Less electronic waste. Just some food for thought though — I’m sure we’re a long ways away. Processed
-Sentiment: The sentiment of the comment is optimistic. The speaker is discussing a potential positive outcome of battery improvements, suggesting that batteries lasting longer would reduce electronic waste. Despite the speaker acknowledging that the idea is far off in the distant future, they remain optimistic
+Sentiment: Optimistic.
 
 Comment: *iPhone 13 and iPhone 13 Mini have entered the chat* Processed
-Sentiment: The sentiment of this comment is likely neutral. It is simply making a statement about the fact that the new iPhones have been released and does not indicate an opinion or emotion.
+Sentiment: Excited.
 
 Comment: Long ago my Droid X had a dedicated camera button that did this. It was okay. Processed
-Sentiment: The sentiment of this comment is neutral.
+Sentiment: Neutral.
 
 Comment: I knew the pixel 7 pro had a 48MP telephoto lens, but they compromised quite heavily on the aperture to get to that. The 8 Pro seems to basically be caught up to the 15PM telephoto on that front, though, even with a 48MP sensor. Interesting. I wonder if that advancement in aperture caught Apple off guard. 
-Sentiment: Neutral sentiment. The comment expresses curiosity without indicating any positive or negative opinion.
+Sentiment: Neutral
 
 Comment: 
-Sentiment: I could not have been more delighted by the chef's cooking.''
+Sentiment: What a joyous occasion''.
 
-The sentiment of this comment is positive.
+Positive
 
 Comment: A 16PM with triple 48MP sensors at today’s apertures would be an absolute beast both for 10x optical zoom and 4K spatial video (cropped wide angle plus the main lens) — while maintaining that low light performance that Apple seems to always be very concerned about.
 Sentiment: Positive
 
 Comment: 
-Sentiment: The movie was awful!''
+Sentiment: Very cool!
 
-The sentiment of the comment is negative.
+Positive
 
 Comment: I could definitely see them doing that for the 16PM if they’ve figured it out by then since Google is forcing their hand. And my tangential prediction is then that the 15’s spatial video will probably be limited to 1080p since the 12MP wide sensor will need to be cropped. Then the 48MP jump for the wide angle will allow 4K for the next gen, and 60fps for the gen after that (because you know Apple likes their software-gated incrementalism lol). Processed
-Sentiment: The sentiment of this comment is optimistic. The speaker anticipates progress by the 16PM and predicts features for subsequent generations of a product. There is a hint of sarcasm towards Apple, which implies that the speaker is excited for the progress of
-
-Comment: USB D eez nutssss Processed
-Sentiment: This comment does not contain any sentiment, as it is an incomplete sentence that does not convey an opinion or feeling.
-
-Comment: People have forgotten or probably are not old enough to used those Nokia phones that lasted 2-3 days and how it used to feel Processed
-Sentiment: The sentiment of this comment is generally positive. It acknowledges the nostalgia and value of the old Nokia phones, and the positive memories of how it used to feel.
-
-Comment: Nah, i want more ram, more storage, thinks I actually use on my phone. I’d like longer battery life, but only to the point of 1 or 2 days. I don’t gain anything from only charging once a week. It’s so easy to set it on a MagSafe charger I don’t see what you gain? 5 seconds every evening? It’s undoubtedly better to have a week long battery than not, but no one offers that. And the reason why is the tradeoffs are way too high for your average user. If you want a week long battery then get an old Nokia and use that😂 Processed
-Sentiment: Overall, the sentiment of this comment seems to be one of dissatisfaction with current  phone designs that do not provide users with enough RAM, storage, or battery life. This commenter also seems to be making a joke in the end about using an
-
-Comment: Well that's fine. But I do think your average customer prefers an amazing camera vs the "convenience" of only charging once a week. It's not that hard to just plug in the phone IMO. Build the best phone possible and just make the battery last for the longest day imaginable but no more. Processed
-Sentiment: The sentiment of this comment is neutral. The speaker does not appear to be positive or negative in the statement, but merely providing an observation that the average customer may prefer a great camera over the convenience of only needing to charge the phone once a
-
-Comment: I'd probably be want a better camera, I can always plug in for battery or have a battery back up. Just my opinion. Processed
-Sentiment: The sentiment expressed in the comment is neutral. The speaker expresses an opinion about wanting a better camera and suggests a potential solution, but does not appear to be overly enthusiastic or displeased.
-
-Comment: The camera has a long, long way to go. The battery life doesn’t. Processed
-Sentiment: Negative sentiment. The comment is implying that the camera needs a lot of improvement, and the battery life is already unsatisfactory.
-
-Comment: Well it would in theory consume the same amount of power either way. Say 1 unit of power 7 times in 7 days. Or 7 units of power in 1 days that then last for 7 days. It would keep batteries lasting longer bc as you say fewer cycle counts. But I don’t think most people are actually replacing their phone because of the battery being bad, they could replace just the battery. I would like a longer battery life sure but I just don’t think that’s a game changer. It’s easy enough to charge the phone every other day or every day that it’s not a huge advantage Processed
-Sentiment: Neutral. The sentiment of this comment is neutral, as the speaker expresses both pros and cons of the idea and provides their own opinion.
-
-Comment: Gottem. Processed
 Sentiment: Neutral
 
+Comment: USB D eez nutssss Processed
+Sentiment: Ironic.
+
+Comment: People have forgotten or probably are not old enough to used those Nokia phones that lasted 2-3 days and how it used to feel Processed
+Sentiment: Nostalgic.
+
+Comment: Nah, i want more ram, more storage, thinks I actually use on my phone. I’d like longer battery life, but only to the point of 1 or 2 days. I don’t gain anything from only charging once a week. It’s so easy to set it on a MagSafe charger I don’t see what you gain? 5 seconds every evening? It’s undoubtedly better to have a week long battery than not, but no one offers that. And the reason why is the tradeoffs are way too high for your average user. If you want a week long battery then get an old Nokia and use that😂 Processed
+Sentiment: Frustrated.
+
+Comment: Well that's fine. But I do think your average customer prefers an amazing camera vs the "convenience" of only charging once a week. It's not that hard to just plug in the phone IMO. Build the best phone possible and just make the battery last for the longest day imaginable but no more. Processed
+Sentiment: Neutral.
+
+Comment: I'd probably be want a better camera, I can always plug in for battery or have a battery back up. Just my opinion. Processed
+Sentiment: Balanced.
+
+Comment: The camera has a long, long way to go. The battery life doesn’t. Processed
+Sentiment: Negative
+
+Comment: Well it would in theory consume the same amount of power either way. Say 1 unit of power 7 times in 7 days. Or 7 units of power in 1 days that then last for 7 days. It would keep batteries lasting longer bc as you say fewer cycle counts. But I don’t think most people are actually replacing their phone because of the battery being bad, they could replace just the battery. I would like a longer battery life sure but I just don’t think that’s a game changer. It’s easy enough to charge the phone every other day or every day that it’s not a huge advantage Processed
+Sentiment: Neutral.
+
+Comment: Gottem. Processed
+Sentiment: Positive
+
 Comment: How bout just doing both? It doesn’t have to be either or. Kinda weird mentality to ask someone how convenient it is to plug ones phone in daily. Kinda like just saying how convenient is it to just walk everywhere instead of inventing cars. Processed
-Sentiment: Positive sentiment. The comment acknowledges the question itself, but gently critiques the comparison between cars and plugging in a phone. It also suggests a solution for both.
+Sentiment: Balanced.
 
 Comment: We’re talking about a theoretical huge technological leap here, which in your example would mean 1 unit of power 1 time lasts 7 days Processed
 Sentiment: Neutral.
 
 Comment: [deleted] Processed
-Sentiment: Neutral: Without the context of the original comment, it is impossible to determine what emotion the commentor was attempting to convey.
+Sentiment: Neutral
 
 Comment: Because there are literally always design constraints. That’s what engineering is. Optimizing output given inputs and certain parameters. Your parameter would be the best battery life possible, or I guess the best of everything? But then you would have to throw out caring about size, weight, or probably price. Processed
-Sentiment: The sentiment of this comment is neutral. The speaker appears to be making a logical observation of the limitations of engineering design without expressing an emotional opinion.
+Sentiment: Balanced.
 
 Comment: Wut Processed
-Sentiment: This comment is not emotionally charged and appears to be neutral or even confused.
+Sentiment: Unknown.
 
 Comment: And design constraints should be overcome by better engineering or better science. Once again, doesn’t have to be either or. So we should just keep the current battery life until 100 years in the future? Because “design constraints” Processed
-Sentiment: This comment is fairly neutral in sentiment. The author expresses a desire to overcome design constraints, but also suggests that maintaining the current battery life could be an acceptable, albeit temporary, solution.
+Sentiment: Neutral.
 
 Comment: Yea, eventually it will. I have 0 doubts that a phone in 100 years could have all week battery life if that’s what people wanted. But it sounds like you want it NOW. Also Apple doesn’t do battery science research as far as I know. They buy batteries. And what you want literally does not exist😂 Processed
-Sentiment: This comment has a positive sentiment, as the speaker acknowledges that if people wanted phones with a week of battery life in 100 years, it could be a reality. The speaker's tone is lighthearted, as they joke about the fact that what
+Sentiment: Hopeful.
 
 Comment: The thing is, they're choosing features over battery life. Every watch has had the same battery life, but each new watch has had new sensors, brighter screens, etc. That all requires more power. 
-Sentiment: The sentiment of this comment is neutral. The speaker is expressing understanding as to why features are being chosen over battery life, but they are not expressing any kind of opinion on the matter.
+Sentiment: Inefficient.
 
 Comment: 
-Sentiment: The new iPhone is too expensive''
-
-This comment expresses a negative sentiment about the new iPhone, indicating that the person believes it is too expensive.
-
-Comment: They *are* improving the battery life, and then they're putting those improvements to use.
-Sentiment: This comment is generally positive in sentiment. It acknowledges that the company is making improvements and actively utilizing them.
-
-Comment: 
-Sentiment: I adore Apple products!''
+Sentiment: I had a great time at the zoo today''
 
 Positive
 
-Comment: Personally, I'd prefer a longer battery life. Not because I wouldn't charge my watch every single day anyway - I can't imagine wearing it into the shower or bath. But because it'd be nice never to have to think about charging it. And, while I'm not a long-distance runner myself, I've seen runners on here making posts saying that a single charge wouldn't last a half-marathon, let alone a marathon. That's got to suck, if that's what you're in to and you don't want a separate fitness tracker or to upgrade to an Ultra.
-Sentiment: The sentiment in this comment is overall positive. The person expresses that they would prefer a longer battery life but acknowledges that they can easily charge their watch every day. They also express empathy with runners, acknowledging how inconvenient it can be if the battery
+Comment: They *are* improving the battery life, and then they're putting those improvements to use.
+Sentiment: Positive
 
 Comment: 
-Sentiment: The concert was a total disaster.''
+Sentiment: This movie was dreadful''
 
 Negative
 
-Comment: And when it comes to sensors, I personally think that health sensors are pointless unless they can give readings which are accurate enough to be classed as medical information. So far it's only the EKG and pulse measurements that that's true for. But blood oxygen, for example, isn't accurate. And Apple aren't willing to put in the time and money it'd need to make it accurate and have it approved as being accurate. So ATM it's just a gimmick. But it's a gimmick which is a selling point, and Apple have decided that it's a better selling point than an extra few hours' battery life.
-Sentiment: This comment has a slightly negative sentiment. The speaker is expressing their opinion that health sensors are not particularly useful, and they criticize Apple for choosing to focus on gimmicks rather than battery life.
+Comment: Personally, I'd prefer a longer battery life. Not because I wouldn't charge my watch every single day anyway - I can't imagine wearing it into the shower or bath. But because it'd be nice never to have to think about charging it. And, while I'm not a long-distance runner myself, I've seen runners on here making posts saying that a single charge wouldn't last a half-marathon, let alone a marathon. That's got to suck, if that's what you're in to and you don't want a separate fitness tracker or to upgrade to an Ultra.
+Sentiment: Optimistic
 
 Comment: 
-Sentiment: That's such a great decision!''
+Sentiment: What a let down''
 
-Positive
+Disappointment.
+
+Comment: And when it comes to sensors, I personally think that health sensors are pointless unless they can give readings which are accurate enough to be classed as medical information. So far it's only the EKG and pulse measurements that that's true for. But blood oxygen, for example, isn't accurate. And Apple aren't willing to put in the time and money it'd need to make it accurate and have it approved as being accurate. So ATM it's just a gimmick. But it's a gimmick which is a selling point, and Apple have decided that it's a better selling point than an extra few hours' battery life.
+Sentiment: Ambivalent.
+
+Comment: 
+Sentiment: I'm so angry right now''
+
+Angry.
 
 Comment: Same's true for a bunch of things, including having coloured backgrounds for widgets and apps now.
-Sentiment: The sentiment of this comment is neutral. It is making a statement of fact without expressing any opinion.
+Sentiment: Neutral.
 
 Comment: 
-Sentiment: I love my job''
+Sentiment: What a fantastic movie!''
 
 Positive
 
 Comment: The point is - whether you or I like it or not - they *have* implemented "better engineering" and "better science". The batteries *are* better than they used to be. And, in fact, tech journals seem to think that these days Apple is under-reporting battery life with normal usage. But the reason that the battery doesn't seem like it's got better is because they've implemented more features which *drain* the battery, and they've balanced those against advancements in battery technology. Processed
-Sentiment: This comment appears to have a positive sentiment about the improvements in Apple's battery technology. The speaker acknowledges the improvements in engineering and science, as well as the improved battery life, and the fact that Apple may actually be under-reporting it.
+Sentiment: Balanced
 
 Comment: … I’m not wanting it now. I want it to happen eventually. Of course it doesn’t exist now, it has to be invented. I’m glad people in charge of research and development don’t have the same mentality as you. If not we’ll be cycling here and there and when people want to invent cars, you’ll be at the forefront saying “ackchyually how hard is it just to cycle or walk everywhere” Processed
-Sentiment: The sentiment of this comment appears to be slightly negative. The speaker implies that the person being addressed is too rigid in their view of things, and is critical of how that person might impede invention and progress.
+Sentiment: Hoppable.
 
 Comment: lol, I think my view is closer to apples than yours. You say who cares about these new camera lenses (clearly Apple does and they think their customers do) they’ve made very little effort in talking about extending battery life. You’re trying to solve a problem that doesn’t exist 😂 it’s a nice to have for sure but it’s really not an issue. Ask around if you don’t believe me Processed
-Sentiment: The sentiment of the comment is sarcastic, amused, and dismissive.
+Sentiment: Sarcastic.
 
 Comment: Hahah wonder who died and made you representative of Apple master race. The moment Apple announces a phone with superior battery life, you’ll be at the forefront saying yes it’s about time yes Apple yes oh yes god yes. Processed
-Sentiment: The sentiment of this comment is slightly negative. The speaker appears skeptical towards the person they are referring to and is mocking them for their enthusiasm for the company Apple.
+Sentiment: Sarcastic
 
 Comment: Never said I wouldn’t like it. But if it made the phone otherwise worse then yea I wouldn’t. I have 0 issues with battery on a 14PM. The OG comment I replied to was “Better battery life in general. That would be the next big leap in the smartphone. Imagine week long battery life.” And all I was saying is I disagree that is “the next big leap”. It would be a very minor change in how we use phones. So you set it down on the charge 1/7 as much. It’s really not a gamecharger IMO. Truly i don’t think smartphones will make a big leap again. It’s just going to be continuous refinement until we replace it with the next form factor. And of course I don’t represent Apple lmao, but I do know plenty of people who have and do work there so not totally removed. Battery life is no where near a top want IMO and have literally never heard anyone complain about the battery life of a new phone, just once it’s worn out and they haven’t bothered to get a replacement 🤷🏻‍♂️ Processed
-Sentiment: neutral
+Sentiment: Neutral.
 
 Comment: >but I do know plenty of people who have and do work there so not totally removed
-Sentiment: Positive
+Sentiment: Positive.
 
 Comment: 
-Sentiment: Your product is awesome!''
+Sentiment: This movie was incredibly boring'
 
-Positive
+Negative.
 
 Comment: Is this the "my uncle works at nintendo" of Apple? Basically all you have right there is your own opinion, which is worth as much as mine. And my opinion is that I concur with the OG comment. Week long battery life will be the next big leap. Processed
-Sentiment: The sentiment of this comment is positive as the author agrees with the original comment and believes that a week long battery life will be the next big leap.
+Sentiment: Agreement.
 
 Comment: That’s fine, we each have our opinions and I disagree. And looking at apples history it seems they probably do too. Every year they make the phone faster and advertise that, but they don’t focus on battery life. I’ve heard people complain about their phone being too slow after a few years, never heard someone complain that the battery didn’t last a week. They just want it to last a day Processed
-Sentiment: The sentiment of the comment is broadly negative. The speaker is suggesting that Apple does not prioritize extending battery life, and instead focuses on touting the speed of their products. They also assert that people complain about phone speeds more often than battery life,
+Sentiment: Disagreeable
 

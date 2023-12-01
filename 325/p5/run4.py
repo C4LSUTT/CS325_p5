@@ -12,7 +12,7 @@ def analyze_sentiments(comments):
         try:    
             response = openai.Completion.create(
                 engine="text-davinci-003",
-                prompt=f"Analyze the sentiment of the following comment: '{comment}'",
+                prompt=f"Analyze the sentiment of the following comment in one word: '{comment}'",
                 max_tokens=50,
                 api_key=api_key
             )
@@ -36,9 +36,9 @@ def perform_sentiment_analysis(input_file_path, output_file_path):
             results = analyze_sentiments(comment_group)
             for result in results:
                 output_file.write(f"Comment: {result[0]}\n")
-                output_file.write(f"Sentiment: {result[1]}\n\n")
+                output_file.write(f"Sentiment: {result[1]}\n")
                 output_file.flush()  # Ensure writing to the file
-            time.sleep(60)  # Wait for a minute between groups of comments
+            time.sleep(.5)  # Wait for a minute between groups of comments
 
 # List of input and output file paths
 file_paths = [
@@ -49,7 +49,7 @@ file_paths = [
     ("Data\processed\\processed_data_3.txt",
      "Data\processed\\sentiment_analysis_3.txt"),
     ("Data\processed\\processed_data_4.txt",
-     "Data\processed\\sentiment_analysis_4.txt")
+     "Data\processed\\sentiment_analysis_4.txt"),
      ("Data\processed\\processed_data_5.txt",
       "Data\processed\\sentiment_analysis_5.txt")
 ]
