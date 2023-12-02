@@ -13,13 +13,13 @@ The project consists of the following components:
 
 - `run3.py`: The Python script that coordinates the execution of the first part of this project. It takes a file of Reddit post URL as a command-line argument and uses the modules to retrieve and process comments.
 - `run4.py`: The Python script containing the second part of the project. It takes your previously made processed.txt files and uses devinci from the open ai api to analyze the sentiment of the comments from the Reddit post.
-- `PlotSentiment.py`: The Python script that gathers the data from the sentiment analysis and graphs it.
+- `PlotSentiments.py`: The Python script that gathers the data from the sentiment analysis and graphs it.
 
 - `Data/` directory: Contains subdirectory and processed data.
     - `processed/`: Stores the processed comment data.
     - `sentiment_analysis.txt`: Stores the sentiments of comments given by the chatbot.
     - `processed_data.txt`: stores the processed comments from the reddit urls.
-    - `plot.png`: shows the graphed sentiment data.
+    - `SentimentPlot.png`: shows the graphed sentiment data.
 ## Usage
 
 To use this project, follow these steps:
@@ -43,7 +43,7 @@ To use this project, follow these steps:
 
 9. The script will take your analyzed comments and ask the Devinci chatbot what the sentiment of each comment is, then save it to `sentiment_analysis.txt`
 
-10. run the `PlotSentiment.py` script on the command line (you may have to use `python 325\p5\\PlotSentiment.py` as the command)
+10. run the `PlotSentiments.py` script on the command line (you may have to use `python 325\p5\\PlotSentiments.py` as the command)
 
 11. The script will take your ai responses and graph them using mathplotlib 
 
