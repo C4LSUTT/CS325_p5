@@ -11,7 +11,7 @@ from module3.process3 import process_data, save_processed_data_with_index  # Imp
 if __name__ == "__main__":
     # Check if the command-line arguments include URLs
     if len(sys.argv) < 2:
-        print("Usage: python3 run.py URL1 URL2 URL3 URL4")
+        print("Usage: python3 run.py URL")
         sys.exit(1)
 
     # Get the Reddit post URLs from the command-line arguments
